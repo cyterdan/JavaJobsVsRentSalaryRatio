@@ -6,8 +6,9 @@ with open('cityData', 'rb') as handle:
 
 
 with open("cities","wb") as output : 
+	output.write("["+"City"+",RentSalaryRation"+",JavaJobs"+",State"+",Population],\n")
 	for place in places :
 		if 'rentSalaryRatio' in place and 'javaJobs' in place : 
-			output.write(place['city']+"\t"+place['state']+"\t"+place['population']+"\t"+str(place['javaJobs'])+"\t"+str(place['rentSalaryRatio'])+"\n")
+			output.write("['"+place['city']+"',"+str(place['rentSalaryRatio'])+","+str(place['javaJobs'])+",'"+place['state'].replace("'","")+"',"+str(place['population'].replace(",",""))+"],\n")
 
 

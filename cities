@@ -1,203 +1,204 @@
-New York	New York	8,491,079	7080	1.66832068386
-Los Angeles	California	3,928,864	2236	1.12779237306
-Chicago	Illinois	2,722,389	2972	0.967812298471
-Houston	Texas	2,239,558	717	0.854889837835
-Philadelphia	Pennsylvania	1,560,297	1997	1.07399016501
-Phoenix	Arizona	1,537,058	1147	0.494270591848
-San Antonio	Texas	1,436,697	425	0.619856518512
-San Diego	California	1,381,069	1084	0.971701937324
-Dallas	Texas	1,281,047	2771	0.677438385309
-San Jose	California	1,015,785	8056	0.772143121585
-Austin	Texas	912,791	1491	0.909529300416
-Jacksonville	Florida	853,382	194	0.623715639109
-San Francisco	California	852,469	6115	1.54088501475
-Indianapolis	Indiana	848,788	380	0.715398147806
-Columbus	Ohio	835,957	737	0.790689541593
-Fort Worth	Texas	812,238	1007	0.545288981431
-Charlotte	North Carolina	809,958	915	0.651125401929
-Detroit	Michigan	680,250	923	0.405635127853
-El Paso	Texas	679,036	27	0.520502645503
-Seattle	Washington	668,342	4943	0.849597175825
-Denver	Colorado	663,862	1563	0.899485087976
-Washington	District of Columbia	658,893	8809	1.11654173969
-Memphis	Tennessee	656,861	101	0.643697629652
-Boston	Massachusetts	655,884	4447	1.14126617953
-Nashville	Tennessee	644,014	361	0.793422902819
-Baltimore	Maryland	622,793	2784	0.739851242732
-Oklahoma City	Oklahoma	620,602	133	0.595996360328
-Portland	Oregon	619,360	1059	0.930910366919
-Las Vegas	Nevada	613,599	134	0.640584769621
-Louisville	Kentucky	612,780	125	0.535160012844
-Milwaukee	Wisconsin	599,642	393	0.586210385799
-Albuquerque	New Mexico	557,169	121	0.456299745978
-Tucson	Arizona	527,972	67	0.395459626657
-Fresno	California	515,986	9	0.673681147295
-Sacramento	California	485,199	336	0.668946309312
-Long Beach	California	473,577	2379	0.84126984127
-Kansas City	Missouri	470,800	427	0.495230574858
-Mesa	Arizona	464,704	1143	0.409233875211
-Atlanta	Georgia	456,002	2409	0.69306276961
-Virginia Beach	Virginia	450,980	162	0.727341590823
-Omaha	Nebraska	446,599	217	0.629857344128
-Colorado Springs	Colorado	445,830	252	0.566330413065
-Raleigh	North Carolina	439,896	1485	0.71715003867
-Miami	Florida	430,332	474	1.00983122045
-Oakland	California	413,775	6704	1.34942594925
-Minneapolis	Minnesota	407,207	1338	0.768509785234
-Tulsa	Oklahoma	399,682	37	0.669100107575
-Cleveland	Ohio	389,521	517	0.609038350503
-Wichita	Kansas	388,413	12	0.508472703338
-New Orleans	Louisiana	384,320	74	0.775359670253
-Arlington	Texas	383,204	2326	0.449312041305
-Bakersfield	California	368,759	5	0.384201629015
-Tampa	Florida	358,699	708	0.728274530367
-Aurora	Colorado	353,108	1429	0.559437075563
-Honolulu	Hawai'i	350,399	53	1.21781978799
-Anaheim	California	346,997	2063	0.719368118598
-Santa Ana	California	334,909	1225	0.79
-Corpus Christi	Texas	320,434	4	0.579460646984
-Riverside	California	319,504	189	0.680720866601
-Lexington	Kentucky	310,797	58	0.519836578782
-Pittsburgh	Pennsylvania	305,412	719	0.728850710661
-Stockton	California	302,389	10	0.43178094469
-Anchorage	Alaska	301,010	9	0.52121699844
-Cincinnati	Ohio	298,165	596	0.69075446932
-Saint Paul	Minnesota	297,640	1327	0.659744754488
-Greensboro	North Carolina	282,586	87	0.359249839703
-Toledo	Ohio	281,031	22	0.376984848485
-Newark	New Jersey	280,579	7721	0.576900519673
-Plano	Texas	278,480	2639	0.471303284842
-Henderson	Nevada	277,440	134	0.946542204889
-Lincoln	Nebraska	272,996	29	0.298328778149
-Orlando	Florida	262,372	433	0.64464699957
-Jersey City	New Jersey	262,146	7607	0.746319284691
-Buffalo	New York	258,703	82	0.539195354625
-Fort Wayne	Indiana	258,522	35	0.407255200918
-Chandler	Arizona	254,276	1074	0.555057170889
-Durham	North Carolina	251,893	1498	0.493666666667
-Irvine	California	248,531	1170	0.662833441312
-Madison	Wisconsin	245,691	239	0.676688043058
-Norfolk	Virginia	245,428	214	0.850211608222
-Lubbock	Texas	243,839	4	0.586253703545
-Winston-Salem	North Carolina	239,269	39	0.369230769231
-Glendale	Arizona	237,517	1058	1.02777666667
-Reno	Nevada	236,995	31	0.619732589823
-Chesapeake	Virginia	233,371	211	0.507326541832
-Irving	Texas	232,406	3086	0.40532029657
-Scottsdale	Arizona	230,512	1147	0.369382860215
-Baton Rouge	Louisiana	228,895	55	0.364839429192
-Fremont	California	228,758	9365	0.645388951313
-Richmond	Virginia	217,853	406	0.62245519229
-Boise	Idaho	216,282	66	0.652694610778
-San Bernardino	California	215,213	85	0.555555555556
-Birmingham	Alabama	212,247	108	0.563290475858
-Spokane	Washington	212,052	17	0.572504894793
-Rochester	New York	209,983	135	0.45862768413
-Modesto	California	209,286	13	0.557028734461
-Des Moines	Iowa	209,220	177	0.841296662414
-Oxnard	California	205,437	141	0.865946269346
-Tacoma	Washington	205,159	3362	0.702700401756
-Fontana	California	204,950	102	1.38333
-Fayetteville	North Carolina	203,948	16	0.597830335751
-Columbus	Georgia	200,887	30	0.644588476131
-Yonkers	New York	200,667	7082	0.733333333333
-Montgomery	Alabama	200,481	39	0.59551379607
-Aurora	Illinois	200,456	419	0.559437075563
-Glendale	California	200,167	2061	1.02777666667
-Shreveport	Louisiana	198,242	9	0.439075794239
-Akron	Ohio	197,859	175	0.391481365487
-Little Rock	Arkansas	197,706	45	0.576064514337
-Amarillo	Texas	197,254	2	0.598886071906
-Augusta	Georgia	196,741	17	0.654830685013
-Mobile	Alabama	194,675	15	0.293333333333
-Grand Rapids	Michigan	193,792	37	0.510414021749
-Salt Lake City	Utah	190,884	473	0.506274014303
-Huntsville	Alabama	188,226	177	0.345777454181
-Tallahassee	Florida	188,107	19	0.836767566889
-Overland Park	Kansas	184,525	427	0.389105058366
-Knoxville	Tennessee	184,281	74	0.654795390808
-Brownsville	Texas	183,046	1	0.388888888889
-Worcester	Massachusetts	183,016	515	0.657248838518
-Newport News	Virginia	182,965	180	0.610659675292
-Santa Clarita	California	181,557	542	0.681912055426
-Providence	Rhode Island	179,154	270	0.792090656799
-Fort Lauderdale	Florida	176,013	615	0.923234059831
-Rancho Cucamonga	California	174,305	165	0.685714285714
-Santa Rosa	California	174,170	40	0.689236111111
-Chattanooga	Tennessee	173,778	22	0.416877777778
-Tempe	Arizona	172,816	1147	0.650618504273
-Jackson	Mississippi	171,155	15	0.369662750836
-Vancouver	Washington	169,294	1061	0.535759496255
-Sioux Falls	South Dakota	168,586	16	0.86190506627
-Peoria	Arizona	166,934	1036	0.542483637007
-Springfield	Missouri	165,378	19	0.475295453931
-Salem	Oregon	161,637	27	0.622915
-Lancaster	California	161,043	13	0.626865097513
-Eugene	Oregon	160,561	17	0.52866541181
-Palmdale	California	158,279	11	0.571799520361
-McKinney	Texas	156,767	1099	0.255715235514
-Fort Collins	Colorado	156,480	79	0.903225962539
-Hayward	California	154,612	11655	0.932845861573
-Springfield	Massachusetts	153,991	276	0.445445636542
-Macon	Georgia	153,691	16	0.714285714286
-Pomona	California	153,350	573	0.4858850396
-Alexandria	Virginia	150,575	7299	0.840336134454
-Sunnyvale	California	149,980	8660	0.736842105263
-Rockford	Illinois	149,123	2	0.430882373309
-Naperville	Illinois	146,128	548	0.5
-Savannah	Georgia	144,352	14	0.489361702128
-Syracuse	New York	144,263	56	0.488372093023
-Dayton	Ohio	141,003	234	0.538144307925
-McAllen	Texas	138,596	1	0.544555775848
-Killeen	Texas	138,154	7	0.387189824651
-Bellevue	Washington	136,426	4944	1.00782884106
-Columbia	South Carolina	132,067	84	0.978496774194
-New Haven	Connecticut	130,282	165	0.516049382716
-Waco	Texas	130,194	7	0.461880188279
-Charleston	South Carolina	130,113	101	0.836348133981
-Thousand Oaks	California	129,342	559	1.04762040816
-Cedar Rapids	Iowa	129,195	64	0.420693302563
-Gainesville	Florida	128,460	22	0.666748728049
-Stamford	Connecticut	128,278	763	0.7409323692
-Denton	Texas	128,205	555	0.245967741935
-Midland	Texas	128,037	1	0.637096774194
-Topeka	Kansas	127,215	54	0.385209708165
-Simi Valley	California	126,871	519	0.98485
-Lafayette	Louisiana	126,066	37	0.50892920461
-Hartford	Connecticut	124,705	411	0.526415590958
-Abilene	Texas	120,958	3	0.441692254268
-Murfreesboro	Tennessee	120,954	55	0.421427797378
-Evansville	Indiana	120,346	10	0.564079422383
-Vallejo	California	120,228	4207	0.517574963676
-Athens	Georgia	119,648	3	0.448323396196
-Allentown	Pennsylvania	119,104	94	0.779796284943
-Berkeley	California	118,853	5719	1.11640481442
-Ann Arbor	Michigan	117,770	450	0.654747180235
-Beaumont	Texas	117,585	2	0.63125
-Columbia	Missouri	116,906	10	0.536170212766
-Springfield	Illinois	116,809	9	0.516139361841
-Fargo	North Dakota	115,863	16	0.474357692308
-Peoria	Illinois	115,828	52	0.545713312785
-Lansing	Michigan	114,620	93	0.496636729867
-Odessa	Texas	114,597	1	0.832601653093
-Wilmington	North Carolina	113,657	14	0.569514237856
-Costa Mesa	California	112,784	1172	1.61111111111
-Rochester	Minnesota	111,402	22	0.418500302011
-Fairfield	California	111,125	114	0.568763508133
-Clearwater	Florida	110,703	633	0.546875
-Manchester	New Hampshire	110,448	196	0.495867138122
-Ventura	California	109,484	51	0.8
-Temecula	California	109,428	25	1.83783783784
-Billings	Montana	108,869	1	0.49787913753
-Everett	Washington	106,736	848	0.722223333333
-Wichita Falls	Texas	105,114	6	0.731329080464
-Boulder	Colorado	105,112	1040	0.960000960001
-Green Bay	Wisconsin	104,891	19	0.335226517303
-West Palm Beach	Florida	104,031	179	0.660130867821
-College Station	Texas	103,483	22	0.741858237548
-Davenport	Iowa	102,448	56	0.488712177679
-Lakeland	Florida	102,346	43	0.664015139511
-Edison	New Jersey	101,970	2542	0.757142857143
-Tyler	Texas	101,421	3	0.461861764774
-Las Cruces	New Mexico	101,408	16	0.36290264048
-Woodbridge	New Jersey	100,824	7637	1.2156998958
+[City,RentSalaryRation,JavaJobs,State,Population],
+['New York',1.66832068386,7080,'New York',8491079],
+['Los Angeles',1.12779237306,2236,'California',3928864],
+['Chicago',0.967812298471,2972,'Illinois',2722389],
+['Houston',0.854889837835,717,'Texas',2239558],
+['Philadelphia',1.07399016501,1997,'Pennsylvania',1560297],
+['Phoenix',0.494270591848,1147,'Arizona',1537058],
+['San Antonio',0.619856518512,425,'Texas',1436697],
+['San Diego',0.971701937324,1084,'California',1381069],
+['Dallas',0.677438385309,2771,'Texas',1281047],
+['San Jose',0.772143121585,8056,'California',1015785],
+['Austin',0.909529300416,1491,'Texas',912791],
+['Jacksonville',0.623715639109,194,'Florida',853382],
+['San Francisco',1.54088501475,6115,'California',852469],
+['Indianapolis',0.715398147806,380,'Indiana',848788],
+['Columbus',0.790689541593,737,'Ohio',835957],
+['Fort Worth',0.545288981431,1007,'Texas',812238],
+['Charlotte',0.651125401929,915,'North Carolina',809958],
+['Detroit',0.405635127853,923,'Michigan',680250],
+['El Paso',0.520502645503,27,'Texas',679036],
+['Seattle',0.849597175825,4943,'Washington',668342],
+['Denver',0.899485087976,1563,'Colorado',663862],
+['Washington',1.11654173969,8809,'District of Columbia',658893],
+['Memphis',0.643697629652,101,'Tennessee',656861],
+['Boston',1.14126617953,4447,'Massachusetts',655884],
+['Nashville',0.793422902819,361,'Tennessee',644014],
+['Baltimore',0.739851242732,2784,'Maryland',622793],
+['Oklahoma City',0.595996360328,133,'Oklahoma',620602],
+['Portland',0.930910366919,1059,'Oregon',619360],
+['Las Vegas',0.640584769621,134,'Nevada',613599],
+['Louisville',0.535160012844,125,'Kentucky',612780],
+['Milwaukee',0.586210385799,393,'Wisconsin',599642],
+['Albuquerque',0.456299745978,121,'New Mexico',557169],
+['Tucson',0.395459626657,67,'Arizona',527972],
+['Fresno',0.673681147295,9,'California',515986],
+['Sacramento',0.668946309312,336,'California',485199],
+['Long Beach',0.84126984127,2379,'California',473577],
+['Kansas City',0.495230574858,427,'Missouri',470800],
+['Mesa',0.409233875211,1143,'Arizona',464704],
+['Atlanta',0.69306276961,2409,'Georgia',456002],
+['Virginia Beach',0.727341590823,162,'Virginia',450980],
+['Omaha',0.629857344128,217,'Nebraska',446599],
+['Colorado Springs',0.566330413065,252,'Colorado',445830],
+['Raleigh',0.71715003867,1485,'North Carolina',439896],
+['Miami',1.00983122045,474,'Florida',430332],
+['Oakland',1.34942594925,6704,'California',413775],
+['Minneapolis',0.768509785234,1338,'Minnesota',407207],
+['Tulsa',0.669100107575,37,'Oklahoma',399682],
+['Cleveland',0.609038350503,517,'Ohio',389521],
+['Wichita',0.508472703338,12,'Kansas',388413],
+['New Orleans',0.775359670253,74,'Louisiana',384320],
+['Arlington',0.449312041305,2326,'Texas',383204],
+['Bakersfield',0.384201629015,5,'California',368759],
+['Tampa',0.728274530367,708,'Florida',358699],
+['Aurora',0.559437075563,1429,'Colorado',353108],
+['Honolulu',1.21781978799,53,'Hawaii',350399],
+['Anaheim',0.719368118598,2063,'California',346997],
+['Santa Ana',0.79,1225,'California',334909],
+['Corpus Christi',0.579460646984,4,'Texas',320434],
+['Riverside',0.680720866601,189,'California',319504],
+['Lexington',0.519836578782,58,'Kentucky',310797],
+['Pittsburgh',0.728850710661,719,'Pennsylvania',305412],
+['Stockton',0.43178094469,10,'California',302389],
+['Anchorage',0.52121699844,9,'Alaska',301010],
+['Cincinnati',0.69075446932,596,'Ohio',298165],
+['Saint Paul',0.659744754488,1327,'Minnesota',297640],
+['Greensboro',0.359249839703,87,'North Carolina',282586],
+['Toledo',0.376984848485,22,'Ohio',281031],
+['Newark',0.576900519673,7721,'New Jersey',280579],
+['Plano',0.471303284842,2639,'Texas',278480],
+['Henderson',0.946542204889,134,'Nevada',277440],
+['Lincoln',0.298328778149,29,'Nebraska',272996],
+['Orlando',0.64464699957,433,'Florida',262372],
+['Jersey City',0.746319284691,7607,'New Jersey',262146],
+['Buffalo',0.539195354625,82,'New York',258703],
+['Fort Wayne',0.407255200918,35,'Indiana',258522],
+['Chandler',0.555057170889,1074,'Arizona',254276],
+['Durham',0.493666666667,1498,'North Carolina',251893],
+['Irvine',0.662833441312,1170,'California',248531],
+['Madison',0.676688043058,239,'Wisconsin',245691],
+['Norfolk',0.850211608222,214,'Virginia',245428],
+['Lubbock',0.586253703545,4,'Texas',243839],
+['Winston-Salem',0.369230769231,39,'North Carolina',239269],
+['Glendale',1.02777666667,1058,'Arizona',237517],
+['Reno',0.619732589823,31,'Nevada',236995],
+['Chesapeake',0.507326541832,211,'Virginia',233371],
+['Irving',0.40532029657,3086,'Texas',232406],
+['Scottsdale',0.369382860215,1147,'Arizona',230512],
+['Baton Rouge',0.364839429192,55,'Louisiana',228895],
+['Fremont',0.645388951313,9365,'California',228758],
+['Richmond',0.62245519229,406,'Virginia',217853],
+['Boise',0.652694610778,66,'Idaho',216282],
+['San Bernardino',0.555555555556,85,'California',215213],
+['Birmingham',0.563290475858,108,'Alabama',212247],
+['Spokane',0.572504894793,17,'Washington',212052],
+['Rochester',0.45862768413,135,'New York',209983],
+['Modesto',0.557028734461,13,'California',209286],
+['Des Moines',0.841296662414,177,'Iowa',209220],
+['Oxnard',0.865946269346,141,'California',205437],
+['Tacoma',0.702700401756,3362,'Washington',205159],
+['Fontana',1.38333,102,'California',204950],
+['Fayetteville',0.597830335751,16,'North Carolina',203948],
+['Columbus',0.644588476131,30,'Georgia',200887],
+['Yonkers',0.733333333333,7082,'New York',200667],
+['Montgomery',0.59551379607,39,'Alabama',200481],
+['Aurora',0.559437075563,419,'Illinois',200456],
+['Glendale',1.02777666667,2061,'California',200167],
+['Shreveport',0.439075794239,9,'Louisiana',198242],
+['Akron',0.391481365487,175,'Ohio',197859],
+['Little Rock',0.576064514337,45,'Arkansas',197706],
+['Amarillo',0.598886071906,2,'Texas',197254],
+['Augusta',0.654830685013,17,'Georgia',196741],
+['Mobile',0.293333333333,15,'Alabama',194675],
+['Grand Rapids',0.510414021749,37,'Michigan',193792],
+['Salt Lake City',0.506274014303,473,'Utah',190884],
+['Huntsville',0.345777454181,177,'Alabama',188226],
+['Tallahassee',0.836767566889,19,'Florida',188107],
+['Overland Park',0.389105058366,427,'Kansas',184525],
+['Knoxville',0.654795390808,74,'Tennessee',184281],
+['Brownsville',0.388888888889,1,'Texas',183046],
+['Worcester',0.657248838518,515,'Massachusetts',183016],
+['Newport News',0.610659675292,180,'Virginia',182965],
+['Santa Clarita',0.681912055426,542,'California',181557],
+['Providence',0.792090656799,270,'Rhode Island',179154],
+['Fort Lauderdale',0.923234059831,615,'Florida',176013],
+['Rancho Cucamonga',0.685714285714,165,'California',174305],
+['Santa Rosa',0.689236111111,40,'California',174170],
+['Chattanooga',0.416877777778,22,'Tennessee',173778],
+['Tempe',0.650618504273,1147,'Arizona',172816],
+['Jackson',0.369662750836,15,'Mississippi',171155],
+['Vancouver',0.535759496255,1061,'Washington',169294],
+['Sioux Falls',0.86190506627,16,'South Dakota',168586],
+['Peoria',0.542483637007,1036,'Arizona',166934],
+['Springfield',0.475295453931,19,'Missouri',165378],
+['Salem',0.622915,27,'Oregon',161637],
+['Lancaster',0.626865097513,13,'California',161043],
+['Eugene',0.52866541181,17,'Oregon',160561],
+['Palmdale',0.571799520361,11,'California',158279],
+['McKinney',0.255715235514,1099,'Texas',156767],
+['Fort Collins',0.903225962539,79,'Colorado',156480],
+['Hayward',0.932845861573,11655,'California',154612],
+['Springfield',0.445445636542,276,'Massachusetts',153991],
+['Macon',0.714285714286,16,'Georgia',153691],
+['Pomona',0.4858850396,573,'California',153350],
+['Alexandria',0.840336134454,7299,'Virginia',150575],
+['Sunnyvale',0.736842105263,8660,'California',149980],
+['Rockford',0.430882373309,2,'Illinois',149123],
+['Naperville',0.5,548,'Illinois',146128],
+['Savannah',0.489361702128,14,'Georgia',144352],
+['Syracuse',0.488372093023,56,'New York',144263],
+['Dayton',0.538144307925,234,'Ohio',141003],
+['McAllen',0.544555775848,1,'Texas',138596],
+['Killeen',0.387189824651,7,'Texas',138154],
+['Bellevue',1.00782884106,4944,'Washington',136426],
+['Columbia',0.978496774194,84,'South Carolina',132067],
+['New Haven',0.516049382716,165,'Connecticut',130282],
+['Waco',0.461880188279,7,'Texas',130194],
+['Charleston',0.836348133981,101,'South Carolina',130113],
+['Thousand Oaks',1.04762040816,559,'California',129342],
+['Cedar Rapids',0.420693302563,64,'Iowa',129195],
+['Gainesville',0.666748728049,22,'Florida',128460],
+['Stamford',0.7409323692,763,'Connecticut',128278],
+['Denton',0.245967741935,555,'Texas',128205],
+['Midland',0.637096774194,1,'Texas',128037],
+['Topeka',0.385209708165,54,'Kansas',127215],
+['Simi Valley',0.98485,519,'California',126871],
+['Lafayette',0.50892920461,37,'Louisiana',126066],
+['Hartford',0.526415590958,411,'Connecticut',124705],
+['Abilene',0.441692254268,3,'Texas',120958],
+['Murfreesboro',0.421427797378,55,'Tennessee',120954],
+['Evansville',0.564079422383,10,'Indiana',120346],
+['Vallejo',0.517574963676,4207,'California',120228],
+['Athens',0.448323396196,3,'Georgia',119648],
+['Allentown',0.779796284943,94,'Pennsylvania',119104],
+['Berkeley',1.11640481442,5719,'California',118853],
+['Ann Arbor',0.654747180235,450,'Michigan',117770],
+['Beaumont',0.63125,2,'Texas',117585],
+['Columbia',0.536170212766,10,'Missouri',116906],
+['Springfield',0.516139361841,9,'Illinois',116809],
+['Fargo',0.474357692308,16,'North Dakota',115863],
+['Peoria',0.545713312785,52,'Illinois',115828],
+['Lansing',0.496636729867,93,'Michigan',114620],
+['Odessa',0.832601653093,1,'Texas',114597],
+['Wilmington',0.569514237856,14,'North Carolina',113657],
+['Costa Mesa',1.61111111111,1172,'California',112784],
+['Rochester',0.418500302011,22,'Minnesota',111402],
+['Fairfield',0.568763508133,114,'California',111125],
+['Clearwater',0.546875,633,'Florida',110703],
+['Manchester',0.495867138122,196,'New Hampshire',110448],
+['Ventura',0.8,51,'California',109484],
+['Temecula',1.83783783784,25,'California',109428],
+['Billings',0.49787913753,1,'Montana',108869],
+['Everett',0.722223333333,848,'Washington',106736],
+['Wichita Falls',0.731329080464,6,'Texas',105114],
+['Boulder',0.960000960001,1040,'Colorado',105112],
+['Green Bay',0.335226517303,19,'Wisconsin',104891],
+['West Palm Beach',0.660130867821,179,'Florida',104031],
+['College Station',0.741858237548,22,'Texas',103483],
+['Davenport',0.488712177679,56,'Iowa',102448],
+['Lakeland',0.664015139511,43,'Florida',102346],
+['Edison',0.757142857143,2542,'New Jersey',101970],
+['Tyler',0.461861764774,3,'Texas',101421],
+['Las Cruces',0.36290264048,16,'New Mexico',101408],
+['Woodbridge',1.2156998958,7637,'New Jersey',100824],
