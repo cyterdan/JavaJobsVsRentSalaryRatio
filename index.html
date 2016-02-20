@@ -217,7 +217,7 @@
       var options = {
         title: '#Java jobs vs rent/salary ratio ',
         hAxis: {title: 'Rent / salary ratio'},
-        vAxis: {title: 'Java jobs listings'},
+        vAxis: {title: 'Java jobs listings',logScale : true,maxValue : 13000},
         bubble: {textStyle: {fontSize: 11}}
       };
 
@@ -227,6 +227,6 @@
     </script>
   </head>
   <body>
-    <div id="series_chart_div" style="width: 900px; height: 500px;"></div>
+    <div id="series_chart_div" style="width: 1600px; height: 1200px;"></div>
   </body>
 </html>
