@@ -1,0 +1,1321 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="canonical" href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Houston%2C+TX" />
+<meta property="og:title" content="Cost of Living in Houston" />
+<meta property="og:description" content="Average prices of more than 40 products and services in Houston, TX, United States updated Feb 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Houston%2C+TX"/>
+            <script type="text/javascript" src="../common/numbeo_standard.js"></script>
+    <link type="text/css" href="../common/css/redmond/jquery-ui-1.10.3.custom.min.css" rel="Stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+    <!-- script src="http://platform.linkedin.com/in.js" type="text/javascript"></script -->
+    <script type="text/javascript" src="../common/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="../common/js/jquery-ui-1.10.3.custom.min.js"></script>
+   <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <link rel="stylesheet" type="text/css" href="../common/style.css" />
+    <link rel="stylesheet" type="text/css" href="../common/style_desktop.css" />
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#nav-one li").hover(
+		function(){ $("ul", this).fadeIn("fast"); },
+		function() { }
+	);
+	if (document.all) {
+		$("#nav-one li").hoverClass ("sfHover");
+	}
+});
+$.fn.hoverClass = function(c) {
+	return this.each(function(){
+		$(this).hover(
+			function() { $(this).addClass(c);  },
+			function() { $(this).removeClass(c); }
+		);
+	});
+};
+</script>
+
+<title>Cost of Living in Houston</title>
+
+</head>
+<body>
+<div class="logo-and-upper-ad">
+<div class="innerWidth">
+<div style="display: block; height: 90px; width: 728px; margin: 0 auto;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ad_in_header3 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="7618322317"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<tr>
+<td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
+<a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
+<img  src="http://www.numbeo.com/images/numbeo_icon.svg" style="height: 62px; vertical-align: bottom; border: 0;" alt="" /><img  src="http://www.numbeo.com/images/numbeo_text.svg" style="height: 34px; margin-left: 1em; margin-bottom: 8px; vertical-align: bottom; border: 0;" alt="NUMBEO" /></a>
+</td>
+<td style="padding-left:8px; padding-top: 0px; padding-bottom: 0px; vertical-align: middle; width: 680px; text-align: right;" >
+<div style="display: inline-block; width: 100%; margin-top: 10px; margin-bottom: 10px; text-align: right; vertical-align: bottom">
+<nav style="display: inline-block; vertical-align: middle;">
+<div class="standard_margin_inlineblock" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="menu_dispatch_form"  style="display: inline; padding: 0; margin:0;">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/city_result.jsp" style="display: inline; padding:0; margin:0;" />
+<input id="city_selector_menu_city_id" size="35" type="text" placeholder="Select City (Cost of Living)" class="ui-corner-all city-selector-menu"/>
+<input type="hidden" id="menu_city_id" name="city_id"/>
+<input type="hidden" id="name_menu_city_id" name="name_city_id"/>
+      </form>
+</div>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_menu_city_id').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_menu_city_id').val(ui.item.label);
+         $('#menu_city_id').val(ui.item.value);
+jQuery('#menu_dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#menu_city_id').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_menu_city_id').val();
+		   $('#name_menu_city_id').val(val);
+	   }
+  }); // end autocompleter definition
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+ }); // end document ready 
+</script>
+</nav>
+<nav style="display: inline-block; vertical-align: middle; padding-left: 0.5em;">
+<div class="standard_margin_inlineblock">
+<select name="city_result_switcher" id="city_result_switcher"  onchange="window.location = this.value;" class="result_switcher ui-corner-all">
+<option value="" selected="selected">What are you looking for?</option>
+<option value="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Cost of Living in Houston, TX</option>
+<option value="http://www.numbeo.com/crime/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Crime in Houston, TX</option>
+<option value="http://www.numbeo.com/climate/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Climate in Houston, TX</option>
+<option value="http://www.numbeo.com/food-prices/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Food Prices in Houston, TX</option>
+<option value="http://www.numbeo.com/gas-prices/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Gas Prices in Houston, TX</option>
+<option value="http://www.numbeo.com/health-care/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Health Care in Houston, TX</option>
+<option value="http://www.numbeo.com/travel-prices/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Travel Prices in Houston, TX</option>
+<option value="http://www.numbeo.com/pollution/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Pollution in Houston, TX</option>
+<option value="http://www.numbeo.com/property-investment/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Property Prices in Houston, TX</option>
+<option value="http://www.numbeo.com/quality-of-life/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Quality of Life in Houston, TX</option>
+<option value="http://www.numbeo.com/taxi-fare/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Taxi Fares in Houston, TX</option>
+<option value="http://www.numbeo.com/traffic/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Traffic in Houston, TX</option>
+</select>
+
+</div>
+</nav>
+</div>
+</td>
+</tr>
+</table>
+</div> <!-- innerWidth in header -->
+</div> <!-- logo-and-upper-ad -->
+<div class="dropdown-outer">
+<div class="innerWidth">
+<nav class="before-nav" >
+    <ul id="nav-one" class="nav">
+
+	<li class="dir">
+<a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/comparison.jsp">Cost of Living Comparison</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/calculator.jsp">Cost of Living Calculator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings.jsp">Cost Of Living Index</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp">Cost Of Living Index (Current)</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_by_country.jsp">Cost Of Living Rankings By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/estimator_main">Cost of Living Estimator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/analysis_main">Cost of Living Analysis</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_city.jsp">Prices By City</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_country.jsp">Prices By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-data">Historical Data in a City by Year </a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-prices-by-city">Historical Data in a Year by City</a></li>
+    <li><a href="http://www.numbeo.com/food-prices/">Food Prices</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/basket_of_goods.jsp">Basket of Goods and Services</a></li>
+    <li><a href="http://www.numbeo.com/common/motivation_and_methodology.jsp">Our Motivation and Methodology</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/contribute.jsp">Update Information for Your City</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/property-investment/">Property Prices</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/property-investment/">Property Prices</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/comparison.jsp">Property Prices Comparison</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings.jsp">Property Price Index</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_current.jsp">Property Price Index Rate (Current)</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_by_country.jsp">Property Price Index By Country</a></li>
+   </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/crime/">Crime</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/crime/">Crime</a></li>
+    <li><a href="http://www.numbeo.com/crime/comparison.jsp">Crime Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_current.jsp">Crime Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings.jsp">Crime Index</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_by_country.jsp">Crime Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/health-care/">Health Care</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/health-care/">Health Care</a></li>
+    <li><a href="http://www.numbeo.com/health-care/comparison.jsp">Health Care Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_current.jsp">Health Care Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings.jsp">Health Care Index</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_by_country.jsp">Health Care Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/pollution/">Pollution</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/pollution/">Pollution</a></li>
+    <li><a href="http://www.numbeo.com/pollution/comparison.jsp">Pollution Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_current.jsp">Pollution Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings.jsp">Pollution Index</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_by_country.jsp">Pollution Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/traffic/">Traffic</a>
+  <ul>
+     <li><a href="http://www.numbeo.com/traffic/">Traffic</a></li>
+     <li><a href="http://www.numbeo.com/traffic/comparison.jsp">Traffic Comparisons</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_current.jsp">Traffic Index Rate Latest</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings.jsp">Traffic Index</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_by_country.jsp">Traffic Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/quality-of-life/">Quality Of Life</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/quality-of-life/">Quality of Life</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/comparison.jsp">Quality of Life Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_current.jsp">Quality of Life Index Rate Latests</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings.jsp">Quality of Life Index</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_by_country.jsp">Quality of Life Index by Country</a></li>
+	</ul></li>
+	<li class="dir">
+<a href="#">Travel</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/taxi-fare/">Taxi Fare Calculator</a></li>
+    <li><a href="http://www.numbeo.com/gas-prices/">Gas Prices Calculator</a></li>
+    <li><a href="http://www.numbeo.com/travel-prices/">Travel Prices</a></li>
+	</ul></li>
+
+
+</ul>
+<br style="clear: both"/>
+</nav>
+</div> <!-- innerWidth in header -->
+</div> <!-- dropdown-outer -->
+<div class="innerWidth">
+ <div class="right-ads-and-info">
+ <div class="right-ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- numbeo2_0 ads_right_med_rect -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="8165022551"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+ </div>
+<p>
+<nav itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
+<a href="http://www.numbeo.com/common/" class="discreet_link"><img src="http://www.numbeo.com/images/home.png" class="image_without_border hide_smaller_than_600" alt="home"/></a><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/" itemprop="item" class="breadcrumb_link"><span itemprop="name">Cost of Living</span></a><meta itemprop="position" content="1" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+ <a href="http://www.numbeo.com/cost-of-living/country_result.jsp?country=United+States"  itemprop="item"  class="breadcrumb_link"><span itemprop="name">United States</span></a><meta itemprop="position" content="2" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Houston%2C+TX"  itemprop="item"  class="breadcrumb_link">
+<span itemprop="name">Houston, TX</span></a><meta itemprop="position" content="3" />
+</span></nav>
+    <h1> Cost of Living in Houston</h1>
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<!-- Column 1 start -->
+
+
+<nav>
+<div class="standard_margin disabled_on_small_devices" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="dispatch_form" class="dispatch_form">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/compare_cities.jsp" style="display: inline; padding:0; margin:0;" />
+      <input type="hidden" name="city_id2" id="city_id2" value="3428"/>
+ Compare Houston, TX  with: <input id="city_selector_city_id1" size="35" type="text" placeholder="Type and Pick City" class="ui-corner-all" />
+<input type="hidden" id="city_id1" name="city_id1"/>
+<input type="hidden" id="name_city_id1" name="name_city_id1"/>
+      <input type="hidden" name="tracking" value="getDispatchComparison" />
+      </form>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_city_id1').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_city_id1').val(ui.item.label);
+         $('#city_id1').val(ui.item.value);
+jQuery('#dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#city_id1').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_city_id1').val();
+		   $('#name_city_id1').val(val);
+	   }
+  }); // end autocompleter definition
+ }); // end document ready 
+</script>
+</div> 
+</nav>
+
+<div class="table_indices limit_size_ad_right table_indices_bigger">
+Cost of living in <span class="purple_light">Houston</span> is 11.77%<span class="green_light"> lower</span> than in <span class="rose_light">Paris</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=United+States&amp;city=Houston%2C+TX" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 750.13&#8364; <span class="in_other_currency">(834.21&#36;)</span>
+ and for four person family at 2,701.77&#8364; <span class="in_other_currency">(3,004.64&#36;)</span>
+ (without rent).</span></div>
+
+<aside><div class="seeding-call disabled_on_small_devices">
+    Do you live in <span class="purple_light">Houston</span>? <span class="we_need_your_help">We need your help: <a href="http://www.numbeo.com/common/form.jsp?country=United+States&amp;city=Houston%2C+TX&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX&amp;tracking=standardEnterData" rel="nofollow" class="enterDataA">Add data for Houston, TX! </a></span></div></aside>
+
+<nav>
+<form action="city_result.jsp" method="get" class="standard_margin">
+<input type="hidden" name="country" value="United States" />
+<input type="hidden" name="city" value="Houston, TX" />
+
+Currency:          <select id="displayCurrency" name="displayCurrency" onchange="if (checkSelectedSomeTextNotDashed('displayCurrency')) this.form.submit();">
+             <option value="EUR">EUR</option>
+             <option value="USD" selected="selected">USD</option>
+             <option value="---">---</option>
+             <option value="AED">AED</option>
+             <option value="AFN">AFN</option>
+             <option value="ALL">ALL</option>
+             <option value="AMD">AMD</option>
+             <option value="ANG">ANG</option>
+             <option value="AOA">AOA</option>
+             <option value="ARS">ARS</option>
+             <option value="AUD">AUD</option>
+             <option value="AWG">AWG</option>
+             <option value="AZN">AZN</option>
+             <option value="BAM">BAM</option>
+             <option value="BBD">BBD</option>
+             <option value="BDT">BDT</option>
+             <option value="BGN">BGN</option>
+             <option value="BHD">BHD</option>
+             <option value="BIF">BIF</option>
+             <option value="BMD">BMD</option>
+             <option value="BND">BND</option>
+             <option value="BOB">BOB</option>
+             <option value="BRL">BRL</option>
+             <option value="BSD">BSD</option>
+             <option value="BTN">BTN</option>
+             <option value="BWP">BWP</option>
+             <option value="BYR">BYR</option>
+             <option value="BZD">BZD</option>
+             <option value="CAD">CAD</option>
+             <option value="CDF">CDF</option>
+             <option value="CHF">CHF</option>
+             <option value="CLF">CLF</option>
+             <option value="CLP">CLP</option>
+             <option value="CNH">CNH</option>
+             <option value="CNY">CNY</option>
+             <option value="COP">COP</option>
+             <option value="CRC">CRC</option>
+             <option value="CUP">CUP</option>
+             <option value="CVE">CVE</option>
+             <option value="CYP">CYP</option>
+             <option value="CZK">CZK</option>
+             <option value="DEM">DEM</option>
+             <option value="DJF">DJF</option>
+             <option value="DKK">DKK</option>
+             <option value="DOP">DOP</option>
+             <option value="DZD">DZD</option>
+             <option value="ECS">ECS</option>
+             <option value="EGP">EGP</option>
+             <option value="ERN">ERN</option>
+             <option value="EUR">EUR</option>
+             <option value="FJD">FJD</option>
+             <option value="FKP">FKP</option>
+             <option value="FRF">FRF</option>
+             <option value="GBP">GBP</option>
+             <option value="GEL">GEL</option>
+             <option value="GIP">GIP</option>
+             <option value="GMD">GMD</option>
+             <option value="GNF">GNF</option>
+             <option value="GTQ">GTQ</option>
+             <option value="GYD">GYD</option>
+             <option value="HKD">HKD</option>
+             <option value="HNL">HNL</option>
+             <option value="HRK">HRK</option>
+             <option value="HTG">HTG</option>
+             <option value="HUF">HUF</option>
+             <option value="IDR">IDR</option>
+             <option value="IEP">IEP</option>
+             <option value="ILS">ILS</option>
+             <option value="INR">INR</option>
+             <option value="IQD">IQD</option>
+             <option value="ISK">ISK</option>
+             <option value="ITL">ITL</option>
+             <option value="JMD">JMD</option>
+             <option value="JOD">JOD</option>
+             <option value="JPY">JPY</option>
+             <option value="KES">KES</option>
+             <option value="KGS">KGS</option>
+             <option value="KHR">KHR</option>
+             <option value="KMF">KMF</option>
+             <option value="KPW">KPW</option>
+             <option value="KRW">KRW</option>
+             <option value="KWD">KWD</option>
+             <option value="KYD">KYD</option>
+             <option value="KZT">KZT</option>
+             <option value="LAK">LAK</option>
+             <option value="LBP">LBP</option>
+             <option value="LKR">LKR</option>
+             <option value="LRD">LRD</option>
+             <option value="LSL">LSL</option>
+             <option value="LTL">LTL</option>
+             <option value="LVL">LVL</option>
+             <option value="LYD">LYD</option>
+             <option value="MAD">MAD</option>
+             <option value="MDL">MDL</option>
+             <option value="MGA">MGA</option>
+             <option value="MKD">MKD</option>
+             <option value="MNT">MNT</option>
+             <option value="MOP">MOP</option>
+             <option value="MRO">MRO</option>
+             <option value="MUR">MUR</option>
+             <option value="MVR">MVR</option>
+             <option value="MWK">MWK</option>
+             <option value="MXN">MXN</option>
+             <option value="MXV">MXV</option>
+             <option value="MYR">MYR</option>
+             <option value="MZN">MZN</option>
+             <option value="NAD">NAD</option>
+             <option value="NGN">NGN</option>
+             <option value="NIO">NIO</option>
+             <option value="NOK">NOK</option>
+             <option value="NPR">NPR</option>
+             <option value="NZD">NZD</option>
+             <option value="OMR">OMR</option>
+             <option value="PAB">PAB</option>
+             <option value="PEN">PEN</option>
+             <option value="PGK">PGK</option>
+             <option value="PHP">PHP</option>
+             <option value="PKR">PKR</option>
+             <option value="PLN">PLN</option>
+             <option value="PYG">PYG</option>
+             <option value="QAR">QAR</option>
+             <option value="RON">RON</option>
+             <option value="RSD">RSD</option>
+             <option value="RUB">RUB</option>
+             <option value="RWF">RWF</option>
+             <option value="SAR">SAR</option>
+             <option value="SBD">SBD</option>
+             <option value="SCR">SCR</option>
+             <option value="SDG">SDG</option>
+             <option value="SEK">SEK</option>
+             <option value="SGD">SGD</option>
+             <option value="SHP">SHP</option>
+             <option value="SIT">SIT</option>
+             <option value="SLL">SLL</option>
+             <option value="SOS">SOS</option>
+             <option value="SRD">SRD</option>
+             <option value="STD">STD</option>
+             <option value="SVC">SVC</option>
+             <option value="SYP">SYP</option>
+             <option value="SZL">SZL</option>
+             <option value="THB">THB</option>
+             <option value="TJS">TJS</option>
+             <option value="TMT">TMT</option>
+             <option value="TND">TND</option>
+             <option value="TOP">TOP</option>
+             <option value="TRY">TRY</option>
+             <option value="TTD">TTD</option>
+             <option value="TWD">TWD</option>
+             <option value="TZS">TZS</option>
+             <option value="UAH">UAH</option>
+             <option value="UGX">UGX</option>
+             <option value="USD">USD</option>
+             <option value="UYU">UYU</option>
+             <option value="VND">VND</option>
+             <option value="VUV">VUV</option>
+             <option value="WST">WST</option>
+             <option value="XAF">XAF</option>
+             <option value="XCD">XCD</option>
+             <option value="XDR">XDR</option>
+             <option value="XOF">XOF</option>
+             <option value="XPF">XPF</option>
+             <option value="YER">YER</option>
+             <option value="ZAR">ZAR</option>
+             <option value="ZMW">ZMW</option>
+             <option value="ZWL">ZWL</option>
+         </select>
+
+<span class="small_font small_space_desktop"><a href="http://www.numbeo.com/common/currency_settings.jsp?return=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX" rel="nofollow">Sticky Currency</a></span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="small_font">
+<a href="http://www.numbeo.com/common/measurement_settings.jsp?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX" rel="nofollow">Switch to US measurement units</a></span>
+</form>
+</nav>
+
+<table class="data_wide_table"><tr> <th class="highlighted_th prices">Restaurants</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Houston%2C+TX&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX&amp;current=0&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices" style="padding-left: 132px; text-align: left;">Range</th>
+</tr>
+<tr><td>Meal, Inexpensive Restaurant </td> <td style="text-align: right" class="priceValue "> 13.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+10.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">16.75</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 50.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+40.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 37px;" ></span><span class="barTextRight">75.00</span></td>
+ </tr>
+<tr><td>McMeal at McDonalds (or Equivalent Combo Meal) </td> <td style="text-align: right" class="priceValue "> 6.75&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+5.69</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 13px;" ></span><span class="barTextRight">8.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Domestic Beer (0.5 liter draught) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.50&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.50</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 32px;" ></span><span class="barTextRight">5.00</span></td>
+ </tr>
+<tr><td>Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 5.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+4.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">6.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Cappuccino (regular) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.80&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">4.50</span></td>
+ </tr>
+<tr><td>Coke/Pepsi (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.69&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.25</span><span class="barLeft" style="width: 17px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Water (0.33 liter bottle)  </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.22&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 34px;" ></span><span class="barTextRight">1.80</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Markets</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Houston%2C+TX&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX&amp;current=1&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Milk (regular), (1 liter) </td> <td style="text-align: right" class="priceValue "> 0.84&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+0.66</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">1.06</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Loaf of Fresh White Bread (500g) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.58&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.09</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">3.31</span></td>
+ </tr>
+<tr><td>Rice (white), (1kg) </td> <td style="text-align: right" class="priceValue "> 4.13&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+3.31</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 5px;" ></span><span class="barTextRight">4.41</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Eggs (12) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.97&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.19</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 25px;" ></span><span class="barTextRight">3.99</span></td>
+ </tr>
+<tr><td>Local Cheese (1kg) </td> <td style="text-align: right" class="priceValue "> 9.97&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+8.82</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 23px;" ></span><span class="barTextRight">13.23</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Chicken Breasts (Boneless, Skinless), (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 8.52&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+5.51</span><span class="barLeft" style="width: 25px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 22px;" ></span><span class="barTextRight">11.02</span></td>
+ </tr>
+<tr><td>Beef Round (1kg) (or Equivalent Back Leg Red Meat) </td> <td style="text-align: right" class="priceValue "> 13.23&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+8.82</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 36px;" ></span><span class="barTextRight">19.82</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apples (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 5.17&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+4.17</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">6.59</span></td>
+ </tr>
+<tr><td>Banana (1kg) </td> <td style="text-align: right" class="priceValue "> 1.35&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.08</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 43px;" ></span><span class="barTextRight">2.14</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Oranges (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.52&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.99</span><span class="barLeft" style="width: 31px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 23px;" ></span><span class="barTextRight">4.61</span></td>
+ </tr>
+<tr><td>Tomato (1kg) </td> <td style="text-align: right" class="priceValue "> 3.86&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 30px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 32px;" ></span><span class="barTextRight">5.51</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Potato (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.29&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.74</span><span class="barLeft" style="width: 34px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 34px;" ></span><span class="barTextRight">4.81</span></td>
+ </tr>
+<tr><td>Onion (1kg) </td> <td style="text-align: right" class="priceValue "> 2.20&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.76</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">2.84</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Lettuce (1 head) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.52&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 23px;" ></span><span class="barTextRight">1.99</span></td>
+ </tr>
+<tr><td>Water (1.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.67&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 29px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 50px;" ></span><span class="barTextRight">2.80</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Bottle of Wine (Mid-Range) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 12.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+10.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">15.00</span></td>
+ </tr>
+<tr><td>Domestic Beer (0.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.42&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.50</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 36px;" ></span><span class="barTextRight">3.00</span></td>
+ </tr>
+<tr><td>Pack of Cigarettes (Marlboro) </td> <td style="text-align: right" class="priceValue "> 6.79&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+6.00</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">7.50</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Transportation</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Houston%2C+TX&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX&amp;current=2&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>One-way Ticket (Local Transport) </td> <td style="text-align: right" class="priceValue "> 1.25&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.25</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">1.50</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Monthly Pass (Regular Price) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 45.50&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+40.00</span><span class="barLeft" style="width: 9px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 55px;" ></span><span class="barTextRight">80.00</span></td>
+ </tr>
+<tr><td>Taxi Start (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 3.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.75</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 42px;" ></span><span class="barTextRight">4.75</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Taxi 1km (Normal Tariff) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.37&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.37</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">1.86</span></td>
+ </tr>
+<tr><td>Taxi 1hour Waiting (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 24.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+24.00</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">28.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.52&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.45</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">0.63</span></td>
+ </tr>
+<tr><td>Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) </td> <td style="text-align: right" class="priceValue "> 20,000.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+18,000.00</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">24,225.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Utilities (Monthly)</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Houston%2C+TX&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX&amp;current=3&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 134.02&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+90.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 36px;" ></span><span class="barTextRight">200.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.36&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.14</span><span class="barLeft" style="width: 44px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">0.50</span></td>
+ </tr>
+<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 47.53&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+35.00</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">67.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Sports And Leisure</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Houston%2C+TX&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX&amp;current=4&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Fitness Club, Monthly Fee for 1 Adult </td> <td style="text-align: right" class="priceValue "> 36.24&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+26.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">50.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Tennis Court Rent (1 Hour on Weekend) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 21.44&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+15.00</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">25.00</span></td>
+ </tr>
+<tr><td>Cinema, International Release, 1 Seat </td> <td style="text-align: right" class="priceValue "> 10.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+9.00</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">12.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Clothing And Shoes</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Houston%2C+TX&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX&amp;current=5&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 42.27&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+30.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 22px;" ></span><span class="barTextRight">55.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 40.24&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+24.00</span><span class="barLeft" style="width: 29px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 34px;" ></span><span class="barTextRight">59.00</span></td>
+ </tr>
+<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 71.24&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+55.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 19px;" ></span><span class="barTextRight">90.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 95.74&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+70.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 25px;" ></span><span class="barTextRight">129.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Rent Per Month</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Houston%2C+TX&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX&amp;current=6&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Apartment (1 bedroom) in City Centre </td> <td style="text-align: right" class="priceValue "> 1,364.30&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1,000.00</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">1,700.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (1 bedroom) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 934.48&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+720.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">1,200.00</span></td>
+ </tr>
+<tr><td>Apartment (3 bedrooms) in City Centre </td> <td style="text-align: right" class="priceValue "> 2,610.56&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2,000.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">3,000.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (3 bedrooms) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1,659.31&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1,300.00</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">2,000.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Buy Apartment Price</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Houston%2C+TX&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX&amp;current=7&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Price per Square Meter to Buy Apartment in City Centre </td> <td style="text-align: right" class="priceValue "> 2,130.01&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1,506.95</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 19px;" ></span><span class="barTextRight">2,690.98</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Price per Square Meter to Buy Apartment Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1,381.69&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+882.64</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 29px;" ></span><span class="barTextRight">1,937.50</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Houston%2C+TX&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 3,053.68&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2,000.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">4,300.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.93</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3.45</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">4.70</span></td>
+ </tr>
+</table>
+<h2>Prices in Houston, Texas, United States</h2>
+<div style="display: inline">
+These data are based on 2131 entries in the past 18 months from 330 different contributors.
+<br/>Last update: February, 2016
+</div>
+
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<div style="float: right; margin-top: 3px;">
+<!-- ad_after_prices_rect1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="4999919919"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+<div class="green_box">
+<b>Sources and References :</b> 
+<a href="http://www.numbeo.com/common/sources_and_references.jsp" title="About sources and references"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="Info"/></a><br/>
+No sources and references provided yet.<br/>
+<form action="http://www.numbeo.com/common/InsertSource" method="post" accept-charset="UTF-8" >
+<input type="hidden" id="returnUrl" name="returnUrl" value="/cost-of-living/city_result.jsp?country=United+States&amp;city=Houston,+TX" /><input type="hidden" id="moduo" name="moduo" value="1" /><input type="hidden" id="checking_sources" name="checking_sources" value="" /><input type="hidden" id="city_id" name="city_id" value="3428" /><b>Add new source here:</b>
+<table>
+<tr><td>URL: </td><td><input type="text" id="href" name="href" size="50"/></td></tr> 
+<tr><td>Description: </td><td><input type="text" id="href_name" name="href_text" size="50"/></td></tr> 
+<tr><td colspan=2><input type="submit" value="Add" /> </td></tr>
+</table>
+</form>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking_sources').val('check_it_out');
+});
+</script>
+</div>
+
+<nav>
+<div class="fancy_explanation">
+<ul><li>
+Houston has 32<sup>th</sup> <span class="rank_highest">Most Expensive</span> Rice (white), (1kg) in the World (out of 560 cities). See More <a href="http://www.numbeo.com/cost-of-living/city_analysis?country=United+States&amp;city=Houston%2C+TX" class="discreet_link">Price Rankings for Houston, TX</a></li>
+<li>The price of Eggs (12) in the year 2012 in Houston was 1.88&#36;. See More <a href="http://www.numbeo.com/cost-of-living/city_history?country=United+States&amp;city=Houston%2C+TX"  class="discreet_link">Historical Data in Houston, TX</a></li>
+<li>See <a href="http://www.numbeo.com/cost-of-living/city_basket_analysis?country=United+States&amp;city=Houston%2C+TX" class="discreet_link">Analysis of our Consumer Price Basket in Houston, TX</a></li></ul></div>
+</nav>
+
+<div class="standard_margin">
+<div class="chart_bar"><script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(chartCpi_3428);
+      function chartCpi_3428() {
+      var data = google.visualization.arrayToDataTable([
+                ['Category', 'Amount in USD'],
+          ['Transportation', 313.76],
+          ['Clothing And Shoes', 87.32],
+          ['Sports And Leisure', 207.68],
+          ['Markets', 1397.70],
+          ['Utilities (Monthly)', 295.95],
+          ['Rent Per Month', 1642.16],
+          ['Restaurants', 540.43]
+        ]);
+
+        var options = {
+          title: 'Distribution of expenses using our statistical model', 
+          backgroundColor: '#E9F2FB',
+          is3D: true,
+          tooltip: { text: 'percentage'},
+          fontName: 'sans-serif' ,
+          fontSize: 12,
+          titleTextStyle: { fontSize: 14} ,
+          chartArea: {left:50,top:50, right:20, bottom:30, width:'90%', height:'80%'  }
+
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('chartCpi_3428_div'));
+        chart.draw(data, options);
+      }
+    </script>
+<div id="chartCpi_3428_div" class="pie_chart_could_be_big"></div></div>
+</div>
+
+
+
+<div class="comments_box">
+<!-- existing comments -->
+<i>35 Comments so far </i><br/>
+<div class="comment_even">
+ #<b>Andrew</b>
+<i> on Feb 05, 2016</i>
+: 
+<div class="comment_body">
+If you like far-right politics, extreme heat and humidity, traffic jams, road rage, xenophobia [amid the diversity, white people seem to hate other races and people from other states when it comes to affairs besides business], fundamentalists congregating in megachurches, rampant crime everywhere, all on a city built on a swamp, Houston is definitely your place!</div>
+</div>
+<div class="comment_odd">
+ #<b>j</b>
+<i> on Jan 25, 2016</i>
+: 
+<div class="comment_body">
+hi, I'm thinking about moving to Houston next year after I graduate college. I will have a bachelors in electrical engineering. How is the job market, what is the cost of living. can I make it with an engineering degree?</div>
+</div>
+<div class="comment_even">
+ #<b>Richard</b>
+<i> on Nov 08, 2015</i>
+: 
+<div class="comment_body">
+Houstin is unbearably hot, humid, and bug ridden seven months out of the year. The traffic is horrendous, commutes take far too long and can't possibly be good for your physical or emotional health. Restaurants here are a good and plentiful, but you can't dine outside. Entertainment venues are limited to movies, malls, sporting events and an annual rodeo. It's just too hot for theme parks other than water parks, and other outdoor activities. There is little to no natural beauty, save Memorial Drive/Allen Parkway. Lack of zoning has created a hideous, endless sprawl of strip malls, topless clubs, signage, and urban decay. The suburbs are well manicured and far more organized, but far from the city with no decent transportation to the urban centers. Unlike burbs in other major metros, they too are diversified. Jobs and a low cost of living are why people are here and will continue to come</div>
+</div>
+<div class="comment_odd">
+ #<b>Marjorie</b>
+<i> on Oct 31, 2015</i>
+: 
+<div class="comment_body">
+The northeast coast is inhabited by more intelligent people, but it's more densely populated. The Midwest is suffering from overcrowding, no jobs, and violent crime. The southeast states belong to Puerto Ricans, Mexican Americans, and retirees. The south central states have a lower cost of living, which attracts lower income families. Katrina drenched Louisiana dispersed her population into her surrounding states, which have yet to recover from the immediate increase in homeless, jobless, uneducated leeches who terrorize not only the major cities but also any modest-sized community which may be able to support their theft and drug habit. If you'd are wanting to improve your level of satisfaction in life in general, don't worry about what you'll spend. Find a community of THINKING individuals and find a way to support yourself there. There are small towns being abandoned for lack of jobs. Become self-sustaning. Harvest rain water. Raise chickens. Garden, sew, cook. Raise cattle. Stay away from big cities, crime, nightlife and stupid people. Your life will be peaceful. That's priceless!</div>
+</div>
+<div class="comment_even">
+ #<b>john</b>
+<i> on Oct 11, 2015</i>
+: 
+<div class="comment_body">
+Avg. income is not $3100.  Typical wage in Texas is $12/hr and many are paid just $7.25.  How does $12/hr get to $3100/month net income??</div>
+</div>
+<div class="comment_odd">
+ #<b>Jess</b>
+<i> on Mar 21, 2015</i>
+: 
+<div class="comment_body">
+***hey i have been looking in to the woodlands area or a nice suburb area to bring me and my CALIFORNIA raised family to. im moving forward in my nursing career and have always felt texas was my true home i needed to be. <br/>
+how is the medical field out there? how are the school for elemetary and day cares? <br/>
+the weather? i know this will be a BIG move coming from CALIFORNIA to TEXAS but i can adjust the traffic to me cant be as bad as take a 2 hour trip to San Fransico. stuck in traffice on a bridge (should only take about 45 mins with no traffic. other than the traffic i would liek to know about the night life the shopping housing prices and child friendly things to do. also how is the work field there not just medical field but other fields as well. any suggestions?</div>
+</div>
+<div class="comment_even">
+ #<b>melphix</b>
+<i> on Mar 19, 2015</i>
+: 
+<div class="comment_body">
+I stay in chicago bu the cost of living is high here just thinking of relocating to hoston,but how can a job in hoston pays per hour I mean minimum wages pls any help</div>
+</div>
+<div class="comment_odd">
+ #<b>Danielle</b>
+<i> on Jan 09, 2015</i>
+: 
+<div class="comment_body">
+For those of you looking at moving to Houston: What it costs to live inside the city (Loop 610 on a map) vs outside in a suburb (outside of beltway 8/Sam Houston tollway on a map) is Very different in terms of rent and mortgages. Being outside the city and working in it, will give you traffic headaches. If you have children and do not wish to pay for private school, you will probably think about living in a suburb. There are some good public schools in the city but in order to live within the zone for the better ones, you will pay a higher rent/mortgage etc. If you want a big home for less money, you should choose a suburb. If you want some night life, art, culture, sports... you will want to be in the city or make a 40 minute drive each way (when it isn't time for high traffic). If you want more space between you and your neighbor drive just a few minutes more outside any suburb and you will find it. We do have something for everyone...unless you love snow. Unless you visit and drive around a lot, you can't imagine the size of our &#34;city.&#34; It is Massive (but spread out) and growing. We have some pretty areas inside the city, then a ring of ugliness and then another ring of pretty spaces further out. So if you stay on freeways to go everywhere, it is not an attractive looking place. <br/>
+<br/>
+If you live here, you will want (and need) a car. We have public transportation but it's not a preferred method of travel. We are still a big Oil &amp; Gas industry city. As such, tiny cars are not really a cultural focus. It is not uncommon to see very large trucks, vans and SUVs with only 1 person in each stacked up and down the busiest streets during rush hour traffic. I'm a rare sight in my suburb because I do not own a pick up or an SUV. It is far more common to see 2+ of these vehicles parked at almost every home or in almost every parking spot at the grocery store. <br/>
+<br/>
+People here are like people everywhere: some are nice and some aren't. For the most part, we're a very live and let live group of people. Our suburbs have many churches. (enough that you could visit a different one each Sunday for over a year) We have mosques. We have parts of town where the street signs are written in multiple languages. We are (generally) conservative in our political views on federal spending. Beyond that, gay, black, white, asian, hispanic, whatever---we tend to live well amongst each other. There is crime. Be mindful of your purse's location. Generally, the crime is linked to drug usage.<br/>
+<br/>
+Come for the jobs, suffer our humidity and stay for the TexMex food. It's the thing my friends miss most when they leave.</div>
+</div>
+<div class="comment_even">
+ #<b>Terri</b>
+<i> on Jan 04, 2015</i>
+: 
+<div class="comment_body">
+I have no idea where all of you people are moving from but I wish you'd stay there. The traffic is absolutely horrible. I shutter when I hear a siren because I know if it's an ambulance they will not be able to move the traffic to get through. What used to take 5 minutes to get to my favorite shopping area now take a good 20 minutes.<br/>
+The crime in &#34;what I will call East Texas&#34; is horrible. It really began to rise after Katrina and it's been getting worse every since. I actually get tears in my eyes now when I watch the news, it's scary as hell. Do youself a favor, look elsewhere!<br/>
+A Native Texan</div>
+</div>
+<div class="comment_odd">
+ #<b>Kenny</b>
+<i> on Oct 07, 2014</i>
+: 
+<div class="comment_body">
+I am intending to enroll for a master program in subsea engineering at Huston at 2015. How fast can I get a sustainable job to support my next semester tuition fee and my welfare?</div>
+</div>
+<div class="comment_even">
+ #<b>Amber R</b>
+<i> on Jul 22, 2014</i>
+: 
+<div class="comment_body">
+Im born and raised here in Houston. I love this city. I've been living all over from clear lake to cypress to now Katy. Katy has to be my favorite so far. Great community feel, small but big in its own way. I'm moving to NC soon. I will definitely miss my home town!!</div>
+</div>
+<div class="comment_odd">
+ #<b>Akiesta</b>
+<i> on Jul 19, 2014</i>
+: 
+<div class="comment_body">
+My family and I are thinking of moving to Houston from MS once I finish OT school. We would like to know what would be a good area to rent a home or apartment near a great middle school and community?</div>
+</div>
+<div class="comment_even">
+ #<b>Andrew</b>
+<i> on Jul 08, 2014</i>
+: 
+<div class="comment_body">
+Yay so I got back from Houston and got accepted for a job :-) <br/>
+Moving there from Australia<br/>
+Can anyone recommend a nice suburb to move to? <br/>
+For a young couple about to start a family.</div>
+</div>
+<div class="comment_odd">
+ #<b>Elizabeth</b>
+<i> on May 22, 2014</i>
+: 
+<div class="comment_body">
+Hi! I am moving to the Kirby area soon in Houston. I only earn 50k a year. Considering living with a flat-mate and sharing utilities/rent etc. I'm single and have no dependents. How much do you think I'll be spending considering I'd go out every weekend to try a different eatery, drive around my paid-off car, go to the gym, eat healthy and basically just maintain a basic lifestyle?</div>
+</div>
+<div class="comment_even">
+ #<b>Sidney</b>
+<i> on Apr 02, 2014</i>
+: 
+<div class="comment_body">
+I currently live about 30-45 minutes from downtown Houston. I'd recommend (depending on job market and job location) Pasadena, Deer Park, and Baytown! We are in the process of apartment hunting and so far the average for a 2-3 bedroom has been about $750. My husband is a pipefitter and has had no problem finding jobs in the area and we've been able to take trips, pay off debt, and enjoy many date nights because our cost of living is low! So far the traffic hasn't been horrific either.</div>
+</div>
+<div class="comment_odd">
+ #<b>hams</b>
+<i> on Feb 24, 2014</i>
+: 
+<div class="comment_body">
+Hi, am gonna move to Houston TX ,i want to ask how much the 1bedroom there &amp; how much i should to have per month to life</div>
+</div>
+<div class="comment_even">
+ #<b>Claudia</b>
+<i> on Feb 13, 2014</i>
+: 
+<div class="comment_body">
+Hi,<br/>
+My company is offering me a relocation to Houston with a local contract. I would like to know how would be the costs for having a car including gas, insurance and other taxes that i should consider.<br/>
+<br/>
+Also I would like to know how is the costs for living in the Woodlands where my company is located.<br/>
+<br/>
+Thanks a lot.</div>
+</div>
+<div class="comment_odd">
+ #<b>HT</b>
+<i> on Feb 12, 2014</i>
+: 
+<div class="comment_body">
+I currently live in houston! Its great. The job market is steady for almost any job and its pretty cheap to live here...</div>
+</div>
+<div class="comment_even">
+ #<b>Ron</b>
+<i> on Feb 05, 2014</i>
+: 
+<div class="comment_body">
+How's the car business in Houston. I always here its great but need some reassuring... Any input will do.</div>
+</div>
+<div class="comment_odd">
+ #<b>Jose Luna</b>
+<i> on Feb 03, 2014</i>
+: 
+<div class="comment_body">
+Me and my family need's to move on to houston tx. (near texas childrens hospital) we are from el paso tx. we need to get a cheap rent apartament and near to elementary school and high school for my 3 kids please make me recomendatios.<br/>
+thanks</div>
+</div>
+<div class="comment_even">
+ #<b>Albert</b>
+<i> on Jan 23, 2014</i>
+: 
+<div class="comment_body">
+Good day any advice from us we are planning to move in houston after 6 months.  My wife is working as a staff nurse and i am looking for a job for sterile services job in the hospital. we are coming from united kingdom.</div>
+</div>
+<div class="comment_odd">
+ #<b>Willie</b>
+<i> on Jan 22, 2014</i>
+: 
+<div class="comment_body">
+Hey guys , I am looking at a job in the Huston area. I am moving from Cleveland Ohio , what can i read to get an overall cost of living index form the city of Huston.</div>
+</div>
+<div class="comment_even">
+ #<b>Nicole </b>
+<i> on Jan 21, 2014</i>
+: 
+<div class="comment_body">
+Original post: #mahmoud on Dec 18, 2013 :<br/>
+Hi guys . <br/>
+I am moving to houston for an education program. My first visit will be 3.months starting from february. Any clues how much do i need to spend for living during these 3.months considering the minimum of everything ?<br/>
+<br/>
+I don't know many apartments that rent for 3 months, especially if you're looking for a furnished arrangement.  I used to live at the Texas Medical Center at the Camden Vanderbilt, many of my neighbors were patients who flew in for treatments, residents or fellows who were doing their residency - they were paying $3,000/month furnished for a 1 bedroom in 2008 on a month-to-month basis.  Rents have gone up SIGNIFICANTLY in the past 3 years and I wouldn't be surprise if it's at least $4,000/month now.  <br/>
+We own a 3 story-3 beds, 3.5 baths, 2 car garage east of downtown and rented our first floor bedroom out to an Exxon Mobil intern last year for $1,200/month for 3 months.  We listed on Craigslist.  You might get some luck looking for such arrangements on Craigslist (under room wanted section) or airbnb.  Ours is not available this year.  Good luck.</div>
+</div>
+<div class="comment_odd">
+ #<b>Nicole </b>
+<i> on Jan 21, 2014</i>
+: 
+<div class="comment_body">
+Original post: #leo on Jan 04, 2014 :<br/>
+Hi, im from San Diego think about relocating to Houston.my question is with city ( Houston, Austin, or Dallas)is better.<br/>
+<br/>
+Hi Leo, these 3 cities are very different.  I have only been to Dallas for business - expect long commute if you live far from town both in Houston and Austin. Austin's infrastructure can only accommodate 30% of its current population. <br/>
+-Houston is more diverse, both demographically and economically. Houston also has a larger Asian population as well.  It is more humid and also hotter in the summer.  Houston has many areas (with no zoning within the 610 loop).  You can expect to pay between $1,200-$1,800/month for a nice apartment within the loop.  You can find many run-down apartments or (far from town) below $700 but I do not recommend since they might not be safe.  There really isn't much in between as developers bought the prime real estate and rebuild them to suit the higher end clienteles. <br/>
+-Austin is very similar to San Diego, in my opinion.  Lot more laid back, lots of hipsters, outdoor activities and the city has a collectic vibe with great music scene.  Austin has received a large influx of CA residents in the recent years. Probably 30% of Austinites are less than 25 years old.  Most UT graduates want to stay there but since there isn't many jobs available in entry-level positions, they end of being servers (with bad attitude).  If you're in the IT sector, apps development or software related, you should be able to find a decent paying job.  <br/>
+-Dallas is just a pretentious city.  Let me put this way, if people from San Diego are moving to Austin, Dallas are for the folks from LAs. <br/>
+<br/>
+Hope this helps.</div>
+</div>
+<div class="comment_even">
+ #<b>leo</b>
+<i> on Jan 04, 2014</i>
+: 
+<div class="comment_body">
+Hi, im from San Diego think  about relocating to Houston.my question is with city ( Houston, Austin, or Dallas)is better.</div>
+</div>
+<div class="comment_odd">
+ #<b>mahmoud</b>
+<i> on Dec 18, 2013</i>
+: 
+<div class="comment_body">
+Hi guys .<br/>
+I am moving to houston for an education program. My first visit will be 3.months starting from february. Any clues how much do i need to spend for living during these 3.months considering the minimum of everything ?</div>
+</div>
+<div class="comment_even">
+ #<b>bob</b>
+<i> on Nov 18, 2013</i>
+: 
+<div class="comment_body">
+look into Salt Lake City.  the mountains are beautiful, lots of skiing in the winter, summer water sports on the reservoirs, hiking on perhaps a hundred trails, hunting and fishing all over the place.  the job market is really good also.  quality of life is the best that i have seen.   we have a home in greater salt lake as well as houston, tx.  Intial home prices in Salt Lake are a bit higher than Houston but our Salt Lake taxes are more than 50% lower.  Our insurance is Salt Lake is about one sixth of what they are in Houston.  Weather in Houston is Hot and very humid in the summer and mild in the winter.  Salt Lake summer weather can be hot but very dry.  Salt Lake winters are cold and sometimes snowy.</div>
+</div>
+<div class="comment_odd">
+ #<b>Diana</b>
+<i> on Nov 07, 2013</i>
+: 
+<div class="comment_body">
+Hi! I'm moving to Houston in a few weeks, I just received a job offer. My new work is located at Richmond Ave. Two questions:<br/>
+<br/>
+1. Is 55k a good salary to live in Houston?<br/>
+2. What neighborhoods should I look at to be close to the office (Richmond Ave)?<br/>
+<br/>
+I am relocating from Puerto Rico, so I need all the help I can get...tx!<br/>
+<br/>
+:)</div>
+</div>
+<div class="comment_even">
+ #<b>Sara Smith</b>
+<i> on Oct 21, 2013</i>
+: 
+<div class="comment_body">
+Hi, we live in Greenville, SC.  <br/>
+It's big enough to have amenities, culture, libraries, etc., but a hometown feel.  Cost of living is not much more than Houston, and weather is much more moderate.  Those Houston summers are, well, probably like the Aussie outback.  <br/>
+Anyway...maybe, too, you can tell the Progressives here what the results of high taxes, etc. look like!<br/>
+Sara</div>
+</div>
+<div class="comment_odd">
+ #<b>Ruben</b>
+<i> on Oct 12, 2013</i>
+: 
+<div class="comment_body">
+Well andrew , I read your standard of living in Australia and I can say that sucks, movingo to houston will be your best option, Houston besides of being a nice place to be it is searching for people to live there as the goverment there is opening new industries, this means that it's a lot of work there! I recommend you to move there. hope this answer has helped u.</div>
+</div>
+<div class="comment_even">
+ #<b>Ema</b>
+<i> on Oct 10, 2013</i>
+: 
+<div class="comment_body">
+Hi<br/>
+I'm new in Houston and I'd like to move around for the day. As I do not have insurance to rent a car (I'm from outside the US), how can I get a cheap taxi that will wait for me for about 6 hours?</div>
+</div>
+<div class="comment_odd">
+ #<b>joe antroire</b>
+<i> on Oct 01, 2013</i>
+: 
+<div class="comment_body">
+I just move to houston from florida huge difirency  talking air pollution</div>
+</div>
+<div class="comment_even">
+ #<b>Richard</b>
+<i> on Sep 24, 2013</i>
+: 
+<div class="comment_body">
+I live in east downtown Houston one block from the Astros ballpark. I actuallyelove living here. Houston is the cheapest if not one of the cheapest cities in the states to live in. I once had an apartment on the SE side of town for only $399/mo; my water and lights were never over $100 combined. The only drawback is the cities in Texas are spread out and sometimes there is hella traffic. I'm pretty good at navigating my way around, so this never bothers me. But there are people here from all parts of the world; the food and restaurants are great. I'm sure you'll love it here...</div>
+</div>
+<div class="comment_odd">
+ #<b>Salman</b>
+<i> on Sep 19, 2013</i>
+: 
+<div class="comment_body">
+The job market is quite steady in Houston especially if youre in the energy sector. Houston is known for its oil and gas industry plenty of jobs there and the its Medical Center. Housing and food is affordable as well. Downsides are you drive a lot, average commute will be atleast 20 minutes. Its a huge city thats spread out and can get very hot and humid. Some areas have poor air quality due to the oil refineries. Other cities near  Houston are Dallas and Austin where the tech industry is booming. Hope this helps</div>
+</div>
+<div class="comment_even">
+ #<b>Andrew</b>
+<i> on Sep 10, 2013</i>
+: 
+<div class="comment_body">
+Hi, <br/>
+<br/>
+I'm looking to move to Houston. Whats the job market like? <br/>
+<br/>
+I work in Australia at the moment but the standard of living is horrible. <br/>
+<br/>
+Work 50-60 hrs a week. Get stuck in traffic for 3 hours a day.<br/>
+<br/>
+40% tax. 10% gst. Levy upon levy. you only clear about 40-50% of your pay. 3x1 wood cottage house built in the 50's costs 1+ million. <br/>
+<br/>
+Zero variety. No shops. Stores close early. <br/>
+<br/>
+They have started building micro units in our city 6x5 m (270ft2). shared bathroom for $150k no window. <br/>
+<br/>
+I don't want to live in a country that all it does is take take take. <br/>
+<br/>
+97% of all developable land is owned by a single land corporation and its subsidiaries. Sickening.<br/>
+<br/>
+Majority of new homes and builds are now by international Chinese investors.<br/>
+<br/>
+We don't even own the land we were born to...<br/>
+<br/>
+Screw Australia which is why we are looking into which city to move to in the US.<br/>
+<br/>
+Any other cities that are nice?<br/>
+</div>
+</div>
+<!-- post a comment -->
+<br/><b><i>Leave a comment :</i></b><br/>
+<form method="post" action="http://www.numbeo.com/common/SaveComment" accept-charset="UTF-8" >
+<input type=hidden name="city" id="city" value="Houston, TX" />
+<input type="hidden" name="checking" id="checking" value="notchecked" />
+<input type=hidden name="country" id="country" value="United States" />
+<input type=hidden name="afterSaveCommentUrl" id="afterSaveCommentUrl" value="/cost-of-living/city_result.jsp?country=United+States&amp;city=Houston,+TX" />
+<input type=hidden name="appModul" id="appModul" value="1" />
+Your name: <input type=text name="yourname" id="yourname" /> <a href="http://www.numbeo.com/common/signIn?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHouston%2C%2BTX" class="small_font">Sign In</a> <br/>
+Your email address (optional): <input type=text name="email_address" id="email_address" /> <br/>
+Your comment (no HTML): <br/>
+<textarea name="commentText" id="commentText" class="comment_text_area"></textarea>
+<br/>
+<input type=submit value="Post comment" />
+</form>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking').val('secret');
+});
+</script>
+
+<aside class="disabled_on_small_devices">
+<div class="standard_margin">
+<div class="nearby_city_info">Nearby cities: <table class="close_city_info">
+<tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=College+Station%2C+TX" class="likenormal"><span>Cost of Living in </span><span class="like_a">College Station, Texas</span></a></td><td style="padding-left: 5px; text-align: right">151.73 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Austin%2C+TX" class="likenormal"><span>Cost of Living in </span><span class="like_a">Austin, Texas</span></a></td><td style="padding-left: 5px; text-align: right">259.93 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Waco%2C+TX" class="likenormal"><span>Cost of Living in </span><span class="like_a">Waco, Texas</span></a></td><td style="padding-left: 5px; text-align: right">296.85 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=San+Antonio%2C+TX" class="likenormal"><span>Cost of Living in </span><span class="like_a">San Antonio, Texas</span></a></td><td style="padding-left: 5px; text-align: right">311.98 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Longview%2C+TX" class="likenormal"><span>Cost of Living in </span><span class="like_a">Longview, Texas</span></a></td><td style="padding-left: 5px; text-align: right">343.71 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Corpus+Christi%2C+TX" class="likenormal"><span>Cost of Living in </span><span class="like_a">Corpus Christi, Texas</span></a></td><td style="padding-left: 5px; text-align: right">348.36 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Dallas%2C+TX" class="likenormal"><span>Cost of Living in </span><span class="like_a">Dallas, Texas</span></a></td><td style="padding-left: 5px; text-align: right">394.44 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Shreveport%2C+LA" class="likenormal"><span>Cost of Living in </span><span class="like_a">Shreveport, Louisiana</span></a></td><td style="padding-left: 5px; text-align: right">394.58 km</td></tr></table>
+</div>
+</div>
+</aside>
+
+<a href="http://www.tralev.com" rel="nofollow" target="_blank" style="border: 0; text-decoration: none;"><span class="ad_for_tralev">&nbsp;</span></a>
+
+<nav>
+<div class="text_block">
+<span class="small_font">
+More about Houston, TX: <span class="more_about_content">
+<span class="nobreak">
+<b>Cost of Living</b></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/crime/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Crime</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/climate/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Climate</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/food-prices/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Food Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/gas-prices/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Gas Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/health-care/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Health Care</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/travel-prices/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Travel Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/pollution/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Pollution</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/property-investment/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Property Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/quality-of-life/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Quality of Life</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/taxi-fare/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Taxi Fare</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/traffic/city_result.jsp?country=United+States&amp;city=Houston%2C+TX">Traffic</a></span>
+</span>
+</span>
+</div>
+</nav>
+
+
+<div id="fb-root"></div>
+<div class="footer_content">
+<a href="http://www.numbeo.com/common/about.jsp">About</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/in_the_news.jsp">In the News</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/join_community.jsp">Newsletter</a><span class="footer_separator"></span>
+<a href="http://feeds2.feedburner.com/NumbeoBlog" target="_blank">Blog</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/api.jsp" rel="nofollow">API</a><p>
+<span style="font-style: italic">
+Copyright &copy; 2009-2016 Numbeo. Your use of this service is subject to our 
+<a href="http://www.numbeo.com/common/terms_of_use.jsp">Terms of Use</a> and 
+<a href="http://www.numbeo.com/common/privacy.jsp">Privacy Policy</a>
+</span></p>
+</div>
+</div> <!-- end of innerWidth --> 
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>  <script type="text/javascript">
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=182369865155656";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10969791-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    </body>
+</html>
+
+
+

@@ -1,0 +1,1235 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="canonical" href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL" />
+<meta property="og:title" content="Cost of Living in Chicago" />
+<meta property="og:description" content="Average prices of more than 40 products and services in Chicago, IL, United States updated Feb 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL"/>
+            <script type="text/javascript" src="../common/numbeo_standard.js"></script>
+    <link type="text/css" href="../common/css/redmond/jquery-ui-1.10.3.custom.min.css" rel="Stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+    <!-- script src="http://platform.linkedin.com/in.js" type="text/javascript"></script -->
+    <script type="text/javascript" src="../common/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="../common/js/jquery-ui-1.10.3.custom.min.js"></script>
+   <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <link rel="stylesheet" type="text/css" href="../common/style.css" />
+    <link rel="stylesheet" type="text/css" href="../common/style_desktop.css" />
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#nav-one li").hover(
+		function(){ $("ul", this).fadeIn("fast"); },
+		function() { }
+	);
+	if (document.all) {
+		$("#nav-one li").hoverClass ("sfHover");
+	}
+});
+$.fn.hoverClass = function(c) {
+	return this.each(function(){
+		$(this).hover(
+			function() { $(this).addClass(c);  },
+			function() { $(this).removeClass(c); }
+		);
+	});
+};
+</script>
+
+<title>Cost of Living in Chicago</title>
+
+</head>
+<body>
+<div class="logo-and-upper-ad">
+<div class="innerWidth">
+<div style="display: block; height: 90px; width: 728px; margin: 0 auto;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ad_in_header3 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="7618322317"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<tr>
+<td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
+<a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
+<img  src="http://www.numbeo.com/images/numbeo_icon.svg" style="height: 62px; vertical-align: bottom; border: 0;" alt="" /><img  src="http://www.numbeo.com/images/numbeo_text.svg" style="height: 34px; margin-left: 1em; margin-bottom: 8px; vertical-align: bottom; border: 0;" alt="NUMBEO" /></a>
+</td>
+<td style="padding-left:8px; padding-top: 0px; padding-bottom: 0px; vertical-align: middle; width: 680px; text-align: right;" >
+<div style="display: inline-block; width: 100%; margin-top: 10px; margin-bottom: 10px; text-align: right; vertical-align: bottom">
+<nav style="display: inline-block; vertical-align: middle;">
+<div class="standard_margin_inlineblock" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="menu_dispatch_form"  style="display: inline; padding: 0; margin:0;">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/city_result.jsp" style="display: inline; padding:0; margin:0;" />
+<input id="city_selector_menu_city_id" size="35" type="text" placeholder="Select City (Cost of Living)" class="ui-corner-all city-selector-menu"/>
+<input type="hidden" id="menu_city_id" name="city_id"/>
+<input type="hidden" id="name_menu_city_id" name="name_city_id"/>
+      </form>
+</div>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_menu_city_id').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_menu_city_id').val(ui.item.label);
+         $('#menu_city_id').val(ui.item.value);
+jQuery('#menu_dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#menu_city_id').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_menu_city_id').val();
+		   $('#name_menu_city_id').val(val);
+	   }
+  }); // end autocompleter definition
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+ }); // end document ready 
+</script>
+</nav>
+<nav style="display: inline-block; vertical-align: middle; padding-left: 0.5em;">
+<div class="standard_margin_inlineblock">
+<select name="city_result_switcher" id="city_result_switcher"  onchange="window.location = this.value;" class="result_switcher ui-corner-all">
+<option value="" selected="selected">What are you looking for?</option>
+<option value="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Cost of Living in Chicago, IL</option>
+<option value="http://www.numbeo.com/crime/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Crime in Chicago, IL</option>
+<option value="http://www.numbeo.com/climate/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Climate in Chicago, IL</option>
+<option value="http://www.numbeo.com/food-prices/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Food Prices in Chicago, IL</option>
+<option value="http://www.numbeo.com/gas-prices/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Gas Prices in Chicago, IL</option>
+<option value="http://www.numbeo.com/health-care/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Health Care in Chicago, IL</option>
+<option value="http://www.numbeo.com/travel-prices/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Travel Prices in Chicago, IL</option>
+<option value="http://www.numbeo.com/pollution/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Pollution in Chicago, IL</option>
+<option value="http://www.numbeo.com/property-investment/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Property Prices in Chicago, IL</option>
+<option value="http://www.numbeo.com/quality-of-life/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Quality of Life in Chicago, IL</option>
+<option value="http://www.numbeo.com/taxi-fare/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Taxi Fares in Chicago, IL</option>
+<option value="http://www.numbeo.com/traffic/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Traffic in Chicago, IL</option>
+</select>
+
+</div>
+</nav>
+</div>
+</td>
+</tr>
+</table>
+</div> <!-- innerWidth in header -->
+</div> <!-- logo-and-upper-ad -->
+<div class="dropdown-outer">
+<div class="innerWidth">
+<nav class="before-nav" >
+    <ul id="nav-one" class="nav">
+
+	<li class="dir">
+<a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/comparison.jsp">Cost of Living Comparison</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/calculator.jsp">Cost of Living Calculator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings.jsp">Cost Of Living Index</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp">Cost Of Living Index (Current)</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_by_country.jsp">Cost Of Living Rankings By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/estimator_main">Cost of Living Estimator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/analysis_main">Cost of Living Analysis</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_city.jsp">Prices By City</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_country.jsp">Prices By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-data">Historical Data in a City by Year </a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-prices-by-city">Historical Data in a Year by City</a></li>
+    <li><a href="http://www.numbeo.com/food-prices/">Food Prices</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/basket_of_goods.jsp">Basket of Goods and Services</a></li>
+    <li><a href="http://www.numbeo.com/common/motivation_and_methodology.jsp">Our Motivation and Methodology</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/contribute.jsp">Update Information for Your City</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/property-investment/">Property Prices</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/property-investment/">Property Prices</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/comparison.jsp">Property Prices Comparison</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings.jsp">Property Price Index</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_current.jsp">Property Price Index Rate (Current)</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_by_country.jsp">Property Price Index By Country</a></li>
+   </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/crime/">Crime</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/crime/">Crime</a></li>
+    <li><a href="http://www.numbeo.com/crime/comparison.jsp">Crime Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_current.jsp">Crime Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings.jsp">Crime Index</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_by_country.jsp">Crime Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/health-care/">Health Care</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/health-care/">Health Care</a></li>
+    <li><a href="http://www.numbeo.com/health-care/comparison.jsp">Health Care Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_current.jsp">Health Care Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings.jsp">Health Care Index</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_by_country.jsp">Health Care Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/pollution/">Pollution</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/pollution/">Pollution</a></li>
+    <li><a href="http://www.numbeo.com/pollution/comparison.jsp">Pollution Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_current.jsp">Pollution Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings.jsp">Pollution Index</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_by_country.jsp">Pollution Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/traffic/">Traffic</a>
+  <ul>
+     <li><a href="http://www.numbeo.com/traffic/">Traffic</a></li>
+     <li><a href="http://www.numbeo.com/traffic/comparison.jsp">Traffic Comparisons</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_current.jsp">Traffic Index Rate Latest</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings.jsp">Traffic Index</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_by_country.jsp">Traffic Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/quality-of-life/">Quality Of Life</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/quality-of-life/">Quality of Life</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/comparison.jsp">Quality of Life Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_current.jsp">Quality of Life Index Rate Latests</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings.jsp">Quality of Life Index</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_by_country.jsp">Quality of Life Index by Country</a></li>
+	</ul></li>
+	<li class="dir">
+<a href="#">Travel</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/taxi-fare/">Taxi Fare Calculator</a></li>
+    <li><a href="http://www.numbeo.com/gas-prices/">Gas Prices Calculator</a></li>
+    <li><a href="http://www.numbeo.com/travel-prices/">Travel Prices</a></li>
+	</ul></li>
+
+
+</ul>
+<br style="clear: both"/>
+</nav>
+</div> <!-- innerWidth in header -->
+</div> <!-- dropdown-outer -->
+<div class="innerWidth">
+ <div class="right-ads-and-info">
+ <div class="right-ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- numbeo2_0 ads_right_med_rect -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="8165022551"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+ </div>
+<p>
+<nav itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
+<a href="http://www.numbeo.com/common/" class="discreet_link"><img src="http://www.numbeo.com/images/home.png" class="image_without_border hide_smaller_than_600" alt="home"/></a><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/" itemprop="item" class="breadcrumb_link"><span itemprop="name">Cost of Living</span></a><meta itemprop="position" content="1" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+ <a href="http://www.numbeo.com/cost-of-living/country_result.jsp?country=United+States"  itemprop="item"  class="breadcrumb_link"><span itemprop="name">United States</span></a><meta itemprop="position" content="2" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL"  itemprop="item"  class="breadcrumb_link">
+<span itemprop="name">Chicago, IL</span></a><meta itemprop="position" content="3" />
+</span></nav>
+    <h1> Cost of Living in Chicago</h1>
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<!-- Column 1 start -->
+
+
+<nav>
+<div class="standard_margin disabled_on_small_devices" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="dispatch_form" class="dispatch_form">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/compare_cities.jsp" style="display: inline; padding:0; margin:0;" />
+      <input type="hidden" name="city_id2" id="city_id2" value="3405"/>
+ Compare Chicago, IL  with: <input id="city_selector_city_id1" size="35" type="text" placeholder="Type and Pick City" class="ui-corner-all" />
+<input type="hidden" id="city_id1" name="city_id1"/>
+<input type="hidden" id="name_city_id1" name="name_city_id1"/>
+      <input type="hidden" name="tracking" value="getDispatchComparison" />
+      </form>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_city_id1').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_city_id1').val(ui.item.label);
+         $('#city_id1').val(ui.item.value);
+jQuery('#dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#city_id1').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_city_id1').val();
+		   $('#name_city_id1').val(val);
+	   }
+  }); // end autocompleter definition
+ }); // end document ready 
+</script>
+</div> 
+</nav>
+
+<div class="table_indices limit_size_ad_right table_indices_bigger">
+Cost of living in <span class="purple_light">Chicago</span> is 0.78%<span class="red_light"> higher</span> than in <span class="rose_light">Paris</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=United+States&amp;city=Chicago%2C+IL" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 873.99&#8364; <span class="in_other_currency">(971.97&#36;)</span>
+ and for four person family at 3,215.60&#8364; <span class="in_other_currency">(3,576.06&#36;)</span>
+ (without rent).</span></div>
+
+<aside><div class="seeding-call disabled_on_small_devices">
+    Do you live in <span class="purple_light">Chicago</span>? <span class="we_need_your_help">We need your help: <a href="http://www.numbeo.com/common/form.jsp?country=United+States&amp;city=Chicago%2C+IL&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL&amp;tracking=standardEnterData" rel="nofollow" class="enterDataA">Add data for Chicago, IL! </a></span></div></aside>
+
+<nav>
+<form action="city_result.jsp" method="get" class="standard_margin">
+<input type="hidden" name="country" value="United States" />
+<input type="hidden" name="city" value="Chicago, IL" />
+
+Currency:          <select id="displayCurrency" name="displayCurrency" onchange="if (checkSelectedSomeTextNotDashed('displayCurrency')) this.form.submit();">
+             <option value="EUR">EUR</option>
+             <option value="USD" selected="selected">USD</option>
+             <option value="---">---</option>
+             <option value="AED">AED</option>
+             <option value="AFN">AFN</option>
+             <option value="ALL">ALL</option>
+             <option value="AMD">AMD</option>
+             <option value="ANG">ANG</option>
+             <option value="AOA">AOA</option>
+             <option value="ARS">ARS</option>
+             <option value="AUD">AUD</option>
+             <option value="AWG">AWG</option>
+             <option value="AZN">AZN</option>
+             <option value="BAM">BAM</option>
+             <option value="BBD">BBD</option>
+             <option value="BDT">BDT</option>
+             <option value="BGN">BGN</option>
+             <option value="BHD">BHD</option>
+             <option value="BIF">BIF</option>
+             <option value="BMD">BMD</option>
+             <option value="BND">BND</option>
+             <option value="BOB">BOB</option>
+             <option value="BRL">BRL</option>
+             <option value="BSD">BSD</option>
+             <option value="BTN">BTN</option>
+             <option value="BWP">BWP</option>
+             <option value="BYR">BYR</option>
+             <option value="BZD">BZD</option>
+             <option value="CAD">CAD</option>
+             <option value="CDF">CDF</option>
+             <option value="CHF">CHF</option>
+             <option value="CLF">CLF</option>
+             <option value="CLP">CLP</option>
+             <option value="CNH">CNH</option>
+             <option value="CNY">CNY</option>
+             <option value="COP">COP</option>
+             <option value="CRC">CRC</option>
+             <option value="CUP">CUP</option>
+             <option value="CVE">CVE</option>
+             <option value="CYP">CYP</option>
+             <option value="CZK">CZK</option>
+             <option value="DEM">DEM</option>
+             <option value="DJF">DJF</option>
+             <option value="DKK">DKK</option>
+             <option value="DOP">DOP</option>
+             <option value="DZD">DZD</option>
+             <option value="ECS">ECS</option>
+             <option value="EGP">EGP</option>
+             <option value="ERN">ERN</option>
+             <option value="EUR">EUR</option>
+             <option value="FJD">FJD</option>
+             <option value="FKP">FKP</option>
+             <option value="FRF">FRF</option>
+             <option value="GBP">GBP</option>
+             <option value="GEL">GEL</option>
+             <option value="GIP">GIP</option>
+             <option value="GMD">GMD</option>
+             <option value="GNF">GNF</option>
+             <option value="GTQ">GTQ</option>
+             <option value="GYD">GYD</option>
+             <option value="HKD">HKD</option>
+             <option value="HNL">HNL</option>
+             <option value="HRK">HRK</option>
+             <option value="HTG">HTG</option>
+             <option value="HUF">HUF</option>
+             <option value="IDR">IDR</option>
+             <option value="IEP">IEP</option>
+             <option value="ILS">ILS</option>
+             <option value="INR">INR</option>
+             <option value="IQD">IQD</option>
+             <option value="ISK">ISK</option>
+             <option value="ITL">ITL</option>
+             <option value="JMD">JMD</option>
+             <option value="JOD">JOD</option>
+             <option value="JPY">JPY</option>
+             <option value="KES">KES</option>
+             <option value="KGS">KGS</option>
+             <option value="KHR">KHR</option>
+             <option value="KMF">KMF</option>
+             <option value="KPW">KPW</option>
+             <option value="KRW">KRW</option>
+             <option value="KWD">KWD</option>
+             <option value="KYD">KYD</option>
+             <option value="KZT">KZT</option>
+             <option value="LAK">LAK</option>
+             <option value="LBP">LBP</option>
+             <option value="LKR">LKR</option>
+             <option value="LRD">LRD</option>
+             <option value="LSL">LSL</option>
+             <option value="LTL">LTL</option>
+             <option value="LVL">LVL</option>
+             <option value="LYD">LYD</option>
+             <option value="MAD">MAD</option>
+             <option value="MDL">MDL</option>
+             <option value="MGA">MGA</option>
+             <option value="MKD">MKD</option>
+             <option value="MNT">MNT</option>
+             <option value="MOP">MOP</option>
+             <option value="MRO">MRO</option>
+             <option value="MUR">MUR</option>
+             <option value="MVR">MVR</option>
+             <option value="MWK">MWK</option>
+             <option value="MXN">MXN</option>
+             <option value="MXV">MXV</option>
+             <option value="MYR">MYR</option>
+             <option value="MZN">MZN</option>
+             <option value="NAD">NAD</option>
+             <option value="NGN">NGN</option>
+             <option value="NIO">NIO</option>
+             <option value="NOK">NOK</option>
+             <option value="NPR">NPR</option>
+             <option value="NZD">NZD</option>
+             <option value="OMR">OMR</option>
+             <option value="PAB">PAB</option>
+             <option value="PEN">PEN</option>
+             <option value="PGK">PGK</option>
+             <option value="PHP">PHP</option>
+             <option value="PKR">PKR</option>
+             <option value="PLN">PLN</option>
+             <option value="PYG">PYG</option>
+             <option value="QAR">QAR</option>
+             <option value="RON">RON</option>
+             <option value="RSD">RSD</option>
+             <option value="RUB">RUB</option>
+             <option value="RWF">RWF</option>
+             <option value="SAR">SAR</option>
+             <option value="SBD">SBD</option>
+             <option value="SCR">SCR</option>
+             <option value="SDG">SDG</option>
+             <option value="SEK">SEK</option>
+             <option value="SGD">SGD</option>
+             <option value="SHP">SHP</option>
+             <option value="SIT">SIT</option>
+             <option value="SLL">SLL</option>
+             <option value="SOS">SOS</option>
+             <option value="SRD">SRD</option>
+             <option value="STD">STD</option>
+             <option value="SVC">SVC</option>
+             <option value="SYP">SYP</option>
+             <option value="SZL">SZL</option>
+             <option value="THB">THB</option>
+             <option value="TJS">TJS</option>
+             <option value="TMT">TMT</option>
+             <option value="TND">TND</option>
+             <option value="TOP">TOP</option>
+             <option value="TRY">TRY</option>
+             <option value="TTD">TTD</option>
+             <option value="TWD">TWD</option>
+             <option value="TZS">TZS</option>
+             <option value="UAH">UAH</option>
+             <option value="UGX">UGX</option>
+             <option value="USD">USD</option>
+             <option value="UYU">UYU</option>
+             <option value="VND">VND</option>
+             <option value="VUV">VUV</option>
+             <option value="WST">WST</option>
+             <option value="XAF">XAF</option>
+             <option value="XCD">XCD</option>
+             <option value="XDR">XDR</option>
+             <option value="XOF">XOF</option>
+             <option value="XPF">XPF</option>
+             <option value="YER">YER</option>
+             <option value="ZAR">ZAR</option>
+             <option value="ZMW">ZMW</option>
+             <option value="ZWL">ZWL</option>
+         </select>
+
+<span class="small_font small_space_desktop"><a href="http://www.numbeo.com/common/currency_settings.jsp?return=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL" rel="nofollow">Sticky Currency</a></span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="small_font">
+<a href="http://www.numbeo.com/common/measurement_settings.jsp?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL" rel="nofollow">Switch to US measurement units</a></span>
+</form>
+</nav>
+
+<table class="data_wide_table"><tr> <th class="highlighted_th prices">Restaurants</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Chicago%2C+IL&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL&amp;current=0&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices" style="padding-left: 132px; text-align: left;">Range</th>
+</tr>
+<tr><td>Meal, Inexpensive Restaurant </td> <td style="text-align: right" class="priceValue "> 15.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+10.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">20.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 70.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+50.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 16px;" ></span><span class="barTextRight">85.00</span></td>
+ </tr>
+<tr><td>McMeal at McDonalds (or Equivalent Combo Meal) </td> <td style="text-align: right" class="priceValue "> 7.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+6.00</span><span class="barLeft" style="width: 9px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">8.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Domestic Beer (0.5 liter draught) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 5.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+4.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 1px;" ></span><span class="barTextRight">5.00</span></td>
+ </tr>
+<tr><td>Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 6.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+5.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">7.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Cappuccino (regular) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.87&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">5.00</span></td>
+ </tr>
+<tr><td>Coke/Pepsi (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.80&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.25</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Water (0.33 liter bottle)  </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.72&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.29</span><span class="barLeft" style="width: 17px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Markets</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Chicago%2C+IL&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL&amp;current=1&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Milk (regular), (1 liter) </td> <td style="text-align: right" class="priceValue "> 0.89&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+0.66</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">1.08</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Loaf of Fresh White Bread (500g) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.79&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.19</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">3.86</span></td>
+ </tr>
+<tr><td>Rice (white), (1kg) </td> <td style="text-align: right" class="priceValue "> 4.06&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 33px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 46px;" ></span><span class="barTextRight">6.61</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Eggs (12) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.94&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.00</span><span class="barLeft" style="width: 22px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">3.50</span></td>
+ </tr>
+<tr><td>Local Cheese (1kg) </td> <td style="text-align: right" class="priceValue "> 12.44&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+8.80</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">17.64</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Chicken Breasts (Boneless, Skinless), (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 12.39&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+8.80</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">16.49</span></td>
+ </tr>
+<tr><td>Beef Round (1kg) (or Equivalent Back Leg Red Meat) </td> <td style="text-align: right" class="priceValue "> 14.82&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+11.02</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 36px;" ></span><span class="barTextRight">22.05</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apples (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.02&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 33px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 39px;" ></span><span class="barTextRight">6.15</span></td>
+ </tr>
+<tr><td>Banana (1kg) </td> <td style="text-align: right" class="priceValue "> 1.47&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+0.88</span><span class="barLeft" style="width: 29px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 36px;" ></span><span class="barTextRight">2.20</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Oranges (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.05&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 33px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 36px;" ></span><span class="barTextRight">6.06</span></td>
+ </tr>
+<tr><td>Tomato (1kg) </td> <td style="text-align: right" class="priceValue "> 3.89&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 30px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">4.41</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Potato (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.75&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.65</span><span class="barLeft" style="width: 29px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 44px;" ></span><span class="barTextRight">4.41</span></td>
+ </tr>
+<tr><td>Onion (1kg) </td> <td style="text-align: right" class="priceValue "> 3.17&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 29px;" ></span><span class="barTextRight">4.41</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Lettuce (1 head) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.57&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 44px;" ></span><span class="barTextRight">2.50</span></td>
+ </tr>
+<tr><td>Water (1.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.77&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 30px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Bottle of Wine (Mid-Range) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 12.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+10.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">15.00</span></td>
+ </tr>
+<tr><td>Domestic Beer (0.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.33&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 36px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.87&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 33px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 45px;" ></span><span class="barTextRight">3.00</span></td>
+ </tr>
+<tr><td>Pack of Cigarettes (Marlboro) </td> <td style="text-align: right" class="priceValue "> 11.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+8.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 13px;" ></span><span class="barTextRight">13.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Transportation</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Chicago%2C+IL&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL&amp;current=2&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>One-way Ticket (Local Transport) </td> <td style="text-align: right" class="priceValue "> 2.25&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.25</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 5px;" ></span><span class="barTextRight">2.50</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Monthly Pass (Regular Price) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 100.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+100.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">100.00</span></td>
+ </tr>
+<tr><td>Taxi Start (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 3.25&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.50</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">3.50</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Taxi 1km (Normal Tariff) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.12&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.09</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 27px;" ></span><span class="barTextRight">1.55</span></td>
+ </tr>
+<tr><td>Taxi 1hour Waiting (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 20.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+20.00</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 16px;" ></span><span class="barTextRight">25.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.72&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.58</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 19px;" ></span><span class="barTextRight">0.91</span></td>
+ </tr>
+<tr><td>Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) </td> <td style="text-align: right" class="priceValue "> 24,750.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+20,000.00</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">27,490.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Utilities (Monthly)</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Chicago%2C+IL&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL&amp;current=3&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 117.89&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+65.00</span><span class="barLeft" style="width: 32px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 33px;" ></span><span class="barTextRight">170.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.16&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.10</span><span class="barLeft" style="width: 27px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 41px;" ></span><span class="barTextRight">0.25</span></td>
+ </tr>
+<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 45.30&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+30.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 29px;" ></span><span class="barTextRight">63.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Sports And Leisure</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Chicago%2C+IL&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL&amp;current=4&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Fitness Club, Monthly Fee for 1 Adult </td> <td style="text-align: right" class="priceValue "> 54.95&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+30.00</span><span class="barLeft" style="width: 32px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 27px;" ></span><span class="barTextRight">75.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Tennis Court Rent (1 Hour on Weekend) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 21.89&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+7.00</span><span class="barLeft" style="width: 40px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 36px;" ></span><span class="barTextRight">35.00</span></td>
+ </tr>
+<tr><td>Cinema, International Release, 1 Seat </td> <td style="text-align: right" class="priceValue "> 12.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+10.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">15.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Clothing And Shoes</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Chicago%2C+IL&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL&amp;current=5&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 47.45&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+35.00</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">60.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 38.93&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+25.00</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">55.00</span></td>
+ </tr>
+<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 81.76&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+65.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 16px;" ></span><span class="barTextRight">100.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 99.87&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+70.00</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 37px;" ></span><span class="barTextRight">150.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Rent Per Month</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Chicago%2C+IL&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL&amp;current=6&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Apartment (1 bedroom) in City Centre </td> <td style="text-align: right" class="priceValue "> 1,550.77&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1,200.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">2,000.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (1 bedroom) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1,029.05&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+850.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">1,200.00</span></td>
+ </tr>
+<tr><td>Apartment (3 bedrooms) in City Centre </td> <td style="text-align: right" class="priceValue "> 3,061.50&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2,400.00</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 22px;" ></span><span class="barTextRight">4,000.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (3 bedrooms) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1,804.55&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1,300.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">2,500.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Buy Apartment Price</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Chicago%2C+IL&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL&amp;current=7&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Price per Square Meter to Buy Apartment in City Centre </td> <td style="text-align: right" class="priceValue "> 3,354.22&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2,152.78</span><span class="barLeft" style="width: 25px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">4,305.56</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Price per Square Meter to Buy Apartment Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1,849.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1,140.97</span><span class="barLeft" style="width: 28px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 45px;" ></span><span class="barTextRight">2,992.37</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Chicago%2C+IL&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 3,163.32&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2,000.00</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">4,200.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.19</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3.80</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">4.87</span></td>
+ </tr>
+</table>
+<h2>Prices in Chicago, Illinois, United States</h2>
+<div style="display: inline">
+These data are based on 2637 entries in the past 18 months from 353 different contributors.
+<br/>Last update: February, 2016
+</div>
+
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<div style="float: right; margin-top: 3px;">
+<!-- ad_after_prices_rect1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="4999919919"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+<div class="green_box">
+<b>Sources and References :</b> 
+<a href="http://www.numbeo.com/common/sources_and_references.jsp" title="About sources and references"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="Info"/></a><br/>
+No sources and references provided yet.<br/>
+<form action="http://www.numbeo.com/common/InsertSource" method="post" accept-charset="UTF-8" >
+<input type="hidden" id="returnUrl" name="returnUrl" value="/cost-of-living/city_result.jsp?country=United+States&amp;city=Chicago,+IL" /><input type="hidden" id="moduo" name="moduo" value="1" /><input type="hidden" id="checking_sources" name="checking_sources" value="" /><input type="hidden" id="city_id" name="city_id" value="3405" /><b>Add new source here:</b>
+<table>
+<tr><td>URL: </td><td><input type="text" id="href" name="href" size="50"/></td></tr> 
+<tr><td>Description: </td><td><input type="text" id="href_name" name="href_text" size="50"/></td></tr> 
+<tr><td colspan=2><input type="submit" value="Add" /> </td></tr>
+</table>
+</form>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking_sources').val('check_it_out');
+});
+</script>
+</div>
+
+<nav>
+<div class="fancy_explanation">
+<ul><li>
+Chicago has 18<sup>th</sup> <span class="rank_highest">Most Expensive</span> Monthly Pass (Regular Price) in the World (out of 560 cities). See More <a href="http://www.numbeo.com/cost-of-living/city_analysis?country=United+States&amp;city=Chicago%2C+IL" class="discreet_link">Price Rankings for Chicago, IL</a></li>
+<li>The price of Eggs (12) in the year 2012 in Chicago was 2.34&#36;. See More <a href="http://www.numbeo.com/cost-of-living/city_history?country=United+States&amp;city=Chicago%2C+IL"  class="discreet_link">Historical Data in Chicago, IL</a></li>
+<li>See <a href="http://www.numbeo.com/cost-of-living/city_basket_analysis?country=United+States&amp;city=Chicago%2C+IL" class="discreet_link">Analysis of our Consumer Price Basket in Chicago, IL</a></li></ul></div>
+</nav>
+
+<div class="standard_margin">
+<div class="chart_bar"><script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(chartCpi_3405);
+      function chartCpi_3405() {
+      var data = google.visualization.arrayToDataTable([
+                ['Category', 'Amount in USD'],
+          ['Transportation', 451.82],
+          ['Clothing And Shoes', 93.80],
+          ['Sports And Leisure', 264.05],
+          ['Markets', 1561.75],
+          ['Utilities (Monthly)', 214.40],
+          ['Rent Per Month', 1861.47],
+          ['Restaurants', 661.17]
+        ]);
+
+        var options = {
+          title: 'Distribution of expenses using our statistical model', 
+          backgroundColor: '#E9F2FB',
+          is3D: true,
+          tooltip: { text: 'percentage'},
+          fontName: 'sans-serif' ,
+          fontSize: 12,
+          titleTextStyle: { fontSize: 14} ,
+          chartArea: {left:50,top:50, right:20, bottom:30, width:'90%', height:'80%'  }
+
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('chartCpi_3405_div'));
+        chart.draw(data, options);
+      }
+    </script>
+<div id="chartCpi_3405_div" class="pie_chart_could_be_big"></div></div>
+</div>
+
+
+
+<div class="comments_box">
+<!-- existing comments -->
+<i>30 Comments so far </i><br/>
+<div class="comment_even">
+ #<b>Phil</b>
+<i> on Nov 05, 2015</i>
+: 
+<div class="comment_body">
+Rent vs monthly take-home salary seem way off. Based on the average take-home salary of ~$3K/month how is one to afford a monthly rent of ~$3K/month?</div>
+</div>
+<div class="comment_odd">
+ #<b>TheMile</b>
+<i> on Nov 04, 2015</i>
+: 
+<div class="comment_body">
+I can't wait to move to Chicago! This city is sooo beautiful. Cost of living isn't too high either, so that's a HUGE plus in comparison to other cities. I'll just avoid those violent South Side neighborhoods, which aren't too many, I've heard.</div>
+</div>
+<div class="comment_even">
+ #<b>Jen</b>
+<i> on Nov 03, 2015</i>
+: 
+<div class="comment_body">
+I have been living in Chicago for five years, in three different apartments in three different neighborhoods, and I can tell you that you can certainly find an apartment, in the price range, if you look hard enough.  Obviously some things (parking especially) will limit your options.  I give three actual specific examples of the apartments I've lived in... the neighborhood you pick determines everything!  Except taxes, which are horrible everywhere.<br/>
+<br/>
+First apartment: Junior 1 bedroom on the border Old Town/Gold Coast neighborhoods (specifically LaSalle and Division).  I paid $1050 a month with ALL utilities included.  Tiny kitchen. Tiny bathroom. Doorman, close to train CTA train station and 156 bus, Jewel Osco and Starbucks down the street.  Awesome night life in one of the best neighborhoods in the city.  Great neighborhood for a young person in their twenties. Absolutely no hope for parking (I didn't have a car at the time).  There was a parking garage that rented spots for $250 a month, so there was that I guess. In building laundry ($1.75 a load).  High rise, 13 stories.  Amazing rooftop view of the city. Cat friendly.<br/>
+<br/>
+Second apartment: 4 bedroom 2 bathroom on Near West Side (Taylor and Western) for $1600, I shared it with two other people.  Free laundry and a free parking spot.  Pay electric and gas. Decent neighborhood, but would not recommend walking south of Roosevelt or west of Western at night.  Baccis pizza, bakery, and a dive bar on Taylor.  Good walk to CTA stop (would not recommend walking it at night) and access to 157 and 12 bus.  For a college student at UIC/Rush this would be ideal.  Although, I will say the fourth bedroom was essentially a closet, hence why there was only three of us there.  We kept it as an extra storage room/litter box room for my cats. Massive living room. Cat friendly. Mostly family/college student neighborhood. <br/>
+<br/>
+Third apartment: 1 bedroom 1.5 bathroom in Wrigleyville/Boystown/Lakeview (Cornelia and Halsted) for $1400 (I share this apartment with my boyfriend). Pay electric and gas. Two story apartment, first floor is living room, half bathroom, and kitchen, take the spiral staircase downstairs to bedroom and full bathroom.  Close to grocery store, coffee place 800 feet away, awesome neighborhood (does get quite loud at night).  Close to CTA stop and 8 bus. I do have permit parking ($120 per year including city sticker) and can find street parking within at least four blocks at all times UNLESS there is a cubs game, in which it will take you a while.  Good sized apartment for two people, seems like way too much for a single person (there are five closets in total).  Cat and dog friendly.</div>
+</div>
+<div class="comment_odd">
+ #<b>Jane</b>
+<i> on Nov 03, 2015</i>
+: 
+<div class="comment_body">
+I want to move with my family if 3 to Elmhurst near Chicago. I just wanna know the living expenses and all of that. I have a child of 4 months plus my husband and I.</div>
+</div>
+<div class="comment_even">
+ #<b>ALICIA</b>
+<i> on Sep 30, 2015</i>
+: 
+<div class="comment_body">
+Lol seriously guys for everyone looking to move to Chicago if you're not rich DO NOT I repeat DO NOT move here. Everything is expensive and really takes away from the greatness of the city not including the crime. And it seems to only be getting worst with all the new taxes and budget cuts. You can't even go to the beach for free :( the city has really gone to shits if you ask me.</div>
+</div>
+<div class="comment_odd">
+ #<b>BK</b>
+<i> on Sep 03, 2015</i>
+: 
+<div class="comment_body">
+The numbers look right with the exception of rent.  Rent varies greatly depending on where you choose to live and while the city center is expensive a lot of it is due to the limited housing, up until the last 10 years very few people lived in the city center at all.  Don't get freaked out about the taxes they are much lower than most major cities and lower than a lot of suburbs.  In addition the high sales tax only applies to goods not services and it is lower for food.  For a city with so many amenities Chicago is cheap.</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Apr 04, 2015</i>
+: 
+<div class="comment_body">
+Hey guys,tell me plz how expensive,is life in chicago.kz i just wanna make move to there...</div>
+</div>
+<div class="comment_odd">
+ #<b>elad</b>
+<i> on Feb 28, 2015</i>
+: 
+<div class="comment_body">
+Lol. I am planning to move to Chicago because of the cost of living in Israel. The prices dont seem too high in Chicago. Houses here are two to three times more expensive, groceries are really cheap as well as gas, and income taxes are not outrageous like they are here.</div>
+</div>
+<div class="comment_even">
+ #<b>victor</b>
+<i> on Jan 22, 2015</i>
+: 
+<div class="comment_body">
+Long time Chicago guy here, I found the price of goods for Chicago on this site to be very accurate.  The rents shown here are not as accurate because rents vary widely with location.  Rent prices jump around by neighborhood and even by block.  The cost of most things in Chicago are driven by government taxes.  The city government is voracious.  Goods and restaurants are 10% tax.  A very large part of the price of gasoline, cigarettes, alcoholic beverages are just taxes.  It is the same for many other things such as phones and utilities - about 25% tax.  High speed internet is not $20/month, more like $50/month for regular, not teaser, rates.  The rocketing prices of rents are due to raising property taxes and other related taxes (which vary by neighborhood).  Car owners are squeezed for a multitude of taxes such as high sales tax, city sticker tax, high parking rates, red light and speed cameras.   Don't expect all those taxes to go towards good schools and roads.  The roads are full of potholes and the public schools are third-world quality.   But there are good people in Chicago (excluding the politicians).  The quality the life is good even if the cost of living is high.</div>
+</div>
+<div class="comment_odd">
+ #<b>Allyssa</b>
+<i> on Dec 15, 2014</i>
+: 
+<div class="comment_body">
+Everyone is being over dramatic and scaring off people who are looking into moving to chicago. I've lived in chicago twice my life and looking into moving back here. and yes financial living is going to obviously have a price just like any other place you're looking at. Of course prices vary when you come from a small town and moving to a city. You really need to save your money and use common sense when you buy things like Do you need it or do you Want it?? Just be smart with your money and if living here is something you REALLY want you just need to work at it. Anyone can move here and make it. Its all about how you are with money. If someone wants to argue about what they get paid and question what I'm saying all I can tell you is Get A Better Job! Work two if you need to just to get buy, and if its worth it you wont be complaining</div>
+</div>
+<div class="comment_even">
+ #<b>Shvonne</b>
+<i> on Aug 27, 2014</i>
+: 
+<div class="comment_body">
+I have lived in Chicago all my life and the prices here have increased drastically.... Downtown Chicago 1 bedroom start at 15,000.00 a month all utilities are separate meaning you will pay light, gas, garbage, parking, and sometimes water....South side is a little more reasonable however you have to worry about being robbed, or shot.....I swear to you I'm not lying, My place have been broken into twice....but they just encourage YOU to get renters insurance...another bill....South west is even worst do not go there.. Nothing is free in Chicago, city stickers  are 100.00 every year....you will be paying tickets because they ticket you for everything and they range from 100-400 dollars after 7 days they double....one way on public transportation is 2.25 and they stopped providing passes with transfers that allowed 3 rides....you have to pay for parking at the lake or beaches... movies passes are 25.00 for 2 people...gas bill is 125.00 a month and light is 125.00 a month...Chicago just passed a law for a mandatory tax on all cell phones I think it's like 3% crazy...But I would suggest if you are almost rich to move here but if not move to the suburbs where are the fee's and stickers and emissions test are not so high or will not exist at all</div>
+</div>
+<div class="comment_odd">
+ #<b>kat</b>
+<i> on Jul 31, 2014</i>
+: 
+<div class="comment_body">
+Rents have more than doubled in just 4 years, they need to update these apartment averages, those are wayyyy to low. Of course, they won't have to update our salaries, we all know those haven't changed.</div>
+</div>
+<div class="comment_even">
+ #<b>chris</b>
+<i> on Jul 14, 2014</i>
+: 
+<div class="comment_body">
+Chicago in city centre(downtown) the rent for one bedroom is more than $2000-$2200/month, not even close to what was written here. The prices presented are nice, but the real prices are higher.. Tolls on all the highways, pay for parking, nothing is free. And the crime(the media don`t exaggerate) Chicago has the worst murders rate from USA, more than NYC and DETROIT combined. On 4th of July 80 people were shot in 1 day. Mostly in south ghettos but it spreads sometimes to north too.</div>
+</div>
+<div class="comment_odd">
+ #<b>pierre</b>
+<i> on Apr 17, 2014</i>
+: 
+<div class="comment_body">
+North said  foster and Lincoln is the best area</div>
+</div>
+<div class="comment_even">
+ #<b>Alexis</b>
+<i> on Apr 01, 2014</i>
+: 
+<div class="comment_body">
+I'm looking into moving down to Chicago, I am gonna be a college student and moving to a new state alone I stress about money. How are the living conditions there? Is it a good place to start out?</div>
+</div>
+<div class="comment_odd">
+ #<b>Betz</b>
+<i> on Mar 29, 2014</i>
+: 
+<div class="comment_body">
+Looking to relocate from NYC to Chicago.. The prices seem similar what are good trendy neighborhoods hospitals to look at??</div>
+</div>
+<div class="comment_even">
+ #<b>sid</b>
+<i> on Mar 27, 2014</i>
+: 
+<div class="comment_body">
+Hello every one.<br/>
+I am planning to move to Chicago. got an offer from one of the US based company. my base will be at Chicago however, most of the time I will be travelling. if any one can help me on what should be the ideal package I should look for. how safe is the city, if I need to leave my wife and kids behind when I am travelling.</div>
+</div>
+<div class="comment_odd">
+ #<b>Sigh</b>
+<i> on Mar 09, 2014</i>
+: 
+<div class="comment_body">
+Currently living in LA. Based on what I'm seeing, I'm looking at lower rental rates and about equal utilities taxes and good costs. Transportation at least will be a reprieve. Has prices fluctuate 4-5 bucks a gal typically and public transit is not nearly as developed sadly so ends up being better for commuters to just drive. Looking forward to this move :))</div>
+</div>
+<div class="comment_even">
+ #<b>SI</b>
+<i> on Feb 25, 2014</i>
+: 
+<div class="comment_body">
+I grew up in Chicago (city proper and not any of the surrounding suburbs) and I still live here. Like everyone on this forum said, taxes are outrageous. Prices with regards to food at an average grocery store is within the range reflected. Apartment rents vary a lot in which neighborhood you live in. Lincoln Park, Wicker Park and Lakeview tends to attract the younger folks and the prices are also relatively high. 1 bedroom apt in the city (not downtown) is 900-1300. Utilities = heat, cable, gas, electricity. Heat is usually covered by landlord but do check. Electricity comes out to be $60 but rises significantly to $90-100 during the winter seasons. Similarly, gas bills go up too during winter season.  If you are planning on having a car, be ready to pay $100 for the city sticker (1 year fee). Street parking in commercial areas suck. Prices are outrageous. Petrol/Gas prices are high. Around $4 a gallon as of today. Public transportation is relatively cheap, run 24 hours a day. You do encounter interesting folks on the train and buses but I think of it as cultural aspect of Chicago ;)</div>
+</div>
+<div class="comment_odd">
+ #<b>Vlad Hristov</b>
+<i> on Jan 31, 2014</i>
+: 
+<div class="comment_body">
+Well, I see lots of haters and unbelievers. First of all heating is no concern if you rent a place where the heating is included. 2nd electricity just got lowered by %20 and I pay less than pretty much any country in the world 6 cents per kWh. Can you beat that? Internet is one of the cheapest on this planet compared to the standard of living. $20/m (three company to choose from) for 25Mb download and 2mb upload. Rents in the city are rising, but you can easily find a good cozy 1bdr apartment for $850 (around 600sqf). Food options are on every corner, lots of restaurants. It is very sad to say that quality of the food has been going down and everything you buy anywhere is tasting like a @#$A!!. But, they are some small local grocery stores which still have quality products. Driving in the city is expensive, city sticker is now $80 and the parking fees has been going up, but the train and busses has been stuck on $2 per ride with 25 cents transfer fee for about 3 years now. Subway, red and blue line run 24/7/365. Sales taxes are highest in the nation, but the city is super clean and has lots of museums and amenities, plus pretty much one of the lowest crime rate indexes in the nation. Media exaggerates sometime about shooting here and there, but overall Chicago is the cheapest of all metropolitan cities in this planet which have more then 2M metro area population.</div>
+</div>
+<div class="comment_even">
+ #<b>Josh Otto</b>
+<i> on Dec 30, 2013</i>
+: 
+<div class="comment_body">
+I've lived in the Chicagoland area for 28 years and have considered moving a number of times due to cost. The numbers here are modest and do not factor in costs during the winter when (heating costs can double) and summer (when gas prices jump to $5.00/gal). Unfortunately these are really the only two seasons so you are CONSTANTLY being hit with high utility bills no matter where in IL you live. <br/>
+<br/>
+Also, taxes taxes taxes-did I say taxes? Cook county (the county where Chicago is located) has some insane taxes-other counties are not as bad, but, still higher than many other places. From sales to bottled water to highway tolls....you will be hit with every fee imaginable, every year the tollway fee will rise yet the quality of roads and will be the same...<br/>
+<br/>
+Want to buy a home? Want to buy a 3 bedroom 2 bath house? Hope you want to live roughly a hour away unless you are pretty frugal or want to constantly float your life on credit because you wont find a DECENT home in a DECENT neighborhood for your 2.5 kids for less than $250K-$300K. Not only that property taxes.......well you get the point. Like the big city? Like Extreme swings in weather? Don't mind giving money away for not a whole lot in return? Chicagoland is your place.</div>
+</div>
+<div class="comment_odd">
+ #<b>weam elbedewy</b>
+<i> on Dec 04, 2013</i>
+: 
+<div class="comment_body">
+Hello ,, How are you all ,,<br/>
+I am thinking to come to USA for master degree , i found university of Illinois in Chicago is good for me ,, but i am afraid of cost of living ,, i will come with my  wife and baby and on my own budget ,,, so help me please to determine how much i will spent &#34;&#34; rent + life expenses including internet + heat ... etc &#34; i will stay 24 month may be or more ,,, so i need to calculate it before i take the decision ... and if there is another place better for live and study.. help me ..<br/>
+Thanks All</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Nov 14, 2013</i>
+: 
+<div class="comment_body">
+I agree with most of the comments above - however, $3,500 a month (afte tax) is a tad too optimistic in my opinion.. that kind of paycheck I think is the average for NYC<br/>
+<br/>
+Come on lads - salaries in the US are higher than in Europe on average but if the average salary was this high there wouldn't be so much poverty in the US.<br/>
+<br/>
+I lived in Chicago and very few people I hung out with at the time made that kind of money.</div>
+</div>
+<div class="comment_odd">
+ #<b>Anonymous</b>
+<i> on Nov 01, 2013</i>
+: 
+<div class="comment_body">
+About how much annually does it cost to live in Chicago though? Like all together because I'm going to school for my associates degree and I will make about 57,000 a year and I don't want to have to worry if I will have heat the next month.</div>
+</div>
+<div class="comment_even">
+ #<b>Bob</b>
+<i> on Jul 27, 2013</i>
+: 
+<div class="comment_body">
+The Actual cost of living in Chicago is far cheaper than most areas of the country.  You can buy a 2-3 bedroom ALL BRICK house in the city in good neighborhoods for less than $300K.  Where I live now in CT, the same house would easily go for at least 600-700K.  Rent in Chicago is probably also 1/2 the price of other large metro areas.  The food is cheap, the beer is cheap, everything is easy to get to and it isn't overcrowded.  I wish I was back here instead of out east.</div>
+</div>
+<div class="comment_odd">
+ #<b>Anonymous</b>
+<i> on Mar 30, 2013</i>
+: 
+<div class="comment_body">
+how much is the weekly cost of living for 3 persons in Chicago, IL 2013 in US dollars</div>
+</div>
+<div class="comment_even">
+ #<b>travis</b>
+<i> on Nov 25, 2012</i>
+: 
+<div class="comment_body">
+the prices here are very misleading . they are infact very much higher. <br/>
+ the taxes are outrageous no matter where you are cook county / chicago is way higher than other counties but not by much .Ill claims to be broke but what they havent figured out is if the state is what about the people in the state </div>
+</div>
+<div class="comment_odd">
+ #<b>College Educated</b>
+<i> on Nov 20, 2012</i>
+: 
+<div class="comment_body">
+a gallon of milk is close to $3.00, parking (almost $2 per hour) and public transportation (@ least $5 per day) costs money. There is also a tax on bottled water. Events and amenities that were once free are starting to come with aa price tag. Depending on your area, the grocery stores are high (either high in the &#34;hood&#34; because of convenience &amp; they have no where else to shop, or high in a &#34;nice&#34; neighborhood because they want a certain &#34;demographic&#34; that is able to afford the price to live in that neighborhood). There are a lot of politics in this city, speak to someone who has been living here before making a move. However, I will say that this is not a boring city. The nightlife is vibrant in all neighborhoods.</div>
+</div>
+<div class="comment_even">
+ #<b>Kelsey</b>
+<i> on Sep 22, 2012</i>
+: 
+<div class="comment_body">
+The cost of living is VERY cheap compared to other world-class cities.  You have everything that you need here (public transit, some of the best restaurants in the world, amazing theater, tons of career options...) and you don't have to pay the NYC, Boston, DC, LA, or SF prices.  The rent here is SIGNIFICANTLY less than comparable neighborhoods in any of those places an you get to live in the middle of everything.  I've lived in places with a super low cost of living, like New Mexico, and you get what you pay for.  I wouldn't trade the quality of life here for anywhere in the US even if it's not dirt cheap.</div>
+</div>
+<div class="comment_odd">
+ #<b>Gretchin</b>
+<i> on Sep 17, 2012</i>
+: 
+<div class="comment_body">
+I am looking at this because of the teacher strike. I have heard that the cost of living is very high in Chicago. It does not seem that high. Most of the prices listed here match rural NC. Cost of living is high in the US!</div>
+</div>
+<!-- post a comment -->
+<br/><b><i>Leave a comment :</i></b><br/>
+<form method="post" action="http://www.numbeo.com/common/SaveComment" accept-charset="UTF-8" >
+<input type=hidden name="city" id="city" value="Chicago, IL" />
+<input type="hidden" name="checking" id="checking" value="notchecked" />
+<input type=hidden name="country" id="country" value="United States" />
+<input type=hidden name="afterSaveCommentUrl" id="afterSaveCommentUrl" value="/cost-of-living/city_result.jsp?country=United+States&amp;city=Chicago,+IL" />
+<input type=hidden name="appModul" id="appModul" value="1" />
+Your name: <input type=text name="yourname" id="yourname" /> <a href="http://www.numbeo.com/common/signIn?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DChicago%2C%2BIL" class="small_font">Sign In</a> <br/>
+Your email address (optional): <input type=text name="email_address" id="email_address" /> <br/>
+Your comment (no HTML): <br/>
+<textarea name="commentText" id="commentText" class="comment_text_area"></textarea>
+<br/>
+<input type=submit value="Post comment" />
+</form>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking').val('secret');
+});
+</script>
+
+<aside class="disabled_on_small_devices">
+<div class="standard_margin">
+<div class="nearby_city_info">Nearby cities: <table class="close_city_info">
+<tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Bolingbrook%2C+IL" class="likenormal"><span>Cost of Living in </span><span class="like_a">Bolingbrook, Illinois</span></a></td><td style="padding-left: 5px; text-align: right">43.63 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Streamwood%2C+IL" class="likenormal"><span>Cost of Living in </span><span class="like_a">Streamwood, Illinois</span></a></td><td style="padding-left: 5px; text-align: right">58.93 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Batavia%2C+IL" class="likenormal"><span>Cost of Living in </span><span class="like_a">Batavia, Illinois</span></a></td><td style="padding-left: 5px; text-align: right">64.04 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Aurora%2C+IL" class="likenormal"><span>Cost of Living in </span><span class="like_a">Aurora, Illinois</span></a></td><td style="padding-left: 5px; text-align: right">68.62 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=McHenry%2C+IL" class="likenormal"><span>Cost of Living in </span><span class="like_a">McHenry, Illinois</span></a></td><td style="padding-left: 5px; text-align: right">98.30 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Kenosha%2C+WI" class="likenormal"><span>Cost of Living in </span><span class="like_a">Kenosha, Wisconsin</span></a></td><td style="padding-left: 5px; text-align: right">106.69 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Rockford%2C+IL" class="likenormal"><span>Cost of Living in </span><span class="like_a">Rockford, Illinois</span></a></td><td style="padding-left: 5px; text-align: right">139.64 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Watseka%2C+IL" class="likenormal"><span>Cost of Living in </span><span class="like_a">Watseka, Illinois</span></a></td><td style="padding-left: 5px; text-align: right">141.58 km</td></tr></table>
+</div>
+</div>
+</aside>
+
+<a href="http://www.tralev.com" rel="nofollow" target="_blank" style="border: 0; text-decoration: none;"><span class="ad_for_tralev">&nbsp;</span></a>
+
+<nav>
+<div class="text_block">
+<span class="small_font">
+More about Chicago, IL: <span class="more_about_content">
+<span class="nobreak">
+<b>Cost of Living</b></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/crime/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Crime</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/climate/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Climate</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/food-prices/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Food Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/gas-prices/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Gas Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/health-care/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Health Care</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/travel-prices/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Travel Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/pollution/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Pollution</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/property-investment/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Property Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/quality-of-life/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Quality of Life</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/taxi-fare/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Taxi Fare</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/traffic/city_result.jsp?country=United+States&amp;city=Chicago%2C+IL">Traffic</a></span>
+</span>
+</span>
+</div>
+</nav>
+
+
+<div id="fb-root"></div>
+<div class="footer_content">
+<a href="http://www.numbeo.com/common/about.jsp">About</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/in_the_news.jsp">In the News</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/join_community.jsp">Newsletter</a><span class="footer_separator"></span>
+<a href="http://feeds2.feedburner.com/NumbeoBlog" target="_blank">Blog</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/api.jsp" rel="nofollow">API</a><p>
+<span style="font-style: italic">
+Copyright &copy; 2009-2016 Numbeo. Your use of this service is subject to our 
+<a href="http://www.numbeo.com/common/terms_of_use.jsp">Terms of Use</a> and 
+<a href="http://www.numbeo.com/common/privacy.jsp">Privacy Policy</a>
+</span></p>
+</div>
+</div> <!-- end of innerWidth --> 
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>  <script type="text/javascript">
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=182369865155656";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10969791-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    </body>
+</html>
+
+
+

@@ -1,0 +1,1772 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="canonical" href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=New+York%2C+NY" />
+<meta property="og:title" content="Cost of Living in New York" />
+<meta property="og:description" content="Average prices of more than 40 products and services in New York, NY, United States updated Feb 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=New+York%2C+NY"/>
+            <script type="text/javascript" src="../common/numbeo_standard.js"></script>
+    <link type="text/css" href="../common/css/redmond/jquery-ui-1.10.3.custom.min.css" rel="Stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+    <!-- script src="http://platform.linkedin.com/in.js" type="text/javascript"></script -->
+    <script type="text/javascript" src="../common/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="../common/js/jquery-ui-1.10.3.custom.min.js"></script>
+   <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <link rel="stylesheet" type="text/css" href="../common/style.css" />
+    <link rel="stylesheet" type="text/css" href="../common/style_desktop.css" />
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#nav-one li").hover(
+		function(){ $("ul", this).fadeIn("fast"); },
+		function() { }
+	);
+	if (document.all) {
+		$("#nav-one li").hoverClass ("sfHover");
+	}
+});
+$.fn.hoverClass = function(c) {
+	return this.each(function(){
+		$(this).hover(
+			function() { $(this).addClass(c);  },
+			function() { $(this).removeClass(c); }
+		);
+	});
+};
+</script>
+
+<title>Cost of Living in New York</title>
+
+</head>
+<body>
+<div class="logo-and-upper-ad">
+<div class="innerWidth">
+<div style="display: block; height: 90px; width: 728px; margin: 0 auto;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ad_in_header3 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="7618322317"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<tr>
+<td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
+<a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
+<img  src="http://www.numbeo.com/images/numbeo_icon.svg" style="height: 62px; vertical-align: bottom; border: 0;" alt="" /><img  src="http://www.numbeo.com/images/numbeo_text.svg" style="height: 34px; margin-left: 1em; margin-bottom: 8px; vertical-align: bottom; border: 0;" alt="NUMBEO" /></a>
+</td>
+<td style="padding-left:8px; padding-top: 0px; padding-bottom: 0px; vertical-align: middle; width: 680px; text-align: right;" >
+<div style="display: inline-block; width: 100%; margin-top: 10px; margin-bottom: 10px; text-align: right; vertical-align: bottom">
+<nav style="display: inline-block; vertical-align: middle;">
+<div class="standard_margin_inlineblock" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="menu_dispatch_form"  style="display: inline; padding: 0; margin:0;">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/city_result.jsp" style="display: inline; padding:0; margin:0;" />
+<input id="city_selector_menu_city_id" size="35" type="text" placeholder="Select City (Cost of Living)" class="ui-corner-all city-selector-menu"/>
+<input type="hidden" id="menu_city_id" name="city_id"/>
+<input type="hidden" id="name_menu_city_id" name="name_city_id"/>
+      </form>
+</div>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_menu_city_id').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_menu_city_id').val(ui.item.label);
+         $('#menu_city_id').val(ui.item.value);
+jQuery('#menu_dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#menu_city_id').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_menu_city_id').val();
+		   $('#name_menu_city_id').val(val);
+	   }
+  }); // end autocompleter definition
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+ }); // end document ready 
+</script>
+</nav>
+<nav style="display: inline-block; vertical-align: middle; padding-left: 0.5em;">
+<div class="standard_margin_inlineblock">
+<select name="city_result_switcher" id="city_result_switcher"  onchange="window.location = this.value;" class="result_switcher ui-corner-all">
+<option value="" selected="selected">What are you looking for?</option>
+<option value="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Cost of Living in New York, NY</option>
+<option value="http://www.numbeo.com/crime/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Crime in New York, NY</option>
+<option value="http://www.numbeo.com/climate/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Climate in New York, NY</option>
+<option value="http://www.numbeo.com/food-prices/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Food Prices in New York, NY</option>
+<option value="http://www.numbeo.com/gas-prices/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Gas Prices in New York, NY</option>
+<option value="http://www.numbeo.com/health-care/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Health Care in New York, NY</option>
+<option value="http://www.numbeo.com/travel-prices/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Travel Prices in New York, NY</option>
+<option value="http://www.numbeo.com/pollution/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Pollution in New York, NY</option>
+<option value="http://www.numbeo.com/property-investment/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Property Prices in New York, NY</option>
+<option value="http://www.numbeo.com/quality-of-life/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Quality of Life in New York, NY</option>
+<option value="http://www.numbeo.com/taxi-fare/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Taxi Fares in New York, NY</option>
+<option value="http://www.numbeo.com/traffic/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Traffic in New York, NY</option>
+</select>
+
+</div>
+</nav>
+</div>
+</td>
+</tr>
+</table>
+</div> <!-- innerWidth in header -->
+</div> <!-- logo-and-upper-ad -->
+<div class="dropdown-outer">
+<div class="innerWidth">
+<nav class="before-nav" >
+    <ul id="nav-one" class="nav">
+
+	<li class="dir">
+<a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/comparison.jsp">Cost of Living Comparison</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/calculator.jsp">Cost of Living Calculator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings.jsp">Cost Of Living Index</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp">Cost Of Living Index (Current)</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_by_country.jsp">Cost Of Living Rankings By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/estimator_main">Cost of Living Estimator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/analysis_main">Cost of Living Analysis</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_city.jsp">Prices By City</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_country.jsp">Prices By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-data">Historical Data in a City by Year </a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-prices-by-city">Historical Data in a Year by City</a></li>
+    <li><a href="http://www.numbeo.com/food-prices/">Food Prices</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/basket_of_goods.jsp">Basket of Goods and Services</a></li>
+    <li><a href="http://www.numbeo.com/common/motivation_and_methodology.jsp">Our Motivation and Methodology</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/contribute.jsp">Update Information for Your City</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/property-investment/">Property Prices</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/property-investment/">Property Prices</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/comparison.jsp">Property Prices Comparison</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings.jsp">Property Price Index</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_current.jsp">Property Price Index Rate (Current)</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_by_country.jsp">Property Price Index By Country</a></li>
+   </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/crime/">Crime</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/crime/">Crime</a></li>
+    <li><a href="http://www.numbeo.com/crime/comparison.jsp">Crime Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_current.jsp">Crime Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings.jsp">Crime Index</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_by_country.jsp">Crime Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/health-care/">Health Care</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/health-care/">Health Care</a></li>
+    <li><a href="http://www.numbeo.com/health-care/comparison.jsp">Health Care Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_current.jsp">Health Care Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings.jsp">Health Care Index</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_by_country.jsp">Health Care Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/pollution/">Pollution</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/pollution/">Pollution</a></li>
+    <li><a href="http://www.numbeo.com/pollution/comparison.jsp">Pollution Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_current.jsp">Pollution Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings.jsp">Pollution Index</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_by_country.jsp">Pollution Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/traffic/">Traffic</a>
+  <ul>
+     <li><a href="http://www.numbeo.com/traffic/">Traffic</a></li>
+     <li><a href="http://www.numbeo.com/traffic/comparison.jsp">Traffic Comparisons</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_current.jsp">Traffic Index Rate Latest</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings.jsp">Traffic Index</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_by_country.jsp">Traffic Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/quality-of-life/">Quality Of Life</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/quality-of-life/">Quality of Life</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/comparison.jsp">Quality of Life Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_current.jsp">Quality of Life Index Rate Latests</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings.jsp">Quality of Life Index</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_by_country.jsp">Quality of Life Index by Country</a></li>
+	</ul></li>
+	<li class="dir">
+<a href="#">Travel</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/taxi-fare/">Taxi Fare Calculator</a></li>
+    <li><a href="http://www.numbeo.com/gas-prices/">Gas Prices Calculator</a></li>
+    <li><a href="http://www.numbeo.com/travel-prices/">Travel Prices</a></li>
+	</ul></li>
+
+
+</ul>
+<br style="clear: both"/>
+</nav>
+</div> <!-- innerWidth in header -->
+</div> <!-- dropdown-outer -->
+<div class="innerWidth">
+ <div class="right-ads-and-info">
+ <div class="right-ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- numbeo2_0 ads_right_med_rect -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="8165022551"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+ </div>
+<p>
+<nav itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
+<a href="http://www.numbeo.com/common/" class="discreet_link"><img src="http://www.numbeo.com/images/home.png" class="image_without_border hide_smaller_than_600" alt="home"/></a><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/" itemprop="item" class="breadcrumb_link"><span itemprop="name">Cost of Living</span></a><meta itemprop="position" content="1" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+ <a href="http://www.numbeo.com/cost-of-living/country_result.jsp?country=United+States"  itemprop="item"  class="breadcrumb_link"><span itemprop="name">United States</span></a><meta itemprop="position" content="2" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=New+York%2C+NY"  itemprop="item"  class="breadcrumb_link">
+<span itemprop="name">New York, NY</span></a><meta itemprop="position" content="3" />
+</span></nav>
+    <h1> Cost of Living in New York</h1>
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<!-- Column 1 start -->
+
+
+<nav>
+<div class="standard_margin disabled_on_small_devices" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="dispatch_form" class="dispatch_form">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/compare_cities.jsp" style="display: inline; padding:0; margin:0;" />
+      <input type="hidden" name="city_id2" id="city_id2" value="3455"/>
+ Compare New York, NY  with: <input id="city_selector_city_id1" size="35" type="text" placeholder="Type and Pick City" class="ui-corner-all" />
+<input type="hidden" id="city_id1" name="city_id1"/>
+<input type="hidden" id="name_city_id1" name="name_city_id1"/>
+      <input type="hidden" name="tracking" value="getDispatchComparison" />
+      </form>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_city_id1').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_city_id1').val(ui.item.label);
+         $('#city_id1').val(ui.item.value);
+jQuery('#dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#city_id1').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_city_id1').val();
+		   $('#name_city_id1').val(val);
+	   }
+  }); // end autocompleter definition
+ }); // end document ready 
+</script>
+</div> 
+</nav>
+
+<div class="table_indices limit_size_ad_right table_indices_bigger">
+Cost of living in <span class="purple_light">New York</span> is 17.81%<span class="red_light"> higher</span> than in <span class="rose_light">Paris</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=United+States&amp;city=New+York%2C+NY" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 1,032.03&#8364; <span class="in_other_currency">(1,147.72&#36;)</span>
+ and for four person family at 3,817.82&#8364; <span class="in_other_currency">(4,245.79&#36;)</span>
+ (without rent).</span></div>
+
+<aside><div class="seeding-call disabled_on_small_devices">
+    Do you live in <span class="purple_light">New York</span>? <span class="we_need_your_help">We need your help: <a href="http://www.numbeo.com/common/form.jsp?country=United+States&amp;city=New+York%2C+NY&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY&amp;tracking=standardEnterData" rel="nofollow" class="enterDataA">Add data for New York, NY! </a></span></div></aside>
+
+<nav>
+<form action="city_result.jsp" method="get" class="standard_margin">
+<input type="hidden" name="country" value="United States" />
+<input type="hidden" name="city" value="New York, NY" />
+
+Currency:          <select id="displayCurrency" name="displayCurrency" onchange="if (checkSelectedSomeTextNotDashed('displayCurrency')) this.form.submit();">
+             <option value="EUR">EUR</option>
+             <option value="USD" selected="selected">USD</option>
+             <option value="---">---</option>
+             <option value="AED">AED</option>
+             <option value="AFN">AFN</option>
+             <option value="ALL">ALL</option>
+             <option value="AMD">AMD</option>
+             <option value="ANG">ANG</option>
+             <option value="AOA">AOA</option>
+             <option value="ARS">ARS</option>
+             <option value="AUD">AUD</option>
+             <option value="AWG">AWG</option>
+             <option value="AZN">AZN</option>
+             <option value="BAM">BAM</option>
+             <option value="BBD">BBD</option>
+             <option value="BDT">BDT</option>
+             <option value="BGN">BGN</option>
+             <option value="BHD">BHD</option>
+             <option value="BIF">BIF</option>
+             <option value="BMD">BMD</option>
+             <option value="BND">BND</option>
+             <option value="BOB">BOB</option>
+             <option value="BRL">BRL</option>
+             <option value="BSD">BSD</option>
+             <option value="BTN">BTN</option>
+             <option value="BWP">BWP</option>
+             <option value="BYR">BYR</option>
+             <option value="BZD">BZD</option>
+             <option value="CAD">CAD</option>
+             <option value="CDF">CDF</option>
+             <option value="CHF">CHF</option>
+             <option value="CLF">CLF</option>
+             <option value="CLP">CLP</option>
+             <option value="CNH">CNH</option>
+             <option value="CNY">CNY</option>
+             <option value="COP">COP</option>
+             <option value="CRC">CRC</option>
+             <option value="CUP">CUP</option>
+             <option value="CVE">CVE</option>
+             <option value="CYP">CYP</option>
+             <option value="CZK">CZK</option>
+             <option value="DEM">DEM</option>
+             <option value="DJF">DJF</option>
+             <option value="DKK">DKK</option>
+             <option value="DOP">DOP</option>
+             <option value="DZD">DZD</option>
+             <option value="ECS">ECS</option>
+             <option value="EGP">EGP</option>
+             <option value="ERN">ERN</option>
+             <option value="EUR">EUR</option>
+             <option value="FJD">FJD</option>
+             <option value="FKP">FKP</option>
+             <option value="FRF">FRF</option>
+             <option value="GBP">GBP</option>
+             <option value="GEL">GEL</option>
+             <option value="GIP">GIP</option>
+             <option value="GMD">GMD</option>
+             <option value="GNF">GNF</option>
+             <option value="GTQ">GTQ</option>
+             <option value="GYD">GYD</option>
+             <option value="HKD">HKD</option>
+             <option value="HNL">HNL</option>
+             <option value="HRK">HRK</option>
+             <option value="HTG">HTG</option>
+             <option value="HUF">HUF</option>
+             <option value="IDR">IDR</option>
+             <option value="IEP">IEP</option>
+             <option value="ILS">ILS</option>
+             <option value="INR">INR</option>
+             <option value="IQD">IQD</option>
+             <option value="ISK">ISK</option>
+             <option value="ITL">ITL</option>
+             <option value="JMD">JMD</option>
+             <option value="JOD">JOD</option>
+             <option value="JPY">JPY</option>
+             <option value="KES">KES</option>
+             <option value="KGS">KGS</option>
+             <option value="KHR">KHR</option>
+             <option value="KMF">KMF</option>
+             <option value="KPW">KPW</option>
+             <option value="KRW">KRW</option>
+             <option value="KWD">KWD</option>
+             <option value="KYD">KYD</option>
+             <option value="KZT">KZT</option>
+             <option value="LAK">LAK</option>
+             <option value="LBP">LBP</option>
+             <option value="LKR">LKR</option>
+             <option value="LRD">LRD</option>
+             <option value="LSL">LSL</option>
+             <option value="LTL">LTL</option>
+             <option value="LVL">LVL</option>
+             <option value="LYD">LYD</option>
+             <option value="MAD">MAD</option>
+             <option value="MDL">MDL</option>
+             <option value="MGA">MGA</option>
+             <option value="MKD">MKD</option>
+             <option value="MNT">MNT</option>
+             <option value="MOP">MOP</option>
+             <option value="MRO">MRO</option>
+             <option value="MUR">MUR</option>
+             <option value="MVR">MVR</option>
+             <option value="MWK">MWK</option>
+             <option value="MXN">MXN</option>
+             <option value="MXV">MXV</option>
+             <option value="MYR">MYR</option>
+             <option value="MZN">MZN</option>
+             <option value="NAD">NAD</option>
+             <option value="NGN">NGN</option>
+             <option value="NIO">NIO</option>
+             <option value="NOK">NOK</option>
+             <option value="NPR">NPR</option>
+             <option value="NZD">NZD</option>
+             <option value="OMR">OMR</option>
+             <option value="PAB">PAB</option>
+             <option value="PEN">PEN</option>
+             <option value="PGK">PGK</option>
+             <option value="PHP">PHP</option>
+             <option value="PKR">PKR</option>
+             <option value="PLN">PLN</option>
+             <option value="PYG">PYG</option>
+             <option value="QAR">QAR</option>
+             <option value="RON">RON</option>
+             <option value="RSD">RSD</option>
+             <option value="RUB">RUB</option>
+             <option value="RWF">RWF</option>
+             <option value="SAR">SAR</option>
+             <option value="SBD">SBD</option>
+             <option value="SCR">SCR</option>
+             <option value="SDG">SDG</option>
+             <option value="SEK">SEK</option>
+             <option value="SGD">SGD</option>
+             <option value="SHP">SHP</option>
+             <option value="SIT">SIT</option>
+             <option value="SLL">SLL</option>
+             <option value="SOS">SOS</option>
+             <option value="SRD">SRD</option>
+             <option value="STD">STD</option>
+             <option value="SVC">SVC</option>
+             <option value="SYP">SYP</option>
+             <option value="SZL">SZL</option>
+             <option value="THB">THB</option>
+             <option value="TJS">TJS</option>
+             <option value="TMT">TMT</option>
+             <option value="TND">TND</option>
+             <option value="TOP">TOP</option>
+             <option value="TRY">TRY</option>
+             <option value="TTD">TTD</option>
+             <option value="TWD">TWD</option>
+             <option value="TZS">TZS</option>
+             <option value="UAH">UAH</option>
+             <option value="UGX">UGX</option>
+             <option value="USD">USD</option>
+             <option value="UYU">UYU</option>
+             <option value="VND">VND</option>
+             <option value="VUV">VUV</option>
+             <option value="WST">WST</option>
+             <option value="XAF">XAF</option>
+             <option value="XCD">XCD</option>
+             <option value="XDR">XDR</option>
+             <option value="XOF">XOF</option>
+             <option value="XPF">XPF</option>
+             <option value="YER">YER</option>
+             <option value="ZAR">ZAR</option>
+             <option value="ZMW">ZMW</option>
+             <option value="ZWL">ZWL</option>
+         </select>
+
+<span class="small_font small_space_desktop"><a href="http://www.numbeo.com/common/currency_settings.jsp?return=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY" rel="nofollow">Sticky Currency</a></span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="small_font">
+<a href="http://www.numbeo.com/common/measurement_settings.jsp?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY" rel="nofollow">Switch to US measurement units</a></span>
+</form>
+</nav>
+
+<table class="data_wide_table"><tr> <th class="highlighted_th prices">Restaurants</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=New+York%2C+NY&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY&amp;current=0&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices" style="padding-left: 132px; text-align: left;">Range</th>
+</tr>
+<tr><td>Meal, Inexpensive Restaurant </td> <td style="text-align: right" class="priceValue "> 18.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+12.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">25.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 80.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+50.00</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 19px;" ></span><span class="barTextRight">100.00</span></td>
+ </tr>
+<tr><td>McMeal at McDonalds (or Equivalent Combo Meal) </td> <td style="text-align: right" class="priceValue "> 8.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+7.00</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">10.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Domestic Beer (0.5 liter draught) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 6.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+5.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">7.00</span></td>
+ </tr>
+<tr><td>Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 7.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+5.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">8.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Cappuccino (regular) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.20&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3.50</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">5.00</span></td>
+ </tr>
+<tr><td>Coke/Pepsi (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.88&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.50</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">2.50</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Water (0.33 liter bottle)  </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.69&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 28px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Markets</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=New+York%2C+NY&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY&amp;current=1&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Milk (regular), (1 liter) </td> <td style="text-align: right" class="priceValue "> 1.08&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+0.92</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 16px;" ></span><span class="barTextRight">1.32</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Loaf of Fresh White Bread (500g) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.50&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 19px;" ></span><span class="barTextRight">4.41</span></td>
+ </tr>
+<tr><td>Rice (white), (1kg) </td> <td style="text-align: right" class="priceValue "> 4.78&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.43</span><span class="barLeft" style="width: 36px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 36px;" ></span><span class="barTextRight">7.12</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Eggs (12) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.59&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.50</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 19px;" ></span><span class="barTextRight">4.50</span></td>
+ </tr>
+<tr><td>Local Cheese (1kg) </td> <td style="text-align: right" class="priceValue "> 12.57&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+8.82</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">17.61</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Chicken Breasts (Boneless, Skinless), (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 11.67&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+6.61</span><span class="barLeft" style="width: 31px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">15.43</span></td>
+ </tr>
+<tr><td>Beef Round (1kg) (or Equivalent Back Leg Red Meat) </td> <td style="text-align: right" class="priceValue "> 13.92&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+9.90</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">17.64</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apples (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 5.51&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+4.41</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">6.61</span></td>
+ </tr>
+<tr><td>Banana (1kg) </td> <td style="text-align: right" class="priceValue "> 2.02&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.52</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 7px;" ></span><span class="barTextRight">2.20</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Oranges (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 5.34&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.80</span><span class="barLeft" style="width: 34px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 48px;" ></span><span class="barTextRight">8.80</span></td>
+ </tr>
+<tr><td>Tomato (1kg) </td> <td style="text-align: right" class="priceValue "> 5.58&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+4.39</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 34px;" ></span><span class="barTextRight">8.16</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Potato (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.35&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 25px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 36px;" ></span><span class="barTextRight">5.00</span></td>
+ </tr>
+<tr><td>Onion (1kg) </td> <td style="text-align: right" class="priceValue "> 3.85&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 28px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 47px;" ></span><span class="barTextRight">6.59</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Lettuce (1 head) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.41&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">3.00</span></td>
+ </tr>
+<tr><td>Water (1.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.94&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.49</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">2.50</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Bottle of Wine (Mid-Range) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 15.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+12.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">19.99</span></td>
+ </tr>
+<tr><td>Domestic Beer (0.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.78&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.25</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.77&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 32px;" ></span><span class="barTextRight">4.00</span></td>
+ </tr>
+<tr><td>Pack of Cigarettes (Marlboro) </td> <td style="text-align: right" class="priceValue "> 13.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+11.00</span><span class="barLeft" style="width: 9px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">14.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Transportation</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=New+York%2C+NY&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY&amp;current=2&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>One-way Ticket (Local Transport) </td> <td style="text-align: right" class="priceValue "> 2.75&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.75</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">2.75</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Monthly Pass (Regular Price) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 116.50&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+116.00</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 4px;" ></span><span class="barTextRight">120.00</span></td>
+ </tr>
+<tr><td>Taxi Start (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 2.50&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.50</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">3.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Taxi 1km (Normal Tariff) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.62&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.55</span><span class="barLeft" style="width: 3px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 67px;" ></span><span class="barTextRight">3.11</span></td>
+ </tr>
+<tr><td>Taxi 1hour Waiting (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 30.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+30.00</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">36.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.70&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.59</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">0.85</span></td>
+ </tr>
+<tr><td>Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) </td> <td style="text-align: right" class="priceValue "> 23,000.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+20,000.00</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">25,000.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Utilities (Monthly)</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=New+York%2C+NY&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY&amp;current=3&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 127.13&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+85.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 42px;" ></span><span class="barTextRight">200.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.14&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.10</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">0.20</span></td>
+ </tr>
+<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 53.48&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+40.00</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 22px;" ></span><span class="barTextRight">70.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Sports And Leisure</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=New+York%2C+NY&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY&amp;current=4&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Fitness Club, Monthly Fee for 1 Adult </td> <td style="text-align: right" class="priceValue "> 80.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+41.67</span><span class="barLeft" style="width: 35px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 32px;" ></span><span class="barTextRight">115.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Tennis Court Rent (1 Hour on Weekend) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 41.36&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+25.00</span><span class="barLeft" style="width: 28px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 33px;" ></span><span class="barTextRight">60.00</span></td>
+ </tr>
+<tr><td>Cinema, International Release, 1 Seat </td> <td style="text-align: right" class="priceValue "> 15.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+12.50</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 2px;" ></span><span class="barTextRight">15.25</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Clothing And Shoes</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=New+York%2C+NY&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY&amp;current=5&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 52.27&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+40.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 25px;" ></span><span class="barTextRight">70.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 37.81&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+25.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 43px;" ></span><span class="barTextRight">60.00</span></td>
+ </tr>
+<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 85.61&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+70.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">100.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 118.65&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+80.00</span><span class="barLeft" style="width: 23px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 35px;" ></span><span class="barTextRight">175.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Rent Per Month</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=New+York%2C+NY&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY&amp;current=6&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Apartment (1 bedroom) in City Centre </td> <td style="text-align: right" class="priceValue "> 2,989.19&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2,200.00</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 13px;" ></span><span class="barTextRight">3,500.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (1 bedroom) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1,820.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1,300.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 27px;" ></span><span class="barTextRight">2,500.00</span></td>
+ </tr>
+<tr><td>Apartment (3 bedrooms) in City Centre </td> <td style="text-align: right" class="priceValue "> 5,917.40&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+4,000.00</span><span class="barLeft" style="width: 23px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 32px;" ></span><span class="barTextRight">8,500.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (3 bedrooms) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3,098.38&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2,200.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 22px;" ></span><span class="barTextRight">4,000.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Buy Apartment Price</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=New+York%2C+NY&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY&amp;current=7&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Price per Square Meter to Buy Apartment in City Centre </td> <td style="text-align: right" class="priceValue "> 17,808.05&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+12,916.69</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 34px;" ></span><span class="barTextRight">26,000.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Price per Square Meter to Buy Apartment Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 10,520.20&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+8,611.13</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">12,916.69</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=New+York%2C+NY&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 3,546.92&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2,500.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">4,500.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.05</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3.90</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">4.75</span></td>
+ </tr>
+</table>
+<h2>Prices in New York, New York, United States</h2>
+<div style="display: inline">
+These data are based on 3992 entries in the past 18 months from 596 different contributors.
+<br/>Last update: February, 2016
+</div>
+
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<div style="float: right; margin-top: 3px;">
+<!-- ad_after_prices_rect1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="4999919919"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+<div class="green_box">
+<b>Sources and References :</b> 
+<a href="http://www.numbeo.com/common/sources_and_references.jsp" title="About sources and references"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="Info"/></a><br/>
+<ul>
+<li><a href="http://www.championtennisclub.com/shop.htm#rates" rel="nofollow" target="_blank">Tennis Club Rates</a></li>
+<li><a href="http://www.mta.info/metrocard/mcgtreng.htm" rel="nofollow" target="_blank">Public Transport Prices</a></li>
+<li><a href="http://www.nyc.gov/html/tlc/html/passenger/taxicab_rate.shtml" rel="nofollow" target="_blank">New York Taxi Tariff</a></li>
+</ul>
+<form action="http://www.numbeo.com/common/InsertSource" method="post" accept-charset="UTF-8" >
+<input type="hidden" id="returnUrl" name="returnUrl" value="/cost-of-living/city_result.jsp?country=United+States&amp;city=New%20York,+NY" /><input type="hidden" id="moduo" name="moduo" value="1" /><input type="hidden" id="checking_sources" name="checking_sources" value="" /><input type="hidden" id="city_id" name="city_id" value="3455" /><b>Add new source here:</b>
+<table>
+<tr><td>URL: </td><td><input type="text" id="href" name="href" size="50"/></td></tr> 
+<tr><td>Description: </td><td><input type="text" id="href_name" name="href_text" size="50"/></td></tr> 
+<tr><td colspan=2><input type="submit" value="Add" /> </td></tr>
+</table>
+</form>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking_sources').val('check_it_out');
+});
+</script>
+</div>
+
+<nav>
+<div class="fancy_explanation">
+<ul><li>
+New York has 1<sup>st</sup> <span class="rank_highest">Most Expensive</span> Price per Square Meter to Buy Apartment in City Centre, Buy Apartment Price in America out of 192 cities). See More <a href="http://www.numbeo.com/cost-of-living/city_analysis?country=United+States&amp;city=New+York%2C+NY" class="discreet_link">Price Rankings for New York, NY</a></li>
+<li>The price of Eggs (12) in the year 2012 in New York was 2.91&#36;. See More <a href="http://www.numbeo.com/cost-of-living/city_history?country=United+States&amp;city=New+York%2C+NY"  class="discreet_link">Historical Data in New York, NY</a></li>
+<li>See <a href="http://www.numbeo.com/cost-of-living/city_basket_analysis?country=United+States&amp;city=New+York%2C+NY" class="discreet_link">Analysis of our Consumer Price Basket in New York, NY</a></li></ul></div>
+</nav>
+
+<div class="standard_margin">
+<div class="chart_bar"><script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(chartCpi_3455);
+      function chartCpi_3455() {
+      var data = google.visualization.arrayToDataTable([
+                ['Category', 'Amount in USD'],
+          ['Transportation', 487.33],
+          ['Clothing And Shoes', 103.02],
+          ['Sports And Leisure', 398.10],
+          ['Markets', 1816.16],
+          ['Utilities (Monthly)', 225.87],
+          ['Rent Per Month', 3456.24],
+          ['Restaurants', 765.38]
+        ]);
+
+        var options = {
+          title: 'Distribution of expenses using our statistical model', 
+          backgroundColor: '#E9F2FB',
+          is3D: true,
+          tooltip: { text: 'percentage'},
+          fontName: 'sans-serif' ,
+          fontSize: 12,
+          titleTextStyle: { fontSize: 14} ,
+          chartArea: {left:50,top:50, right:20, bottom:30, width:'90%', height:'80%'  }
+
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('chartCpi_3455_div'));
+        chart.draw(data, options);
+      }
+    </script>
+<div id="chartCpi_3455_div" class="pie_chart_could_be_big"></div></div>
+</div>
+
+
+
+<div class="comments_box">
+<!-- existing comments -->
+<i>95 Comments so far </i><br/>
+<div class="comment_even">
+ #<b>Monika</b>
+<i> on Feb 14, 2016</i>
+: 
+<div class="comment_body">
+I moved to NY two years ago, I had so many expectations for the city, but I was disappointed. Here is why, realistically: <br/>
+1. The streets are very dirty and the roads are in bad condition<br/>
+2. There is a huge number of homeless people on the streets<br/>
+3. There are parts of the city in which you risk your life if you go ( never go alone in a park)<br/>
+4. The only way to get a job is through connections, since it is so competitive<br/>
+5. At the stores they try to trick you if you mention that you are a foreigner<br/>
+6. The cost of living is too high ( for a family of 4 you spend around $3,000 a month only on groceries and  transportation, no bills and no rent included) <br/>
+7. Since I have lived in Europe previously, the life quality here is 100 times poorer, with no time for relaxing, only Work-Home, Work-Home. No time to even see your family. <br/>
+8.There is a triple tax on income : Federal, state and city tax plus SS insurance and Medicare. So if you make $1,200 a week, you are left with approx $750.</div>
+</div>
+<div class="comment_odd">
+ #<b>CC</b>
+<i> on Feb 11, 2016</i>
+: 
+<div class="comment_body">
+I live in NYC and made $81K. I'm single with no kids, and I barely make ends meet. I live in South Brooklyn with $1350/month for rent (2 bd apt). Electric bill varies according to the time of year. In the summer it's around $200. In the winter it's around $70. My internet is $60/month. No cable. Gas is around $15/month. Landlord pays heat and hot water (most do). Unlimited metro card is $116/month. After all these expenses, plus health insurance and minimal 401K contributions, and groceries, I have maybe $200 disposable income. I don't know how people survive here with a $45K-$50K salary.</div>
+</div>
+<div class="comment_even">
+ #<b>Cow</b>
+<i> on Jan 23, 2016</i>
+: 
+<div class="comment_body">
+Hi. My friend, boyfriend, and I were considering a move to New York. The colleges that we want to attend are both in Manhattan- PACE University and NYU. Is there a way to cover our expenses (excluding tuition)?</div>
+</div>
+<div class="comment_odd">
+ #<b>Anonymous</b>
+<i> on Jan 07, 2016</i>
+: 
+<div class="comment_body">
+this told me a lot and will really help me when I finally get to move to ny and with my avid homework</div>
+</div>
+<div class="comment_even">
+ #<b>L.Miller</b>
+<i> on Nov 17, 2015</i>
+: 
+<div class="comment_body">
+Bronx<br/>
+Apartment rent ranges 1000-1250 (1bedroom)<br/>
+                      1300-1400 (2bd) depending the area<br/>
+food shopping 200-350 bi-week (2-3 people)<br/>
+electricity 70-120 depending the season<br/>
+car insurance 200-350 depending the car/ insurance<br/>
+cable 80-250 depending your plan<br/>
+gas 40-90 per week depending vehicle and use<br/>
+metrocard 2.75 per ride<br/>
+all expenses will vary according to your preference and family size. <br/>
+income should be 30-45k ( no children)<br/>
+income 45-60k (1-2 children)</div>
+</div>
+<div class="comment_odd">
+ #<b>Earl Jackson</b>
+<i> on Nov 05, 2015</i>
+: 
+<div class="comment_body">
+i have a few things to say a lot of people here says its cheap correct? unfrontanuly there a lot a people that cant afford rent that high as well and there no affordable housing for the pepole that has been born here. people that do come into nyc take up all the resources we have as well.the only reason yall saying its cheap because yall could afford it and others cant. everyone situation is diffrent. i think new york is trying to make it were only rich pepole live here and its clearly unfair for other pepole that was born here and have to leave there families and friends as well. i lived here for 32 years nyc is horrible now back in my day it wasnt like this the pepole here are rude no manners think about themselves. everyone is messed up here you cant trust no one all dat stuff its horrible.the mayor sucks too as well bill or whatever his name is is not helping. im not only speaking for me im also speaking for the people who struggle with this stae with unrealistic prices.</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Oct 13, 2015</i>
+: 
+<div class="comment_body">
+Hello,  I got a job in New york.  But before coming to new york Can any one tell me minimum monthly expense required to live.  Including food and accommodation</div>
+</div>
+<div class="comment_odd">
+ #<b>Living here</b>
+<i> on Oct 11, 2015</i>
+: 
+<div class="comment_body">
+Been here for years. The city is expensive but you don't have the cost to commute. Anyone looking to move to NYC would be better served by selecting a suburb or another part of the country. You'll need to make 3 times as much money to live a modest life here vs anywhere else.</div>
+</div>
+<div class="comment_even">
+ #<b>Vedant Sood</b>
+<i> on Sep 12, 2015</i>
+: 
+<div class="comment_body">
+Hi, I am from India and I am a software, developer. I am looking for a job in New York. Can anyone tell me, what is the cost of living in New York per month?<br/>
+Email me at vedantsood26@gmail.com at the earliest, please.</div>
+</div>
+<div class="comment_odd">
+ #<b>Brett</b>
+<i> on Sep 08, 2015</i>
+: 
+<div class="comment_body">
+WARNING!!! Darren Blake is scam! Be careful. 3,000sqft 2/2...maximum security? He requires a fee before you physically see the unit. That is never a requirement. Do not pay him!!</div>
+</div>
+<div class="comment_even">
+ #<b>samantha</b>
+<i> on May 22, 2015</i>
+: 
+<div class="comment_body">
+I am 38 i realy want to live in ny but i dont no how much to save to get i realy want to change my life so i want to do something different</div>
+</div>
+<div class="comment_odd">
+ #<b>Marlyn Manson</b>
+<i> on Apr 10, 2015</i>
+: 
+<div class="comment_body">
+Good luck trying to have a ten minute non-interrupted conversation in a bar or club in Toronto if her friends are nearby. If they don’t physically pull her away from you then what happens is that a rotating gaggle of women will come to “check up” on her, as if you’re on the verge of beating or raping her in full view of everyone. I’ve never seen such baby-like behavior in the Western world. I even experienced a case where the fat friend of a girl I was talking to said that I could “proceed” with the conversation. F**k that.<br/>
+<br/>
+In DC you have a bunch of lame people who think they are important because of their government job. In Toronto you have a bunch of lame people who think they are cool because… I don’t know why. This is even worse because instead of trying to impress you with the work they’re doing, they try to impress you with slang, name-dropping, or commenting on how “busy” they are. I remember when a girl tried to insult me by calling me a “fucktard” and another white bread girl said to “get at” her. Just because you know the words to a Drake song and go to hip restaurants doesn’t make you cool.<br/>
+<br/>
+I know some girls are reading right now and thinking, “They don’t give you eye contact because you are ugly!” This very well may be the case, but in Montreal I got daily eye contact from women who were much better looking than the Toronto specimens I had to deal with. Not only that, but Montreal women would smile at me. Yes, you read that right: attractive women would look at me and smile. In Toronto I might as well have been invisible.<br/>
+<br/>
+I never saw an average-looking guy with a hot girl, but I saw many attractive guys with average girls. Toronto is a penis paradise where a woman can date a man much more attractive than she is pretty. If you’re not a good looking guy, you either have to own a nightclub or approach 1000 girls a week.</div>
+</div>
+<div class="comment_even">
+ #<b>darren blake</b>
+<i> on Apr 09, 2015</i>
+: 
+<div class="comment_body">
+i have a 2 beds 2 baths 3000sq feet condo apartment for vacation rental and for subletting, very well furnished and equipped with maximum security. it is located in Manhattan, NY,USA. Inbox me or email me : darrenblake09@gmail.com for more details</div>
+</div>
+<div class="comment_odd">
+ #<b>anu </b>
+<i> on Apr 04, 2015</i>
+: 
+<div class="comment_body">
+hi dears me and my wife coming from india and bolivia my wife she is a bolivian girl and me iam from india we like to live and works in newyork i dont know anything about newyork can i get a help dears. i dont know the the prospects for living in newyork for a indian guy and a bolivian girl please help me    .aneeshpallippuram01@gmail.com this is my uae number +971554548979 now iam working in uae</div>
+</div>
+<div class="comment_even">
+ #<b>Mahreen</b>
+<i> on Mar 23, 2015</i>
+: 
+<div class="comment_body">
+Me and my husband are visitor here in us and i am expecting a baby is there any cheap birthing center in new york city as we dont have much mony to pay but also we dont want to take medcate insurance policy we have almost 5000 us dollars to spend please any one let me know the number and address of cheap birthing center thanx to all</div>
+</div>
+<div class="comment_odd">
+ #<b>Rose</b>
+<i> on Mar 03, 2015</i>
+: 
+<div class="comment_body">
+I am planning to move to NY after marriage. We have an option of moving to either Saskatoon (Canada), Connecticut or NY (USA). Please suggest what should we prefer. Our annual income will be around 60k. Please suggest which city would provide decent standard of living.</div>
+</div>
+<div class="comment_even">
+ #<b>Irato</b>
+<i> on Feb 26, 2015</i>
+: 
+<div class="comment_body">
+@#Sudeep, the minimum wage of New York is $8 an hour, if your friends are actually employing you legally, the amount they're giving you is terribly low. It's a federal mandate within the Fair labor Standards Act that requires that all employees not be paid below $7.25 an hour.</div>
+</div>
+<div class="comment_odd">
+ #<b>Sudeep</b>
+<i> on Feb 07, 2015</i>
+: 
+<div class="comment_body">
+Hi friends, I am coming to NYC soon as I want a new life and to experience the american dream. I have been offered in a job at a family friend's restaurant doing kitchen work... $4 per hour plus they said I can sleep at the restaurant in the back room as part of the deal. <br/>
+I expect they will have me working around 60-70 hours a week so I should be making pretty good money.<br/>
+<br/>
+Once I have saved up some money, would it be possible for me to find an apartment to rent that is not too expensive and do I need to provide much paperwork.</div>
+</div>
+<div class="comment_even">
+ #<b>Em</b>
+<i> on Feb 04, 2015</i>
+: 
+<div class="comment_body">
+Hey guys I will be earning $5000 per month so about 3200 take home im guessing - i will be working in manhattan - do you have any suggestions? think i can scrape by?</div>
+</div>
+<div class="comment_odd">
+ #<b>lonea</b>
+<i> on Jan 25, 2015</i>
+: 
+<div class="comment_body">
+@sandeep No $10 per hour WILL NOT get you through to live in this city it doesn't matter where you will go, at minimum you would need $20 per hour to try to live paycheck by paycheck.</div>
+</div>
+<div class="comment_even">
+ #<b>sandeep</b>
+<i> on Jan 14, 2015</i>
+: 
+<div class="comment_body">
+Hi,<br/>
+<br/>
+What is the average living cost in new york city for one person. Is 10USD/hour is sufficient to meet the regular requirements there ? Please suggest me.</div>
+</div>
+<div class="comment_odd">
+ #<b>dave</b>
+<i> on Jan 07, 2015</i>
+: 
+<div class="comment_body">
+how much money does it cost to live in new york city</div>
+</div>
+<div class="comment_even">
+ #<b>Harris</b>
+<i> on Dec 28, 2014</i>
+: 
+<div class="comment_body">
+I will be on a sabbatical leave and i am planning to live for a year in NYC with my wife and my two children (9 and 11 yo) with a salary of US$6,000/mo. Among many concerns such as housing, my primary concern is to get  my kids to a public school. We really are expecting a low-middle living standard. Any opinions or experience will be very welcome.</div>
+</div>
+<div class="comment_odd">
+ #<b>ve</b>
+<i> on Dec 18, 2014</i>
+: 
+<div class="comment_body">
+what is a duplex? a 2 bd room goes for $688k. umesh, it's difficult to say if it is worth it. hard to say if i do not know your lifestyle in india. sometimes people live posh lives in india at a low cost. they get used to the good life and are not accustomed to the ghettos of ny. ive noticed alot of immigrants live quite well in their home countries. if you are living in the slums of india, then i would take the $4000 job, but if you are living like a brahmin, then i would say forget ny. for $4k, you would be on the lower end. that and you will have to deal with the racism and crime in ny. you may not believe it, but theres alot of racism in ny, despite being multicultural. you actually have italians hating indians... jews hating koreans, and so on. so you should be ready for it. theres alot of americans who really hate indians. i have heard of americans being very angry just because an indian picked up the call at a call center.</div>
+</div>
+<div class="comment_even">
+ #<b>Sammy</b>
+<i> on Nov 29, 2014</i>
+: 
+<div class="comment_body">
+Hello guys, I'm Michael but my friends call me Sammy. Please I wanna relocate to NYC and probably buy a duplex. Can you guys please tell me how much a duplex cost in Brooklyn</div>
+</div>
+<div class="comment_odd">
+ #<b>Fami Basumatary</b>
+<i> on Nov 27, 2014</i>
+: 
+<div class="comment_body">
+I want to move to NYC, since I wanna join in NY film academy, I really wanna go there, I'm from India,I'm planing on earning for a year since I'm graduating next year and after earning for about a year I wanna go and live in NYC and take up acting classes, but I've heard alot about LA too, so please suggest me which place will be better for me to persue my career and also to live for a year and study in a film school. All these comments are getting me really worried, but I really wanna join a nice film school in US, will any part time job help me survive out there?</div>
+</div>
+<div class="comment_even">
+ #<b>Paul</b>
+<i> on Nov 22, 2014</i>
+: 
+<div class="comment_body">
+If Toronto is that bad (and IT IS that bad) then what’s stopping you from making a move, leaving North America behind and getting over the ocean to Eastern Europe?;) It ain’t that hard and definitely doable. The women in Toronto are wh--res and nothing else.</div>
+</div>
+<div class="comment_odd">
+ #<b>Jorge Elizondo</b>
+<i> on Oct 15, 2014</i>
+: 
+<div class="comment_body">
+I want to move to NY, what's better NY or Austin, Texas?</div>
+</div>
+<div class="comment_even">
+ #<b>Sebastian</b>
+<i> on Oct 10, 2014</i>
+: 
+<div class="comment_body">
+hello , i need some informations how do i can start in ny , i really dont know how much money do i have to spend at first place to live before i can get a job , Please write someone to me at my email or something : chomiczs@gmail.com  &lt;-</div>
+</div>
+<div class="comment_odd">
+ #<b>#Hunter</b>
+<i> on Oct 02, 2014</i>
+: 
+<div class="comment_body">
+I have never lived in a big city but i really want to go to New York. I want to move out with 3 of my best friends. We would be fine with sharing a Studio or a 1bedroom. How big are the Studios? Also is it easy to find a job?<br/>
+Please Help me<br/>
+thank you!</div>
+</div>
+<div class="comment_even">
+ #<b>umesh </b>
+<i> on Oct 01, 2014</i>
+: 
+<div class="comment_body">
+Hi i have got a job offer for 4250 per month with the accomodation for family,Plus they are providing 7250 for resettlement .please suggest to accept it or not.i m a indian</div>
+</div>
+<div class="comment_odd">
+ #<b>nikki</b>
+<i> on Sep 25, 2014</i>
+: 
+<div class="comment_body">
+Hi everyone, I am a teacher I currently live in Texas. I am looking to move to New York Fall 2015 to pursue a job as a school counselor. I would like to live in a nice area, and I am willing to have a  roommate....anyone moving to NYC?</div>
+</div>
+<div class="comment_even">
+ #<b>Charles</b>
+<i> on Sep 16, 2014</i>
+: 
+<div class="comment_body">
+Hey I'm looking to move to NYC or somewhere close. I'm a hairstylist, one question would I survive???</div>
+</div>
+<div class="comment_odd">
+ #<b>Anonymous</b>
+<i> on Sep 01, 2014</i>
+: 
+<div class="comment_body">
+Yes, you can certainly afford to live in Manhattan if you continue to make $300,000 to $400,000 per year. You'll save money by living in Brooklyn instead but that borough is not as safe as Manhattan aka NYC proper or as easy to navigate. To be taken seriously in professional comedy in the USA, you'll need to either attend a top-notch improv school for several years REGARDLESS of how experienced or naturally funny you are AND/OR you must pound the pavement performing stand-up at least 3 nights a week for at least a year at major comedy clubs even if you have to do it for free on their open mic nights. Have a great time! Good fortune to you! (p.s. To work in comedy, be sure not to tie yourself down with a corporate job. Stay humble &amp; flexible driving a cab, tutoring students, tending bar or generating passive income. As a performer, owning your own time will be far more valuable than having tons of money. Stay away from people who over-value glitz &amp; fame. Stick with people who value truth, humor, intelligence &amp; compassion.)</div>
+</div>
+<div class="comment_even">
+ #<b>haroiw</b>
+<i> on Aug 03, 2014</i>
+: 
+<div class="comment_body">
+Hey you guys, I am thinking of moviving to New York also.<br/>
+For the Comedy. I live currently in Holland and , Holland is considered one of the greatest richest countries in the world. But yeh.. the American Dream I guess.<br/>
+<br/>
+I would love to live in New York and perform comedy from there and hopefully all around the world.<br/>
+<br/>
+I make around : 400-500k $ a year. And I was wondering if that's enough to go life there in a nice appartement.</div>
+</div>
+<div class="comment_odd">
+ #<b>Jonnie</b>
+<i> on Jul 29, 2014</i>
+: 
+<div class="comment_body">
+OMG! it sounds really bad, i come from Kampala, Uganda and i have always dreamed of staying in NYC, but with what i have read about NYC so far, am fuckin freaked.....</div>
+</div>
+<div class="comment_even">
+ #<b>radu</b>
+<i> on Jul 15, 2014</i>
+: 
+<div class="comment_body">
+most police detectives are taking some money under the table, therefore they can afford to live in nyc</div>
+</div>
+<div class="comment_odd">
+ #<b>anon</b>
+<i> on Jul 11, 2014</i>
+: 
+<div class="comment_body">
+do police detectives had enough salary to pay the cost of living in nyc?</div>
+</div>
+<div class="comment_even">
+ #<b>Meagan</b>
+<i> on Jul 03, 2014</i>
+: 
+<div class="comment_body">
+I was thinking about moving to a town in New York like Sleepy Hollow or Tarrytown and I was wondering how much rent and or a house would be to buy. I was also wondering how much minimum wage is up there. I love the huge history in those places and I would love to live in a place with a huge legend like that.</div>
+</div>
+<div class="comment_odd">
+ #<b>radu sadeanu</b>
+<i> on Jun 29, 2014</i>
+: 
+<div class="comment_body">
+nyc. where every other person is a criminal. yes, there are apartments for 700-800. they are usually in basements of residential houses. the only thing that is really expensive in ny is the rent. a 99cent store is a 99 cent store, no matter in ny, or alabama. but ny's quality of living is lower. no gardens, flowers, trees, scenary,or any of that. however, you will be likely to get beat up for no reason.</div>
+</div>
+<div class="comment_even">
+ #<b>bobson</b>
+<i> on Feb 05, 2014</i>
+: 
+<div class="comment_body">
+i was thinking about moving to newyork but it seems to ghetto i wanna go to a place were there is no ho's and slutts and bitches</div>
+</div>
+<div class="comment_odd">
+ #<b>Akie</b>
+<i> on Jan 22, 2014</i>
+: 
+<div class="comment_body">
+one word, two syllables.. CRAIGSLIST!<br/>
+i stayed in manhattan for 2 years in university housing ($1000 monthly rent), but used craigslist to find an apt for my last summer ($550 monthly rent) in grandconcourse, bronx. 45 minute ride to my internship near penn station. for people who can live wit at least 1 roommate, and know how to save money on everything (groceries, clothes, clubs, dining, summer concerts) NY is quite livable! i'd love to return to NYC for holidays, think i caught de bug :)</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Dec 30, 2013</i>
+: 
+<div class="comment_body">
+umm i was born in nyc my parents made the choice to move to westchester and drive into the city every day for work and i miss the city i'm going to living in the city when I'm older.</div>
+</div>
+<div class="comment_odd">
+ #<b>kylah</b>
+<i> on Dec 19, 2013</i>
+: 
+<div class="comment_body">
+This probably sounds really unrealistic but i want to move to NYC to go on Broadway I love theatre and I take ballet I've always wanted to live in NYC but I know it's super expensive living though so I'm worried</div>
+</div>
+<div class="comment_even">
+ #<b>Jarrod Dolan </b>
+<i> on Dec 04, 2013</i>
+: 
+<div class="comment_body">
+iam moving into the city with my future wife sometime next year</div>
+</div>
+<div class="comment_odd">
+ #<b>Jarrod Dolan </b>
+<i> on Dec 04, 2013</i>
+: 
+<div class="comment_body">
+Iam Brendens friend, and he only likes chevys and i wrote that for him</div>
+</div>
+<div class="comment_even">
+ #<b>vaibhav</b>
+<i> on Dec 04, 2013</i>
+: 
+<div class="comment_body">
+M recently studying in india nd want to come in NY hunting for a job in investment banking..<br/>
+So please suggest me about NYC lifestyle and cost of living.<br/>
+They are offering 70000$ a year <br/>
+Plz help me</div>
+</div>
+<div class="comment_odd">
+ #<b>anon</b>
+<i> on Dec 03, 2013</i>
+: 
+<div class="comment_body">
+I'm 18, I graduate in 2014 of high school. I plan to move to NY right after graduation with my best friend. What do you think is the cost for a apartment in Queens or Brooklyn for just a studio or one bedroom. Does this sound realistic, me moving from LA to Ny at 18? or should I wait? I'm not all the way financially stable but, I can manage. need advice pls thnx x</div>
+</div>
+<div class="comment_even">
+ #<b>rainslvr</b>
+<i> on Nov 26, 2013</i>
+: 
+<div class="comment_body">
+Guys..really great to read the comments abt living in NYC, after checking these all comments, the dream that I was holding for many years, awake and no more desire to come and live. I am very greatful to God and I am o.k where I am today. :).</div>
+</div>
+<div class="comment_odd">
+ #<b>Monique</b>
+<i> on Nov 19, 2013</i>
+: 
+<div class="comment_body">
+I haven't been on here in awhile so sorry for my ridiculously late response towards the people asking for my help.<br/>
+<br/>
+Neighborhoods like Kew Gardens in Queens (which is nice, safe and very quiet so there's a large flight attendant population due to the proximity of the airport) have studios from $750 on up (think the average price is closer to $900). Kew Gardens is NOT close to Manhattan - it takes 30-45 minutes by train (30 if you've been blessed with a speedy train conductor with ZERO delays). My old roommates found their $600 A MONTH studio in Fresh Meadows, in a private home. Fresh Meadows (nice quiet neighborhood) is neither close to Manhattan (in Queens) nor is it train accessible - no train stop just buses (or a car if you drive). <br/>
+<br/>
+To live close to Manhattan is to pay more unless you luck out and normally the luck is finding an apartment in a private home or someone who owns a small building and normally you find these on Craigslist (you seriously have to check this everyday at least twice a day and KNOW HOW TO SPOT FAKE/SCAM ROOMS AND APARTMENTS). where my old roommates found their $600 studio. Also busy areas in neighborhoods have fliers up with rooms/apartments for rent so that is helpful too. Another option is living in NJ. My boyfriend and I went to Mitsuwa last night (Japanese mall in Edgewater, NJ) and saw fliers for apartments from $1000 (1 bdrm) to $1700 (2 bdrm) in Ft. Lee. And the 2 bdrm was real nice with parking included (I think all the listings had parking included). My boyfriend's apt (which I pretty much live there now haha) is $1300 a month and it's a nice apartment, spacious with an intercom system (useful for keeping out Jehovah Witnesses because they will buzz every apartment several times and wait for 10 minutes before taking a hint) and street parking (he owns a car so street parking is FREE, just a little harder to find spots sometimes). Again, this is Queens (which is more family oriented) so the same apt in Manhattan (I don't know why everyone insists on being in Manhattan but oh well haha) is probably AT LEAST $2500, easily $3,000. The only people I know that have apartments in Manhattan are there because their company pays their rent (2 friends from Japan live in Midtown where apts are at least $2500). Everyone else who wants to be close to the city without paying the high rent and pay less in sales taxes (checked our receipts from Jeresy, 7% - NY? 8.875%. Gas is cheaper too in Jersey)? Jersey!! Or you can try your hand at the Bronx which is cheap but not the greatest (some parts are nice) nor safest.<br/>
+The complaints about having to pay for parking, rude people everywhere, over crowded that's MANHATTAN! Yes, there are parts in Queens that will drive you crazy too (aha Main St Flushing anyone?? Queens China/Koreatown where traffic is horrible, sidewalks are extremely congested near the train station and people *groups* will cross the street on green, not caring about street lights). But people are nicer and the neighborhoods are quieter with FAR LESS RATS and it's cheaper overall (from apartments to grocery shopping - Gristedes in Upper East was charging $6.69 for an item I can get at Target in Flushing for $4.50). There are cheaper alternatives IN the city like Jack's 99 cent store and discount clothing stores like Century 21. Even places like Old Navy have discounts on TOP of sale items. Hell you can buy lunch in Manhattan for less than 3 bucks - the experience known as the dollar pizza - 2 slices of cheese with a canned drink (like Sprite) $2.75...it's just not healthy haha. But beware - these places are crowded. For healthier options that cost a bit more, but still affordable and in the city? Trader Joe's (crowded too but not so bad in the morning or an hour before they close). <br/>
+<br/>
+Also to the guy who claims if you drink don't move to NYC??? Hahaha wow..how about this, if you constantly drink in Manhattan, or want to do all your nightlife experiences consider going BROKE sooner than you expect unless you know the really affordable spots to go to, but even still NYC has way more to offer than just bars and if you don't find anything else to do other than getting drunk at a bar I feel bad for ya...I really do. And this is coming from someone who doesn't drink. Some people may not know this but NYC has free events that take place every weekend (sometimes weekdays too) throughout ALL the boroughs (not JUST Manhattan). Events like art shows, concerts, festivals, comedy shows and more. <br/>
+<br/>
+Oh also to those looking at Brooklyn - downtown Brooklyn is pretty much similar to Manhattan as far as rent goes, especially in Williamsburg.<br/>
+<br/>
+As far as utilities go, depends on how much you use of course. But $300 dollars for electricity? I guess if you had the a/c or heat going everyday for hours...sheesh. I would invest in a good fan in the summer as well as good insulation for different seasons, and use a space heater (when needed since these can increase your bill too - we have 2, one in the living room and 1 in the bedroom, on top of using an electric blanket so it's not bad) during the winter. And if you have a tablet/computer I would ditch the cable and get Netflix for $7 a month if you can (I'm sure you've been told that before haha).</div>
+</div>
+<div class="comment_even">
+ #<b>Nix </b>
+<i> on Nov 08, 2013</i>
+: 
+<div class="comment_body">
+I'm so glad I've found this page. I am from upstate NY and moved to NYC in 2008. When I first got here I had a roommate and our rent was dirt cheap....BUT NOW it's a pure nightmare. NYC is FILLED with slum-lords who<br/>
+do not want to be bothered with anything at all. To live in someone's BASEMENT starts at 1000 a month ((and that's just in brooklyn)). It's too expensive to start a family here , not to mention there is no space for a family! I currently make less than half the salary you all above were mentioning so imagine what it's like for me. I make about 48,000yr and in NYC that's a joke. I might as well be flipping burgers (no offense to those who are).</div>
+</div>
+<div class="comment_odd">
+ #<b>Simon</b>
+<i> on Nov 02, 2013</i>
+: 
+<div class="comment_body">
+If you don't drink don't bother coming to New York.  It's all about the nightlife (eating out, but mostly DRINKING).  People here work their ass off, and after DRINKING is basically the only option. There are at least 5 bars per city block, some neighborhoods it's just one bar after another. There is no social life outside of those establishments. It's pretty impossible to make friends in the city except with your compatriots who are as lonely as you are. Come here and you will be a bar expert, to find one for yourself on your budget. Just don't walk in and order a drink, you might be unpleasantly surprised with 15 bucks per drink.<br/>
+Don't even think of getting a nice apartment for under $2500. And another nightmare is getting approved for one even if you do have the money. I could write a short novel full of horrors, but you can just do a search on the web on this subject.  There are some companies that will be a guarantors for a foreigner, but they will charge you a month fee, plus another month for a broker, plus 2 month security and you already have a price tag of 10k minimum to get an apartment</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Oct 30, 2013</i>
+: 
+<div class="comment_body">
+i'm planning to go to NY to work with my wife and 5 year old kid. <br/>
+<br/>
+How much do I negotiate for as salary to earn my living, afford his education and also at least save 2k USD/month<br/>
+<br/>
+currently am being offered 100k</div>
+</div>
+<div class="comment_odd">
+ #<b>Gabriel</b>
+<i> on Oct 18, 2013</i>
+: 
+<div class="comment_body">
+Andy is there another opening making 125K?! I can't even imagine making half of that even though I am a fully capable young guy just eager at the opportunity to live in the city of my dreams and reunite from my childhood where we had to leave but now I have the choice to move back If work is available.(run on sentance I know) Anyone know of any possible leads please don't hesitate to email me at gmeisme@gmail.com</div>
+</div>
+<div class="comment_even">
+ #<b>#simplyt</b>
+<i> on Oct 18, 2013</i>
+: 
+<div class="comment_body">
+omg you guys. NYC sounds WAAAY cheap. I live in Sydney (which ranks as more expensive than New York).<br/>
+I earn pittance for salary.<br/>
+Rent (1br) minimum $1800<br/>
+Groeries $60-70 with bare basics <br/>
+Eating out - never do it, for a decent restaurant around $40-50pp minimum<br/>
+Public transport - $3.60 one way ticket<br/>
+                   $44 week pass<br/>
+Movie tickets: $20pp<br/>
+<br/>
+Consider yourself VERY lucky to live in place where even if the rent is expensive, cost of living is considerable cheaper!<br/>
+</div>
+</div>
+<div class="comment_odd">
+ #<b>Dave</b>
+<i> on Oct 04, 2013</i>
+: 
+<div class="comment_body">
+I moved to NYC 2 years ago and am loving it. It is ridiculously expensive though. The trick to making it here is only renting what you can afford.<br/>
+<br/>
+There is a rule they use here in the city: your annual salary must be greater than 40x your monthly rent. That means if you want to live in an apartment that costs $2000/mo, you must make $80,000 a year. *No exceptions.* Everyone who moves here that thinks they can be creative with their budget and scrape by with less, within a year, either end up leaving, or going broke. So stick to the rule: 40x your monthly rent, and you'll make it.<br/>
+<br/>
+If you can't afford any livable apartments using the 40x rule (which is very likely), you can share an apartment with a roommate to cut the costs. Beware though, only go this route if you can handle roommates.</div>
+</div>
+<div class="comment_even">
+ #<b>lex</b>
+<i> on Sep 13, 2013</i>
+: 
+<div class="comment_body">
+hi i am 27 years old hope to move new york city in one year with my best friend  what is it realy like there?</div>
+</div>
+<div class="comment_odd">
+ #<b>izzy</b>
+<i> on Sep 12, 2013</i>
+: 
+<div class="comment_body">
+is it really that bad living in nyc????  / do u need a ceratin type pf personality???</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Sep 11, 2013</i>
+: 
+<div class="comment_body">
+Prices in the US include utilities and taxes which are very high. In NYC it could be easily a third of the rent, so rent prices are actually lower compared to other countries.</div>
+</div>
+<div class="comment_odd">
+ #<b>Natalia</b>
+<i> on Sep 04, 2013</i>
+: 
+<div class="comment_body">
+Hey! I'm thinking of going to New York next year spend some months learning english at the New York Language Center in Manhattan. Could someone tell me aproximately how much money I need to live in NYC every month? I mean, I pretend to share a place with some person, paying the basic stuff (electricity, water, internet...). Also need a recommendation of a neighborhood to live. Not too far from the center of the city neither too close, some thing in the middle (otherwise I imagine the price will gonna be very expensive) but in a safe place. Thanks!</div>
+</div>
+<div class="comment_even">
+ #<b>Harley</b>
+<i> on Sep 03, 2013</i>
+: 
+<div class="comment_body">
+I was living in uptown Manhattan NY for 7 years and finally left on March 28 2013. I had a job as a financial consultant making $72,000 a year. My rent was $2500+ bills ($300), clothing, going out probably about $700/month. Iam telling you all as a recommendation !!!!!DO NOT MOVE TO NEW YORK!!!! You will REGRET you did. Why? here is why:<br/>
+1-Super Expensive<br/>
+2-You can't really own a car, unless you want to pay $25 of parking each day.<br/>
+3-Horrible weather, when its cold its cold!!!!<br/>
+4-Way Over crowded<br/>
+5-No Peace and Quietness, Not even when you go to sleep.<br/>
+6-Dangerous....Thugs, homeless people, dishonest policemen, rude people everywhere (not all), grumpy people on coffee.<br/>
+7-Old buildings, dirty city.<br/>
+8-Competitive job market.<br/>
+9-Not family friendly<br/>
+10-The Most Important one<br/>
+&#34;EVERYONE IS ALL ABOUT THEMSELVES AND ARE TRYING TO GET TO THE TOP&#34; !!!!NO ONE CARES ABOUT YOU!!!!!...This is New York and I will never go back to live in that city or to visit for that matter. I have been so many countries in the world (120 countries) and there is way better places to live than that piece of shit town city called New York. I now live in Malibu CA (Los Angeles) and my life couldn't be any better. I tried to like New York while I was there but every time something kept proving itself that it is just not a good place to waste your life in. If you would like to visit the Big Apple as a tourist by all means go for it, but to go live there.......well, you will end up writing a comment on a website like this one warning others why not to move there. Peace to everyone and I hope you take this seriously.</div>
+</div>
+<div class="comment_odd">
+ #<b>Fabian</b>
+<i> on Aug 26, 2013</i>
+: 
+<div class="comment_body">
+Anna,  i  respect your comment,i live in NYC myself ,60-70k a year,couldn't ask for more(self-paid my school),i live in Manhattan,behind Financial District &amp;help my mom and dad back home in Romania too( a gal of gas 8$ ,pack of cig 6$ ,gal of milk 5$) .my mom makes about 550$ , if you were born in paradise  i'm sure is hard,for me NYC is   perfect, this city has a vibe ,has life,this city  defines  and brings opportunity,No pain , no gain:)</div>
+</div>
+<div class="comment_even">
+ #<b>Bruce Meyers</b>
+<i> on Aug 26, 2013</i>
+: 
+<div class="comment_body">
+Looking for a single male roommate for my apartment in the upper east side,Bruce bmeyers@meyersassociateslp.com</div>
+</div>
+<div class="comment_odd">
+ #<b>Andy</b>
+<i> on Aug 19, 2013</i>
+: 
+<div class="comment_body">
+I am hoping to move to NYC..Ive been ofered a salary of $125,000.I am hoping that should be enough to survive:)</div>
+</div>
+<div class="comment_even">
+ #<b>Jake</b>
+<i> on Aug 13, 2013</i>
+: 
+<div class="comment_body">
+Guys. Were making here 130K- 150K a year on average...so it's not that expensive</div>
+</div>
+<div class="comment_odd">
+ #<b>Um</b>
+<i> on Jul 31, 2013</i>
+: 
+<div class="comment_body">
+I'm amazed by all these questions when the answers are provided in the graphs.  Definitely won't survive in the city.</div>
+</div>
+<div class="comment_even">
+ #<b>selena7</b>
+<i> on Jul 21, 2013</i>
+: 
+<div class="comment_body">
+hey guys!!i m greek and i d love living in nyc for a while,but everything s more expensive than i m used to :( could anyone inform me ,what s a median salary vin nyc?</div>
+</div>
+<div class="comment_odd">
+ #<b>Joshua Harris</b>
+<i> on Jul 10, 2013</i>
+: 
+<div class="comment_body">
+If you're looking to lower the cost of living in NYC you can put in pressurized walls to create an extra bedroom for another roommate. A buddy of mine actually runs one a company in manhattan that does that  and if your looking at cutting rent it's definitely worth the investment. Check out his website at pressurizedwallsnyc.com</div>
+</div>
+<div class="comment_even">
+ #<b>Michelle</b>
+<i> on Jul 04, 2013</i>
+: 
+<div class="comment_body">
+I live in perth Western Australia, New York prices are cheap in comparsion, A very average rental far away from the city is around $2000 a month, public transport costs around $12 a day, A taxi ride for 30 mins will set you back $70, Movie tickets $20, a wine at a pub $10.00. A bottle of water $3.50 and the median income is roughly the same maybe slightly higher here.</div>
+</div>
+<div class="comment_odd">
+ #<b>Sulakshana</b>
+<i> on Jun 01, 2013</i>
+: 
+<div class="comment_body">
+I am an Indian going for a vacation to NYC in december. How much money should i carry? I will be staying with a friend. Also, when are the sales on?</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on May 31, 2013</i>
+: 
+<div class="comment_body">
+The way people are living is that families are doubling up and tripling up in Apartments and so the streets are dirty and crowded except for below 96st.</div>
+</div>
+<div class="comment_odd">
+ #<b>MICKEY</b>
+<i> on May 08, 2013</i>
+: 
+<div class="comment_body">
+Hey guys,In Ghana and I'm leaving for NYC  this July, 13 and looking for a room apartment to rent with the price ranging $600 - $1000 monthly. nanamich@yahoo.com<br/>
+Thank you</div>
+</div>
+<div class="comment_even">
+ #<b>Max</b>
+<i> on May 05, 2013</i>
+: 
+<div class="comment_body">
+I just moved into NYC. I pay 2500 a month for a studio and consider myself lucky. The cost of food here is way more than in outer boroughs. Internet helps a lot as there are sites like FreshDirect where one can purchase food and groceries. Unless you make at least 100K a year I think it is going to be really tough living in NYC especially if you like to go out. </div>
+</div>
+<div class="comment_odd">
+ #<b>vitaly nyc</b>
+<i> on May 02, 2013</i>
+: 
+<div class="comment_body">
+1br in brooklyn about 1100$ The main problems in Nyc are dirty streets, rude people, cold winter, destroyed roads, expensive car's insuranse. <br/>
+</div>
+</div>
+<div class="comment_even">
+ #<b>Lesego</b>
+<i> on Apr 11, 2013</i>
+: 
+<div class="comment_body">
+i would love to come and work in New York some time....i live all the way in South Africa, im a University Student</div>
+</div>
+<div class="comment_odd">
+ #<b>alvin anderson</b>
+<i> on Apr 07, 2013</i>
+: 
+<div class="comment_body">
+Nyc is great city and i am thinking to come to here.<br/>
+The things here can be easily afforded by me. I just need to make a little more money.</div>
+</div>
+<div class="comment_even">
+ #<b>anna</b>
+<i> on Mar 31, 2013</i>
+: 
+<div class="comment_body">
+I cannot help smiling while reading these comments:-)  I live in Ukraine, Kiev and invite you to come here and find out how happy and lucky you are to live in NY or other. Our prices are the same as in NY (some even higher) but an average monthly salary is 400$. Your cost of living is an amazing option, you simply enjoy it!</div>
+</div>
+<div class="comment_odd">
+ #<b>newyorknewyork</b>
+<i> on Mar 09, 2013</i>
+: 
+<div class="comment_body">
+I am looking into moving to NY. I am from Norway, and compared to what I am used to here these prices are not that bad. However, I am wondering if its really not possible to find a studio for apx. $1000-1500?</div>
+</div>
+<div class="comment_even">
+ #<b>shan</b>
+<i> on Mar 07, 2013</i>
+: 
+<div class="comment_body">
+hulala, i had no idea the big apple is so damn expensive. it must be difficult to save. everything is 10times what am used to.</div>
+</div>
+<div class="comment_odd">
+ #<b>@gizaiga</b>
+<i> on Feb 23, 2013</i>
+: 
+<div class="comment_body">
+I'm looking at the cost of living in NYC and it's unbelievable! things are so exensive! i live in one of he most beautiful countries in the world(Kenya :)) &amp; everything seems to be 10+ times cheaper than NYC</div>
+</div>
+<div class="comment_even">
+ #<b>Sandy</b>
+<i> on Feb 20, 2013</i>
+: 
+<div class="comment_body">
+I am a software programmer and was thinking to move to NYC but after analyzing this result i guess i need to save a few more bucks before moving into NY :P</div>
+</div>
+<div class="comment_odd">
+ #<b>Saudi guy </b>
+<i> on Feb 07, 2013</i>
+: 
+<div class="comment_body">
+hey guys i'm going to travel to nyc for spend summer vacation there . i can bear only 8000 USD . tell me guys is it enough ?<br/>
+</div>
+</div>
+<div class="comment_even">
+ #<b>A Nieves</b>
+<i> on Jan 09, 2013</i>
+: 
+<div class="comment_body">
+Cost of living is high yes! apartments and houses are through the roof that is all correct. but the people who live here know how to shop. Some of the most expensive shops take place in NY but also keep in mind that there are NO WALMARTS! (except for LI) Therefore those cheap mom and pop stores are still around and very cheap. As far as the people you will find rude and nice people NYC is very diverse. Traffic is horrible here and highways and streets can be confusing. Your car insurance is guaranteed to sky rocket since your chances of being in an accident are much much more. </div>
+</div>
+<div class="comment_odd">
+ #<b>Scottie</b>
+<i> on Nov 19, 2012</i>
+: 
+<div class="comment_body">
+#Monique I am an upcoming photographer and am very interested in moving to NYC from ATL. I am sure that rent will be high but are utilities high? I currently have a $300 light bill cable is about $120 and i still have a car note and other bills as well. I am looking for increase. HELP PLEASE!</div>
+</div>
+<div class="comment_even">
+ #<b>Hamdan Kappil</b>
+<i> on Nov 08, 2012</i>
+: 
+<div class="comment_body">
+Thank you very much for this listing. Anyhow I am an Indian who have much passion to come and work in New York city. However when i hear about the total living expense i wonder how a family can live in the city by depending upon a single person. I think Government should not levy heavy income tax from city population,because people cannot afford a tax burden to live in a finest city. For an average worker how much will be balance after tax and expense. </div>
+</div>
+<div class="comment_odd">
+ #<b>queenser</b>
+<i> on Nov 04, 2012</i>
+: 
+<div class="comment_body">
+Where are these studios for $600? Texas? Or in a neighborhood where a chance to be killed by a stray bullet is higher than getting jeans for $10.</div>
+</div>
+<div class="comment_even">
+ #<b>JEW YORK</b>
+<i> on Oct 14, 2012</i>
+: 
+<div class="comment_body">
+&#34;I'm looking to leave the US because financially, living in NYC makes no sense anymore.&#34; &lt;- Why do New Yorkers think that the rotten apple is the capital of the country? Note to all New Yorkers: the twin towers were NOT the Pentagon!</div>
+</div>
+<div class="comment_odd">
+ #<b>Morgan</b>
+<i> on Oct 03, 2012</i>
+: 
+<div class="comment_body">
+Rent on Long Island for a single bedroom is between 1100 and 1200 a month a studio (shared bathroom and kitchen) is about 800.  2 bedroom 1500 3 1800.  I wish my salary (yes salary not hourly) was even close to the 3600 median income</div>
+</div>
+<div class="comment_even">
+ #<b>Caroline</b>
+<i> on Oct 02, 2012</i>
+: 
+<div class="comment_body">
+I believe that fitness centers are probably less than the average you said per month.  I know that NYSC is pretty cheap and so is planet fitness, which are two of the largest gyms in the city.</div>
+</div>
+<div class="comment_odd">
+ #<b>Pete</b>
+<i> on Sep 25, 2012</i>
+: 
+<div class="comment_body">
+Thank you all for all these informations.<br/>
+I was just about to move but, It seems that I should save some more $ before I leave TX! <br/>
+Can ou guys just tell me how much do they 'really' pay to a Pharmacist Technician?</div>
+</div>
+<div class="comment_even">
+ #<b>Linds</b>
+<i> on Aug 28, 2012</i>
+: 
+<div class="comment_body">
+I live in NY, there are no apartments less than $1000 per month these days. I haven't seen any that aren't total hell holes. You could rent a room within an apartment for a little less but you wouldn't have a lot of privacy. I'm looking to leave the US because financially, living in NYC makes no sense anymore. </div>
+</div>
+<div class="comment_odd">
+ #<b>Nick</b>
+<i> on Jul 26, 2012</i>
+: 
+<div class="comment_body">
+could u tell me the avg cost of living in NY per month for a person who's moving from the Netherlands, if u're making a medium salary and u do not splurge much?</div>
+</div>
+<div class="comment_even">
+ #<b>C.B</b>
+<i> on Jun 06, 2012</i>
+: 
+<div class="comment_body">
+#Monique - would love to know more about the studio's close to Manhattan that range from $600-800 and if you know of any going at the moment? Looking to rent for a month or so.<br/>
+<br/>
+Thanks</div>
+</div>
+<div class="comment_odd">
+ #<b>Monique </b>
+<i> on May 26, 2012</i>
+: 
+<div class="comment_body">
+Well a lot of people here know where to find deals outside the normal price range. For instance, they say the average cost of rent outside if Manhattan is $1500 a month, but there are plenty of apartments that go for less than that (like $800 for a studio, my friends got a studio for $600). Also there are plenty if discount stores throughout NYC (can buy.jeans for $10, shirts for $6, shoes for $20). And the same goes for groceries, I can buy organic oatmeal for a dollar at Target, as well as a 2 liter of Sprite for $1-2 because it's so competitive here businesses are constantly offering discounts to keep up with their competitors. Another thing that helps is that there seems to be more affordable healthcare options/plans for NY'ers in comparison to say Kentucky which is where I'm originally from. </div>
+</div>
+<div class="comment_even">
+ #<b>J HARRIS</b>
+<i> on Apr 25, 2012</i>
+: 
+<div class="comment_body">
+I dont know how people in New York can make it on what they make in general.<br/>
+Im am retired just turned 81 on the 21st of April 12. In the Army 26 years<br/>
+enlisted man E-6,I also get a check from a meat packing plant.And Social Security<br/>
+my mortgage is less than it takes to rest in NY.I enjoy a larger retirement income<br/>
+and my cost of living he lets my get by without worry.</div>
+</div>
+<!-- post a comment -->
+<br/><b><i>Leave a comment :</i></b><br/>
+<form method="post" action="http://www.numbeo.com/common/SaveComment" accept-charset="UTF-8" >
+<input type=hidden name="city" id="city" value="New York, NY" />
+<input type="hidden" name="checking" id="checking" value="notchecked" />
+<input type=hidden name="country" id="country" value="United States" />
+<input type=hidden name="afterSaveCommentUrl" id="afterSaveCommentUrl" value="/cost-of-living/city_result.jsp?country=United+States&amp;city=New%20York,+NY" />
+<input type=hidden name="appModul" id="appModul" value="1" />
+Your name: <input type=text name="yourname" id="yourname" /> <a href="http://www.numbeo.com/common/signIn?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DNew%2520York%2C%2BNY" class="small_font">Sign In</a> <br/>
+Your email address (optional): <input type=text name="email_address" id="email_address" /> <br/>
+Your comment (no HTML): <br/>
+<textarea name="commentText" id="commentText" class="comment_text_area"></textarea>
+<br/>
+<input type=submit value="Post comment" />
+</form>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking').val('secret');
+});
+</script>
+
+<aside class="disabled_on_small_devices">
+<div class="standard_margin">
+<div class="nearby_city_info">Nearby cities: <table class="close_city_info">
+<tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Jersey+City%2C+NJ" class="likenormal"><span>Cost of Living in </span><span class="like_a">Jersey City, New Jersey</span></a></td><td style="padding-left: 5px; text-align: right">7.38 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=East+Rutherford%2C+NJ" class="likenormal"><span>Cost of Living in </span><span class="like_a">East Rutherford, New Jersey</span></a></td><td style="padding-left: 5px; text-align: right">16.11 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Rutherford%2C+NJ" class="likenormal"><span>Cost of Living in </span><span class="like_a">Rutherford, New Jersey</span></a></td><td style="padding-left: 5px; text-align: right">16.45 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Newark%2C+NJ" class="likenormal"><span>Cost of Living in </span><span class="like_a">Newark, New Jersey</span></a></td><td style="padding-left: 5px; text-align: right">18.72 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Paterson%2C+NJ" class="likenormal"><span>Cost of Living in </span><span class="like_a">Paterson, New Jersey</span></a></td><td style="padding-left: 5px; text-align: right">28.89 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Bergen+County%2C+NJ" class="likenormal"><span>Cost of Living in </span><span class="like_a">Bergen County, New Jersey</span></a></td><td style="padding-left: 5px; text-align: right">32.40 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Hempstead%2C+NY" class="likenormal"><span>Cost of Living in </span><span class="like_a">Hempstead, New York</span></a></td><td style="padding-left: 5px; text-align: right">35.82 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=West+Caldwell%2C+NJ" class="likenormal"><span>Cost of Living in </span><span class="like_a">West Caldwell, New Jersey</span></a></td><td style="padding-left: 5px; text-align: right">37.92 km</td></tr></table>
+</div>
+</div>
+</aside>
+
+<a href="http://www.tralev.com" rel="nofollow" target="_blank" style="border: 0; text-decoration: none;"><span class="ad_for_tralev">&nbsp;</span></a>
+
+<nav>
+<div class="text_block">
+<span class="small_font">
+More about New York, NY: <span class="more_about_content">
+<span class="nobreak">
+<b>Cost of Living</b></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/crime/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Crime</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/climate/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Climate</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/food-prices/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Food Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/gas-prices/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Gas Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/health-care/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Health Care</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/travel-prices/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Travel Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/pollution/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Pollution</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/property-investment/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Property Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/quality-of-life/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Quality of Life</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/taxi-fare/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Taxi Fare</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/traffic/city_result.jsp?country=United+States&amp;city=New+York%2C+NY">Traffic</a></span>
+</span>
+</span>
+</div>
+</nav>
+
+
+<div id="fb-root"></div>
+<div class="footer_content">
+<a href="http://www.numbeo.com/common/about.jsp">About</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/in_the_news.jsp">In the News</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/join_community.jsp">Newsletter</a><span class="footer_separator"></span>
+<a href="http://feeds2.feedburner.com/NumbeoBlog" target="_blank">Blog</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/api.jsp" rel="nofollow">API</a><p>
+<span style="font-style: italic">
+Copyright &copy; 2009-2016 Numbeo. Your use of this service is subject to our 
+<a href="http://www.numbeo.com/common/terms_of_use.jsp">Terms of Use</a> and 
+<a href="http://www.numbeo.com/common/privacy.jsp">Privacy Policy</a>
+</span></p>
+</div>
+</div> <!-- end of innerWidth --> 
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>  <script type="text/javascript">
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=182369865155656";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10969791-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    </body>
+</html>
+
+
+

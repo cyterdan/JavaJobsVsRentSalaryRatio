@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="canonical" href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI" />
+<meta property="og:title" content="Cost of Living in Honolulu" />
+<meta property="og:description" content="Average prices of more than 40 products and services in Honolulu, HI, United States updated Feb 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI"/>
+            <script type="text/javascript" src="../common/numbeo_standard.js"></script>
+    <link type="text/css" href="../common/css/redmond/jquery-ui-1.10.3.custom.min.css" rel="Stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+    <!-- script src="http://platform.linkedin.com/in.js" type="text/javascript"></script -->
+    <script type="text/javascript" src="../common/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="../common/js/jquery-ui-1.10.3.custom.min.js"></script>
+   <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <link rel="stylesheet" type="text/css" href="../common/style.css" />
+    <link rel="stylesheet" type="text/css" href="../common/style_desktop.css" />
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#nav-one li").hover(
+		function(){ $("ul", this).fadeIn("fast"); },
+		function() { }
+	);
+	if (document.all) {
+		$("#nav-one li").hoverClass ("sfHover");
+	}
+});
+$.fn.hoverClass = function(c) {
+	return this.each(function(){
+		$(this).hover(
+			function() { $(this).addClass(c);  },
+			function() { $(this).removeClass(c); }
+		);
+	});
+};
+</script>
+
+<title>Cost of Living in Honolulu</title>
+
+</head>
+<body>
+<div class="logo-and-upper-ad">
+<div class="innerWidth">
+<div style="display: block; height: 90px; width: 728px; margin: 0 auto;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ad_in_header3 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="7618322317"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<tr>
+<td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
+<a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
+<img  src="http://www.numbeo.com/images/numbeo_icon.svg" style="height: 62px; vertical-align: bottom; border: 0;" alt="" /><img  src="http://www.numbeo.com/images/numbeo_text.svg" style="height: 34px; margin-left: 1em; margin-bottom: 8px; vertical-align: bottom; border: 0;" alt="NUMBEO" /></a>
+</td>
+<td style="padding-left:8px; padding-top: 0px; padding-bottom: 0px; vertical-align: middle; width: 680px; text-align: right;" >
+<div style="display: inline-block; width: 100%; margin-top: 10px; margin-bottom: 10px; text-align: right; vertical-align: bottom">
+<nav style="display: inline-block; vertical-align: middle;">
+<div class="standard_margin_inlineblock" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="menu_dispatch_form"  style="display: inline; padding: 0; margin:0;">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/city_result.jsp" style="display: inline; padding:0; margin:0;" />
+<input id="city_selector_menu_city_id" size="35" type="text" placeholder="Select City (Cost of Living)" class="ui-corner-all city-selector-menu"/>
+<input type="hidden" id="menu_city_id" name="city_id"/>
+<input type="hidden" id="name_menu_city_id" name="name_city_id"/>
+      </form>
+</div>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_menu_city_id').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_menu_city_id').val(ui.item.label);
+         $('#menu_city_id').val(ui.item.value);
+jQuery('#menu_dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#menu_city_id').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_menu_city_id').val();
+		   $('#name_menu_city_id').val(val);
+	   }
+  }); // end autocompleter definition
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+ }); // end document ready 
+</script>
+</nav>
+<nav style="display: inline-block; vertical-align: middle; padding-left: 0.5em;">
+<div class="standard_margin_inlineblock">
+<select name="city_result_switcher" id="city_result_switcher"  onchange="window.location = this.value;" class="result_switcher ui-corner-all">
+<option value="" selected="selected">What are you looking for?</option>
+<option value="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Cost of Living in Honolulu, HI</option>
+<option value="http://www.numbeo.com/crime/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Crime in Honolulu, HI</option>
+<option value="http://www.numbeo.com/climate/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Climate in Honolulu, HI</option>
+<option value="http://www.numbeo.com/food-prices/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Food Prices in Honolulu, HI</option>
+<option value="http://www.numbeo.com/gas-prices/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Gas Prices in Honolulu, HI</option>
+<option value="http://www.numbeo.com/health-care/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Health Care in Honolulu, HI</option>
+<option value="http://www.numbeo.com/travel-prices/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Travel Prices in Honolulu, HI</option>
+<option value="http://www.numbeo.com/pollution/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Pollution in Honolulu, HI</option>
+<option value="http://www.numbeo.com/property-investment/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Property Prices in Honolulu, HI</option>
+<option value="http://www.numbeo.com/quality-of-life/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Quality of Life in Honolulu, HI</option>
+<option value="http://www.numbeo.com/taxi-fare/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Taxi Fares in Honolulu, HI</option>
+<option value="http://www.numbeo.com/traffic/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Traffic in Honolulu, HI</option>
+</select>
+
+</div>
+</nav>
+</div>
+</td>
+</tr>
+</table>
+</div> <!-- innerWidth in header -->
+</div> <!-- logo-and-upper-ad -->
+<div class="dropdown-outer">
+<div class="innerWidth">
+<nav class="before-nav" >
+    <ul id="nav-one" class="nav">
+
+	<li class="dir">
+<a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/comparison.jsp">Cost of Living Comparison</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/calculator.jsp">Cost of Living Calculator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings.jsp">Cost Of Living Index</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp">Cost Of Living Index (Current)</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_by_country.jsp">Cost Of Living Rankings By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/estimator_main">Cost of Living Estimator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/analysis_main">Cost of Living Analysis</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_city.jsp">Prices By City</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_country.jsp">Prices By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-data">Historical Data in a City by Year </a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-prices-by-city">Historical Data in a Year by City</a></li>
+    <li><a href="http://www.numbeo.com/food-prices/">Food Prices</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/basket_of_goods.jsp">Basket of Goods and Services</a></li>
+    <li><a href="http://www.numbeo.com/common/motivation_and_methodology.jsp">Our Motivation and Methodology</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/contribute.jsp">Update Information for Your City</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/property-investment/">Property Prices</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/property-investment/">Property Prices</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/comparison.jsp">Property Prices Comparison</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings.jsp">Property Price Index</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_current.jsp">Property Price Index Rate (Current)</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_by_country.jsp">Property Price Index By Country</a></li>
+   </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/crime/">Crime</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/crime/">Crime</a></li>
+    <li><a href="http://www.numbeo.com/crime/comparison.jsp">Crime Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_current.jsp">Crime Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings.jsp">Crime Index</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_by_country.jsp">Crime Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/health-care/">Health Care</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/health-care/">Health Care</a></li>
+    <li><a href="http://www.numbeo.com/health-care/comparison.jsp">Health Care Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_current.jsp">Health Care Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings.jsp">Health Care Index</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_by_country.jsp">Health Care Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/pollution/">Pollution</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/pollution/">Pollution</a></li>
+    <li><a href="http://www.numbeo.com/pollution/comparison.jsp">Pollution Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_current.jsp">Pollution Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings.jsp">Pollution Index</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_by_country.jsp">Pollution Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/traffic/">Traffic</a>
+  <ul>
+     <li><a href="http://www.numbeo.com/traffic/">Traffic</a></li>
+     <li><a href="http://www.numbeo.com/traffic/comparison.jsp">Traffic Comparisons</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_current.jsp">Traffic Index Rate Latest</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings.jsp">Traffic Index</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_by_country.jsp">Traffic Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/quality-of-life/">Quality Of Life</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/quality-of-life/">Quality of Life</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/comparison.jsp">Quality of Life Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_current.jsp">Quality of Life Index Rate Latests</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings.jsp">Quality of Life Index</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_by_country.jsp">Quality of Life Index by Country</a></li>
+	</ul></li>
+	<li class="dir">
+<a href="#">Travel</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/taxi-fare/">Taxi Fare Calculator</a></li>
+    <li><a href="http://www.numbeo.com/gas-prices/">Gas Prices Calculator</a></li>
+    <li><a href="http://www.numbeo.com/travel-prices/">Travel Prices</a></li>
+	</ul></li>
+
+
+</ul>
+<br style="clear: both"/>
+</nav>
+</div> <!-- innerWidth in header -->
+</div> <!-- dropdown-outer -->
+<div class="innerWidth">
+ <div class="right-ads-and-info">
+ <div class="right-ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- numbeo2_0 ads_right_med_rect -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="8165022551"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+ </div>
+<p>
+<nav itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
+<a href="http://www.numbeo.com/common/" class="discreet_link"><img src="http://www.numbeo.com/images/home.png" class="image_without_border hide_smaller_than_600" alt="home"/></a><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/" itemprop="item" class="breadcrumb_link"><span itemprop="name">Cost of Living</span></a><meta itemprop="position" content="1" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+ <a href="http://www.numbeo.com/cost-of-living/country_result.jsp?country=United+States"  itemprop="item"  class="breadcrumb_link"><span itemprop="name">United States</span></a><meta itemprop="position" content="2" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI"  itemprop="item"  class="breadcrumb_link">
+<span itemprop="name">Honolulu, HI</span></a><meta itemprop="position" content="3" />
+</span></nav>
+    <h1> Cost of Living in Honolulu</h1>
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<!-- Column 1 start -->
+
+
+<nav>
+<div class="standard_margin disabled_on_small_devices" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="dispatch_form" class="dispatch_form">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/compare_cities.jsp" style="display: inline; padding:0; margin:0;" />
+      <input type="hidden" name="city_id2" id="city_id2" value="3427"/>
+ Compare Honolulu, HI  with: <input id="city_selector_city_id1" size="35" type="text" placeholder="Type and Pick City" class="ui-corner-all" />
+<input type="hidden" id="city_id1" name="city_id1"/>
+<input type="hidden" id="name_city_id1" name="name_city_id1"/>
+      <input type="hidden" name="tracking" value="getDispatchComparison" />
+      </form>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_city_id1').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_city_id1').val(ui.item.label);
+         $('#city_id1').val(ui.item.value);
+jQuery('#dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#city_id1').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_city_id1').val();
+		   $('#name_city_id1').val(val);
+	   }
+  }); // end autocompleter definition
+ }); // end document ready 
+</script>
+</div> 
+</nav>
+
+<div class="table_indices limit_size_ad_right table_indices_bigger">
+Cost of living in <span class="purple_light">Honolulu</span> is 18.70%<span class="red_light"> higher</span> than in <span class="rose_light">Paris</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=United+States&amp;city=Honolulu%2C+HI" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 1,015.30&#8364; <span class="in_other_currency">(1,129.12&#36;)</span>
+ and for four person family at 3,639.79&#8364; <span class="in_other_currency">(4,047.81&#36;)</span>
+ (without rent).</span></div>
+
+<aside><div class="seeding-call disabled_on_small_devices">
+    Do you live in <span class="purple_light">Honolulu</span>? <span class="we_need_your_help">We need your help: <a href="http://www.numbeo.com/common/form.jsp?country=United+States&amp;city=Honolulu%2C+HI&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI&amp;tracking=standardEnterData" rel="nofollow" class="enterDataA">Add data for Honolulu, HI! </a></span></div></aside>
+
+<nav>
+<form action="city_result.jsp" method="get" class="standard_margin">
+<input type="hidden" name="country" value="United States" />
+<input type="hidden" name="city" value="Honolulu, HI" />
+
+Currency:          <select id="displayCurrency" name="displayCurrency" onchange="if (checkSelectedSomeTextNotDashed('displayCurrency')) this.form.submit();">
+             <option value="EUR">EUR</option>
+             <option value="USD" selected="selected">USD</option>
+             <option value="---">---</option>
+             <option value="AED">AED</option>
+             <option value="AFN">AFN</option>
+             <option value="ALL">ALL</option>
+             <option value="AMD">AMD</option>
+             <option value="ANG">ANG</option>
+             <option value="AOA">AOA</option>
+             <option value="ARS">ARS</option>
+             <option value="AUD">AUD</option>
+             <option value="AWG">AWG</option>
+             <option value="AZN">AZN</option>
+             <option value="BAM">BAM</option>
+             <option value="BBD">BBD</option>
+             <option value="BDT">BDT</option>
+             <option value="BGN">BGN</option>
+             <option value="BHD">BHD</option>
+             <option value="BIF">BIF</option>
+             <option value="BMD">BMD</option>
+             <option value="BND">BND</option>
+             <option value="BOB">BOB</option>
+             <option value="BRL">BRL</option>
+             <option value="BSD">BSD</option>
+             <option value="BTN">BTN</option>
+             <option value="BWP">BWP</option>
+             <option value="BYR">BYR</option>
+             <option value="BZD">BZD</option>
+             <option value="CAD">CAD</option>
+             <option value="CDF">CDF</option>
+             <option value="CHF">CHF</option>
+             <option value="CLF">CLF</option>
+             <option value="CLP">CLP</option>
+             <option value="CNH">CNH</option>
+             <option value="CNY">CNY</option>
+             <option value="COP">COP</option>
+             <option value="CRC">CRC</option>
+             <option value="CUP">CUP</option>
+             <option value="CVE">CVE</option>
+             <option value="CYP">CYP</option>
+             <option value="CZK">CZK</option>
+             <option value="DEM">DEM</option>
+             <option value="DJF">DJF</option>
+             <option value="DKK">DKK</option>
+             <option value="DOP">DOP</option>
+             <option value="DZD">DZD</option>
+             <option value="ECS">ECS</option>
+             <option value="EGP">EGP</option>
+             <option value="ERN">ERN</option>
+             <option value="EUR">EUR</option>
+             <option value="FJD">FJD</option>
+             <option value="FKP">FKP</option>
+             <option value="FRF">FRF</option>
+             <option value="GBP">GBP</option>
+             <option value="GEL">GEL</option>
+             <option value="GIP">GIP</option>
+             <option value="GMD">GMD</option>
+             <option value="GNF">GNF</option>
+             <option value="GTQ">GTQ</option>
+             <option value="GYD">GYD</option>
+             <option value="HKD">HKD</option>
+             <option value="HNL">HNL</option>
+             <option value="HRK">HRK</option>
+             <option value="HTG">HTG</option>
+             <option value="HUF">HUF</option>
+             <option value="IDR">IDR</option>
+             <option value="IEP">IEP</option>
+             <option value="ILS">ILS</option>
+             <option value="INR">INR</option>
+             <option value="IQD">IQD</option>
+             <option value="ISK">ISK</option>
+             <option value="ITL">ITL</option>
+             <option value="JMD">JMD</option>
+             <option value="JOD">JOD</option>
+             <option value="JPY">JPY</option>
+             <option value="KES">KES</option>
+             <option value="KGS">KGS</option>
+             <option value="KHR">KHR</option>
+             <option value="KMF">KMF</option>
+             <option value="KPW">KPW</option>
+             <option value="KRW">KRW</option>
+             <option value="KWD">KWD</option>
+             <option value="KYD">KYD</option>
+             <option value="KZT">KZT</option>
+             <option value="LAK">LAK</option>
+             <option value="LBP">LBP</option>
+             <option value="LKR">LKR</option>
+             <option value="LRD">LRD</option>
+             <option value="LSL">LSL</option>
+             <option value="LTL">LTL</option>
+             <option value="LVL">LVL</option>
+             <option value="LYD">LYD</option>
+             <option value="MAD">MAD</option>
+             <option value="MDL">MDL</option>
+             <option value="MGA">MGA</option>
+             <option value="MKD">MKD</option>
+             <option value="MNT">MNT</option>
+             <option value="MOP">MOP</option>
+             <option value="MRO">MRO</option>
+             <option value="MUR">MUR</option>
+             <option value="MVR">MVR</option>
+             <option value="MWK">MWK</option>
+             <option value="MXN">MXN</option>
+             <option value="MXV">MXV</option>
+             <option value="MYR">MYR</option>
+             <option value="MZN">MZN</option>
+             <option value="NAD">NAD</option>
+             <option value="NGN">NGN</option>
+             <option value="NIO">NIO</option>
+             <option value="NOK">NOK</option>
+             <option value="NPR">NPR</option>
+             <option value="NZD">NZD</option>
+             <option value="OMR">OMR</option>
+             <option value="PAB">PAB</option>
+             <option value="PEN">PEN</option>
+             <option value="PGK">PGK</option>
+             <option value="PHP">PHP</option>
+             <option value="PKR">PKR</option>
+             <option value="PLN">PLN</option>
+             <option value="PYG">PYG</option>
+             <option value="QAR">QAR</option>
+             <option value="RON">RON</option>
+             <option value="RSD">RSD</option>
+             <option value="RUB">RUB</option>
+             <option value="RWF">RWF</option>
+             <option value="SAR">SAR</option>
+             <option value="SBD">SBD</option>
+             <option value="SCR">SCR</option>
+             <option value="SDG">SDG</option>
+             <option value="SEK">SEK</option>
+             <option value="SGD">SGD</option>
+             <option value="SHP">SHP</option>
+             <option value="SIT">SIT</option>
+             <option value="SLL">SLL</option>
+             <option value="SOS">SOS</option>
+             <option value="SRD">SRD</option>
+             <option value="STD">STD</option>
+             <option value="SVC">SVC</option>
+             <option value="SYP">SYP</option>
+             <option value="SZL">SZL</option>
+             <option value="THB">THB</option>
+             <option value="TJS">TJS</option>
+             <option value="TMT">TMT</option>
+             <option value="TND">TND</option>
+             <option value="TOP">TOP</option>
+             <option value="TRY">TRY</option>
+             <option value="TTD">TTD</option>
+             <option value="TWD">TWD</option>
+             <option value="TZS">TZS</option>
+             <option value="UAH">UAH</option>
+             <option value="UGX">UGX</option>
+             <option value="USD">USD</option>
+             <option value="UYU">UYU</option>
+             <option value="VND">VND</option>
+             <option value="VUV">VUV</option>
+             <option value="WST">WST</option>
+             <option value="XAF">XAF</option>
+             <option value="XCD">XCD</option>
+             <option value="XDR">XDR</option>
+             <option value="XOF">XOF</option>
+             <option value="XPF">XPF</option>
+             <option value="YER">YER</option>
+             <option value="ZAR">ZAR</option>
+             <option value="ZMW">ZMW</option>
+             <option value="ZWL">ZWL</option>
+         </select>
+
+<span class="small_font small_space_desktop"><a href="http://www.numbeo.com/common/currency_settings.jsp?return=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI" rel="nofollow">Sticky Currency</a></span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="small_font">
+<a href="http://www.numbeo.com/common/measurement_settings.jsp?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI" rel="nofollow">Switch to US measurement units</a></span>
+</form>
+</nav>
+
+<table class="data_wide_table"><tr> <th class="highlighted_th prices">Restaurants</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Honolulu%2C+HI&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI&amp;current=0&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices" style="padding-left: 132px; text-align: left;">Range</th>
+</tr>
+<tr><td>Meal, Inexpensive Restaurant </td> <td style="text-align: right" class="priceValue "> 15.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+11.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">20.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 60.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+50.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">80.00</span></td>
+ </tr>
+<tr><td>McMeal at McDonalds (or Equivalent Combo Meal) </td> <td style="text-align: right" class="priceValue "> 8.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+7.00</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">10.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Domestic Beer (0.5 liter draught) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 5.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3.00</span><span class="barLeft" style="width: 29px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 29px;" ></span><span class="barTextRight">7.00</span></td>
+ </tr>
+<tr><td>Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 6.50&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+4.99</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">8.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Cappuccino (regular) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.62&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+4.00</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">5.00</span></td>
+ </tr>
+<tr><td>Coke/Pepsi (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.77&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.25</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Water (0.33 liter bottle)  </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.48&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 23px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 26px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Markets</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Honolulu%2C+HI&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI&amp;current=1&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Milk (regular), (1 liter) </td> <td style="text-align: right" class="priceValue "> 1.73&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.06</span><span class="barLeft" style="width: 27px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">2.15</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Loaf of Fresh White Bread (500g) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.45&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3.31</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">5.51</span></td>
+ </tr>
+<tr><td>Rice (white), (1kg) </td> <td style="text-align: right" class="priceValue "> 3.64&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.54</span><span class="barLeft" style="width: 31px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 45px;" ></span><span class="barTextRight">6.61</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Eggs (12) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.39&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+4.00</span><span class="barLeft" style="width: 5px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">5.00</span></td>
+ </tr>
+<tr><td>Local Cheese (1kg) </td> <td style="text-align: right" class="priceValue "> 13.93&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+8.82</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 25px;" ></span><span class="barTextRight">18.74</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Chicken Breasts (Boneless, Skinless), (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 12.19&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+6.61</span><span class="barLeft" style="width: 33px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 33px;" ></span><span class="barTextRight">17.64</span></td>
+ </tr>
+<tr><td>Beef Round (1kg) (or Equivalent Back Leg Red Meat) </td> <td style="text-align: right" class="priceValue "> 15.31&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+11.02</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 22px;" ></span><span class="barTextRight">19.84</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apples (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 7.08&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+5.51</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">8.82</span></td>
+ </tr>
+<tr><td>Banana (1kg) </td> <td style="text-align: right" class="priceValue "> 4.03&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.84</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 7px;" ></span><span class="barTextRight">4.41</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Oranges (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 6.35&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+4.39</span><span class="barLeft" style="width: 22px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">8.82</span></td>
+ </tr>
+<tr><td>Tomato (1kg) </td> <td style="text-align: right" class="priceValue "> 6.61&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+5.51</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">8.80</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Potato (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.53&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.90</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 33px;" ></span><span class="barTextRight">6.61</span></td>
+ </tr>
+<tr><td>Onion (1kg) </td> <td style="text-align: right" class="priceValue "> 5.99&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+4.41</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 34px;" ></span><span class="barTextRight">8.82</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Lettuce (1 head) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.91&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.00</span><span class="barLeft" style="width: 22px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">4.00</span></td>
+ </tr>
+<tr><td>Water (1.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 2.30&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.59</span><span class="barLeft" style="width: 22px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 22px;" ></span><span class="barTextRight">3.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Bottle of Wine (Mid-Range) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 16.50&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+13.00</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 60px;" ></span><span class="barTextRight">30.00</span></td>
+ </tr>
+<tr><td>Domestic Beer (0.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 2.15&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.80</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">2.50</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.75&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">3.50</span></td>
+ </tr>
+<tr><td>Pack of Cigarettes (Marlboro) </td> <td style="text-align: right" class="priceValue "> 9.79&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+8.50</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 5px;" ></span><span class="barTextRight">10.50</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Transportation</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Honolulu%2C+HI&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI&amp;current=2&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>One-way Ticket (Local Transport) </td> <td style="text-align: right" class="priceValue "> 2.50&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.50</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">2.50</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Monthly Pass (Regular Price) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 60.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+60.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">60.00</span></td>
+ </tr>
+<tr><td>Taxi Start (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 3.30&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+3.10</span><span class="barLeft" style="width: 4px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 26px;" ></span><span class="barTextRight">4.50</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Taxi 1km (Normal Tariff) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.84&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.24</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 22px;" ></span><span class="barTextRight">3.73</span></td>
+ </tr>
+<tr><td>Taxi 1hour Waiting (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 43.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+36.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 29px;" ></span><span class="barTextRight">60.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.73&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.66</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">0.79</span></td>
+ </tr>
+<tr><td>Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) </td> <td style="text-align: right" class="priceValue "> 23,000.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+19,000.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">27,000.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Utilities (Monthly)</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Honolulu%2C+HI&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI&amp;current=3&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 221.88&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+141.67</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 42px;" ></span><span class="barTextRight">350.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.17&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.10</span><span class="barLeft" style="width: 30px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 32px;" ></span><span class="barTextRight">0.25</span></td>
+ </tr>
+<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 48.11&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+30.00</span><span class="barLeft" style="width: 27px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">60.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Sports And Leisure</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Honolulu%2C+HI&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI&amp;current=4&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Fitness Club, Monthly Fee for 1 Adult </td> <td style="text-align: right" class="priceValue "> 53.47&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+45.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 29px;" ></span><span class="barTextRight">75.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Tennis Court Rent (1 Hour on Weekend) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 12.25&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.00</span><span class="barLeft" style="width: 31px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 45px;" ></span><span class="barTextRight">30.00</span></td>
+ </tr>
+<tr><td>Cinema, International Release, 1 Seat </td> <td style="text-align: right" class="priceValue "> 12.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+10.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">13.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Clothing And Shoes</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Honolulu%2C+HI&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI&amp;current=5&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 44.15&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+30.00</span><span class="barLeft" style="width: 22px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">55.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 44.88&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+40.00</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 16px;" ></span><span class="barTextRight">55.00</span></td>
+ </tr>
+<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 85.07&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+75.00</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">100.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 105.42&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+75.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 31px;" ></span><span class="barTextRight">150.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Rent Per Month</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Honolulu%2C+HI&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI&amp;current=6&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Apartment (1 bedroom) in City Centre </td> <td style="text-align: right" class="priceValue "> 1,701.52&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1,400.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">1,990.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (1 bedroom) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1,333.33&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1,000.00</span><span class="barLeft" style="width: 17px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">1,700.00</span></td>
+ </tr>
+<tr><td>Apartment (3 bedrooms) in City Centre </td> <td style="text-align: right" class="priceValue "> 3,446.43&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2,800.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">4,000.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (3 bedrooms) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2,726.47&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2,200.00</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 13px;" ></span><span class="barTextRight">3,200.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Buy Apartment Price</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Honolulu%2C+HI&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI&amp;current=7&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Price per Square Meter to Buy Apartment in City Centre </td> <td style="text-align: right" class="priceValue "> 6,842.29&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+5,112.86</span><span class="barLeft" style="width: 17px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">7,965.29</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Price per Square Meter to Buy Apartment Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4,835.93&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+4,305.56</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">5,381.96</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Honolulu%2C+HI&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 2,830.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2,200.00</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">3,500.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.17</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3.75</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">4.90</span></td>
+ </tr>
+</table>
+<h2>Prices in Honolulu, Hawaii, United States</h2>
+<div style="display: inline">
+These data are based on 972 entries in the past 18 months from 125 different contributors.
+<br/>Last update: February, 2016
+</div>
+
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<div style="float: right; margin-top: 3px;">
+<!-- ad_after_prices_rect1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="4999919919"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+<div class="green_box">
+<b>Sources and References :</b> 
+<a href="http://www.numbeo.com/common/sources_and_references.jsp" title="About sources and references"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="Info"/></a><br/>
+<ul>
+<li><a href="http://www.waileatennis.com/rates.htm" rel="nofollow" target="_blank">Tennis Club Rates</a></li>
+<li><a href="http://www.maunalani.com/activities/hawaii-resort-tennis" rel="nofollow" target="_blank">Tennis Club Rates</a></li>
+</ul>
+<form action="http://www.numbeo.com/common/InsertSource" method="post" accept-charset="UTF-8" >
+<input type="hidden" id="returnUrl" name="returnUrl" value="/cost-of-living/city_result.jsp?country=United+States&amp;city=Honolulu,+HI" /><input type="hidden" id="moduo" name="moduo" value="1" /><input type="hidden" id="checking_sources" name="checking_sources" value="" /><input type="hidden" id="city_id" name="city_id" value="3427" /><b>Add new source here:</b>
+<table>
+<tr><td>URL: </td><td><input type="text" id="href" name="href" size="50"/></td></tr> 
+<tr><td>Description: </td><td><input type="text" id="href_name" name="href_text" size="50"/></td></tr> 
+<tr><td colspan=2><input type="submit" value="Add" /> </td></tr>
+</table>
+</form>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking_sources').val('check_it_out');
+});
+</script>
+</div>
+
+<nav>
+<div class="fancy_explanation">
+<ul><li>
+Honolulu has 3<sup>rd</sup> <span class="rank_highest">Most Expensive</span> Loaf of Fresh White Bread (500g) in the World (out of 560 cities). See More <a href="http://www.numbeo.com/cost-of-living/city_analysis?country=United+States&amp;city=Honolulu%2C+HI" class="discreet_link">Price Rankings for Honolulu, HI</a></li>
+<li>The price of Eggs (12) in the year 2012 in Honolulu was 3.50&#36;. See More <a href="http://www.numbeo.com/cost-of-living/city_history?country=United+States&amp;city=Honolulu%2C+HI"  class="discreet_link">Historical Data in Honolulu, HI</a></li>
+<li>See <a href="http://www.numbeo.com/cost-of-living/city_basket_analysis?country=United+States&amp;city=Honolulu%2C+HI" class="discreet_link">Analysis of our Consumer Price Basket in Honolulu, HI</a></li></ul></div>
+</nav>
+
+<div class="standard_margin">
+<div class="chart_bar"><script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(chartCpi_3427);
+      function chartCpi_3427() {
+      var data = google.visualization.arrayToDataTable([
+                ['Category', 'Amount in USD'],
+          ['Transportation', 436.80],
+          ['Clothing And Shoes', 97.83],
+          ['Sports And Leisure', 231.72],
+          ['Markets', 2087.69],
+          ['Utilities (Monthly)', 325.99],
+          ['Rent Per Month', 2301.94],
+          ['Restaurants', 644.34]
+        ]);
+
+        var options = {
+          title: 'Distribution of expenses using our statistical model', 
+          backgroundColor: '#E9F2FB',
+          is3D: true,
+          tooltip: { text: 'percentage'},
+          fontName: 'sans-serif' ,
+          fontSize: 12,
+          titleTextStyle: { fontSize: 14} ,
+          chartArea: {left:50,top:50, right:20, bottom:30, width:'90%', height:'80%'  }
+
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('chartCpi_3427_div'));
+        chart.draw(data, options);
+      }
+    </script>
+<div id="chartCpi_3427_div" class="pie_chart_could_be_big"></div></div>
+</div>
+
+
+
+<div class="comments_box">
+<!-- existing comments -->
+<i>18 Comments so far </i><br/>
+<div class="comment_even">
+ #<b>Shane</b>
+<i> on Feb 13, 2016</i>
+: 
+<div class="comment_body">
+Hi im moving from NM.. I need to know what im getting into.. I moving there in a month.. At the moment im homeless.. Im a motorcycle mechanic autobodytech.. well educated looking for a new star,, seeing the cost of living is kinda got my nerves rattled..</div>
+</div>
+<div class="comment_odd">
+ #<b>Matt</b>
+<i> on Jan 08, 2016</i>
+: 
+<div class="comment_body">
+It's pretty bad overall but you can manage to live here if you plan ahead. Check our Hawaii Living Guide: https://lookintohawaii.com/hawaii/45383/hawaii-living-getting-started-information-all-islands-hi</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Jan 07, 2016</i>
+: 
+<div class="comment_body">
+Advice: Don't move here. Its overcrowded and overpriced, and its getting worse every day.  Too many people moving here and too many people here having too many kids.</div>
+</div>
+<div class="comment_odd">
+ #<b>Joe finch</b>
+<i> on Oct 15, 2015</i>
+: 
+<div class="comment_body">
+Me and my wife are very interested on moving to Hawaii. And looking for a nice place to raise our baby and would like for anyone to give any type of advice.</div>
+</div>
+<div class="comment_even">
+ #<b>tim</b>
+<i> on Oct 02, 2015</i>
+: 
+<div class="comment_body">
+just paid 3.99 for basic egg mcmuffin. not a meal just a mcmuffin.  then they add 4.5 percent tax on it in addition.</div>
+</div>
+<div class="comment_odd">
+ #<b>Nick</b>
+<i> on Sep 20, 2015</i>
+: 
+<div class="comment_body">
+Hello I am moving to oahu and am in need of a well paying job, probably like $3000-$4000 a month due to the high cost of living. Are there any companies open that pay that good or is that the normal for income on the island?</div>
+</div>
+<div class="comment_even">
+ #<b>troy</b>
+<i> on Jul 22, 2015</i>
+: 
+<div class="comment_body">
+Want to come in honolulu for good job with excellent salary like <br/>
+$8000/9000 per month.. Help me plz..</div>
+</div>
+<div class="comment_odd">
+ #<b>peter</b>
+<i> on Mar 27, 2015</i>
+: 
+<div class="comment_body">
+Wendell Abbey    <br/>
+<br/>
+since you have lived on Hawaii can you please contact me via e-mail, since i would like to move their too. I would have a few questions to ask if you dont mind. Please contact me, thanks in advance, greetings Peter</div>
+</div>
+<div class="comment_even">
+ #<b>L.</b>
+<i> on Mar 19, 2015</i>
+: 
+<div class="comment_body">
+Please send me info on the cost of living for Kailua Kona.<br/>
+Thank you we appreciate it.</div>
+</div>
+<div class="comment_odd">
+ #<b>Anonymous</b>
+<i> on Jan 07, 2015</i>
+: 
+<div class="comment_body">
+Looking to move to Honolulu. I recently graduated with my EMT Cert and would like to eventually become a PM then RN. Would it be wiser to do my PM training here in FL or should I make the move, begin working as an EMT and train down there? I know they have Equivilency Forms which is how I plan to transfer my EMT credits.</div>
+</div>
+<div class="comment_even">
+ #<b>Wendell Abbey</b>
+<i> on Nov 10, 2014</i>
+: 
+<div class="comment_body">
+Hello, Im from Honolulu, Hawaii and used to live in Kapahulu. Back in the 1950s Id walk to the Waikiki beach and surf and paddle canoe. I surfed with Rabitt Kekai, Jama Kekai, Duke Kahanamoku and worked with some of the surfboard businesses. Then I used to paddle canoe with Waikiki Outrigger and Healani Outrigger club. When I graduated frome Roosevelt High school in 1958 I moved to Southern California in 1959. I did a lots of surfing and paddeleing over there and got married to one local Hawaiian girl. I moved to Las Vegas in 2002 and joined the Hawaiian civic club. I play music in the Hula and Ukulele classes over here in Las Vegas. I now live in a Senior citizens appartment and want to move back home. Im a member of Jehovahs Witnesses and would like to move back home and transfer to a Kingdom Hall over there. I would like to move near to Waikiki Beach, and I know where a Kingdom Hall is. It is at Monsrate and Campbell Ave. I have their phone number and will give them a call for some questions about moving over there to join that hall. Mr. Wendell Abbey</div>
+</div>
+<div class="comment_odd">
+ #<b>shawn</b>
+<i> on Oct 07, 2014</i>
+: 
+<div class="comment_body">
+#Kimmi B. Look towrard Makakilo, Millilani, Kaneohe or parts of Ewa. Stay away from Section 8 here. Avoid Waipahu, Makaha, Waianae, Kalihi. <br/>
+<br/>
+There truly is no middle class in Honolulu. It cost $1200 for the cheapest studio that would be considered (projects) or low income housing on the mainland. You either live in a slum, or you live in a Million dollar home.<br/>
+<br/>
+Your best option would be to find a room for rent in a family home...they have many houses with &#34;ohana or inlaw suites). These will still range from $700-$900 per month.<br/>
+<br/>
+The only way we survive here is by sharing housing with others. I have 5 roommates and i'm almost 40 years old and make $60k a year.<br/>
+<br/>
+Electricity at our house is almost $1000 monthly on the highest end, but $500 monthly on the lowest end. Our KWH rate is almost 3x what people pay in the mainland.<br/>
+<br/>
+This would be tolerable if there were jobs for people that payed higher wages. There are not many jobs here...you have to be local/bi lingual to work at many of the resorts. You have to be good looking to work in the bars.<br/>
+<br/>
+If youre coming from the east coast, you will find the work easy...the work ethic here is unbelievalbly lazy compared to the east coast. <br/>
+<br/>
+Bottom line...its beautiful...its expensive, its hot, its humid, full of BIG ROACHES &amp; RATS (even the million dollar homes are infested) <br/>
+<br/>
+After 10 years, I'm finally wising up and leaving this paradise. Goodluck.</div>
+</div>
+<div class="comment_even">
+ #<b>kimo Sabey</b>
+<i> on Sep 19, 2014</i>
+: 
+<div class="comment_body">
+The Jones Act makes everything we buy and power almost twice as much as the average in the rest of the country. We could pay so much less if shipping had competition from all shipping companies.</div>
+</div>
+<div class="comment_odd">
+ #<b>kimmi b</b>
+<i> on Aug 17, 2014</i>
+: 
+<div class="comment_body">
+have to move to honolulu. daughter got accepted to hp. need to find 2 bd in like section 8 or low income housing. help</div>
+</div>
+<div class="comment_even">
+ #<b>anon</b>
+<i> on Jun 26, 2014</i>
+: 
+<div class="comment_body">
+tennis courts are free all over the city- there's no cost to rent.</div>
+</div>
+<div class="comment_odd">
+ #<b>Moderator</b>
+<i> on Mar 13, 2014</i>
+: 
+<div class="comment_body">
+Added references for tennis club rates (current rate around 20$ per hour per court).</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Mar 12, 2014</i>
+: 
+<div class="comment_body">
+Why is there no CPI for Hawaii?</div>
+</div>
+<div class="comment_odd">
+ #<b>brandon thomas</b>
+<i> on Mar 06, 2014</i>
+: 
+<div class="comment_body">
+way too much money!!!!!!!!</div>
+</div>
+<!-- post a comment -->
+<br/><b><i>Leave a comment :</i></b><br/>
+<form method="post" action="http://www.numbeo.com/common/SaveComment" accept-charset="UTF-8" >
+<input type=hidden name="city" id="city" value="Honolulu, HI" />
+<input type="hidden" name="checking" id="checking" value="notchecked" />
+<input type=hidden name="country" id="country" value="United States" />
+<input type=hidden name="afterSaveCommentUrl" id="afterSaveCommentUrl" value="/cost-of-living/city_result.jsp?country=United+States&amp;city=Honolulu,+HI" />
+<input type=hidden name="appModul" id="appModul" value="1" />
+Your name: <input type=text name="yourname" id="yourname" /> <a href="http://www.numbeo.com/common/signIn?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DHonolulu%2C%2BHI" class="small_font">Sign In</a> <br/>
+Your email address (optional): <input type=text name="email_address" id="email_address" /> <br/>
+Your comment (no HTML): <br/>
+<textarea name="commentText" id="commentText" class="comment_text_area"></textarea>
+<br/>
+<input type=submit value="Post comment" />
+</form>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking').val('secret');
+});
+</script>
+
+<aside class="disabled_on_small_devices">
+<div class="standard_margin">
+<div class="nearby_city_info">Nearby cities: <table class="close_city_info">
+<tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Waikiki%2C+HI" class="likenormal"><span>Cost of Living in </span><span class="like_a">Waikiki, Hawaii</span></a></td><td style="padding-left: 5px; text-align: right">4.16 km</td></tr></table>
+</div>
+</div>
+</aside>
+
+<a href="http://www.tralev.com" rel="nofollow" target="_blank" style="border: 0; text-decoration: none;"><span class="ad_for_tralev">&nbsp;</span></a>
+
+<nav>
+<div class="text_block">
+<span class="small_font">
+More about Honolulu, HI: <span class="more_about_content">
+<span class="nobreak">
+<b>Cost of Living</b></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/crime/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Crime</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/climate/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Climate</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/food-prices/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Food Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/gas-prices/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Gas Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/health-care/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Health Care</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/travel-prices/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Travel Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/pollution/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Pollution</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/property-investment/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Property Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/quality-of-life/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Quality of Life</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/taxi-fare/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Taxi Fare</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/traffic/city_result.jsp?country=United+States&amp;city=Honolulu%2C+HI">Traffic</a></span>
+</span>
+</span>
+</div>
+</nav>
+
+
+<div id="fb-root"></div>
+<div class="footer_content">
+<a href="http://www.numbeo.com/common/about.jsp">About</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/in_the_news.jsp">In the News</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/join_community.jsp">Newsletter</a><span class="footer_separator"></span>
+<a href="http://feeds2.feedburner.com/NumbeoBlog" target="_blank">Blog</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/api.jsp" rel="nofollow">API</a><p>
+<span style="font-style: italic">
+Copyright &copy; 2009-2016 Numbeo. Your use of this service is subject to our 
+<a href="http://www.numbeo.com/common/terms_of_use.jsp">Terms of Use</a> and 
+<a href="http://www.numbeo.com/common/privacy.jsp">Privacy Policy</a>
+</span></p>
+</div>
+</div> <!-- end of innerWidth --> 
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>  <script type="text/javascript">
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=182369865155656";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10969791-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    </body>
+</html>
+
+
+

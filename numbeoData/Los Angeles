@@ -1,0 +1,1531 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="canonical" href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA" />
+<meta property="og:title" content="Cost of Living in Los Angeles" />
+<meta property="og:description" content="Average prices of more than 40 products and services in Los Angeles, CA, United States updated Feb 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA"/>
+            <script type="text/javascript" src="../common/numbeo_standard.js"></script>
+    <link type="text/css" href="../common/css/redmond/jquery-ui-1.10.3.custom.min.css" rel="Stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+    <!-- script src="http://platform.linkedin.com/in.js" type="text/javascript"></script -->
+    <script type="text/javascript" src="../common/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="../common/js/jquery-ui-1.10.3.custom.min.js"></script>
+   <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <link rel="stylesheet" type="text/css" href="../common/style.css" />
+    <link rel="stylesheet" type="text/css" href="../common/style_desktop.css" />
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#nav-one li").hover(
+		function(){ $("ul", this).fadeIn("fast"); },
+		function() { }
+	);
+	if (document.all) {
+		$("#nav-one li").hoverClass ("sfHover");
+	}
+});
+$.fn.hoverClass = function(c) {
+	return this.each(function(){
+		$(this).hover(
+			function() { $(this).addClass(c);  },
+			function() { $(this).removeClass(c); }
+		);
+	});
+};
+</script>
+
+<title>Cost of Living in Los Angeles</title>
+
+</head>
+<body>
+<div class="logo-and-upper-ad">
+<div class="innerWidth">
+<div style="display: block; height: 90px; width: 728px; margin: 0 auto;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ad_in_header3 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="7618322317"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<tr>
+<td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
+<a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
+<img  src="http://www.numbeo.com/images/numbeo_icon.svg" style="height: 62px; vertical-align: bottom; border: 0;" alt="" /><img  src="http://www.numbeo.com/images/numbeo_text.svg" style="height: 34px; margin-left: 1em; margin-bottom: 8px; vertical-align: bottom; border: 0;" alt="NUMBEO" /></a>
+</td>
+<td style="padding-left:8px; padding-top: 0px; padding-bottom: 0px; vertical-align: middle; width: 680px; text-align: right;" >
+<div style="display: inline-block; width: 100%; margin-top: 10px; margin-bottom: 10px; text-align: right; vertical-align: bottom">
+<nav style="display: inline-block; vertical-align: middle;">
+<div class="standard_margin_inlineblock" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="menu_dispatch_form"  style="display: inline; padding: 0; margin:0;">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/city_result.jsp" style="display: inline; padding:0; margin:0;" />
+<input id="city_selector_menu_city_id" size="35" type="text" placeholder="Select City (Cost of Living)" class="ui-corner-all city-selector-menu"/>
+<input type="hidden" id="menu_city_id" name="city_id"/>
+<input type="hidden" id="name_menu_city_id" name="name_city_id"/>
+      </form>
+</div>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_menu_city_id').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_menu_city_id').val(ui.item.label);
+         $('#menu_city_id').val(ui.item.value);
+jQuery('#menu_dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#menu_city_id').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_menu_city_id').val();
+		   $('#name_menu_city_id').val(val);
+	   }
+  }); // end autocompleter definition
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+ }); // end document ready 
+</script>
+</nav>
+<nav style="display: inline-block; vertical-align: middle; padding-left: 0.5em;">
+<div class="standard_margin_inlineblock">
+<select name="city_result_switcher" id="city_result_switcher"  onchange="window.location = this.value;" class="result_switcher ui-corner-all">
+<option value="" selected="selected">What are you looking for?</option>
+<option value="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Cost of Living in Los Angeles, CA</option>
+<option value="http://www.numbeo.com/crime/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Crime in Los Angeles, CA</option>
+<option value="http://www.numbeo.com/climate/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Climate in Los Angeles, CA</option>
+<option value="http://www.numbeo.com/food-prices/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Food Prices in Los Angeles, CA</option>
+<option value="http://www.numbeo.com/gas-prices/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Gas Prices in Los Angeles, CA</option>
+<option value="http://www.numbeo.com/health-care/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Health Care in Los Angeles, CA</option>
+<option value="http://www.numbeo.com/travel-prices/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Travel Prices in Los Angeles, CA</option>
+<option value="http://www.numbeo.com/pollution/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Pollution in Los Angeles, CA</option>
+<option value="http://www.numbeo.com/property-investment/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Property Prices in Los Angeles, CA</option>
+<option value="http://www.numbeo.com/quality-of-life/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Quality of Life in Los Angeles, CA</option>
+<option value="http://www.numbeo.com/taxi-fare/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Taxi Fares in Los Angeles, CA</option>
+<option value="http://www.numbeo.com/traffic/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Traffic in Los Angeles, CA</option>
+</select>
+
+</div>
+</nav>
+</div>
+</td>
+</tr>
+</table>
+</div> <!-- innerWidth in header -->
+</div> <!-- logo-and-upper-ad -->
+<div class="dropdown-outer">
+<div class="innerWidth">
+<nav class="before-nav" >
+    <ul id="nav-one" class="nav">
+
+	<li class="dir">
+<a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/comparison.jsp">Cost of Living Comparison</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/calculator.jsp">Cost of Living Calculator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings.jsp">Cost Of Living Index</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp">Cost Of Living Index (Current)</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_by_country.jsp">Cost Of Living Rankings By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/estimator_main">Cost of Living Estimator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/analysis_main">Cost of Living Analysis</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_city.jsp">Prices By City</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_country.jsp">Prices By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-data">Historical Data in a City by Year </a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-prices-by-city">Historical Data in a Year by City</a></li>
+    <li><a href="http://www.numbeo.com/food-prices/">Food Prices</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/basket_of_goods.jsp">Basket of Goods and Services</a></li>
+    <li><a href="http://www.numbeo.com/common/motivation_and_methodology.jsp">Our Motivation and Methodology</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/contribute.jsp">Update Information for Your City</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/property-investment/">Property Prices</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/property-investment/">Property Prices</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/comparison.jsp">Property Prices Comparison</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings.jsp">Property Price Index</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_current.jsp">Property Price Index Rate (Current)</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_by_country.jsp">Property Price Index By Country</a></li>
+   </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/crime/">Crime</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/crime/">Crime</a></li>
+    <li><a href="http://www.numbeo.com/crime/comparison.jsp">Crime Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_current.jsp">Crime Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings.jsp">Crime Index</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_by_country.jsp">Crime Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/health-care/">Health Care</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/health-care/">Health Care</a></li>
+    <li><a href="http://www.numbeo.com/health-care/comparison.jsp">Health Care Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_current.jsp">Health Care Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings.jsp">Health Care Index</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_by_country.jsp">Health Care Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/pollution/">Pollution</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/pollution/">Pollution</a></li>
+    <li><a href="http://www.numbeo.com/pollution/comparison.jsp">Pollution Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_current.jsp">Pollution Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings.jsp">Pollution Index</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_by_country.jsp">Pollution Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/traffic/">Traffic</a>
+  <ul>
+     <li><a href="http://www.numbeo.com/traffic/">Traffic</a></li>
+     <li><a href="http://www.numbeo.com/traffic/comparison.jsp">Traffic Comparisons</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_current.jsp">Traffic Index Rate Latest</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings.jsp">Traffic Index</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_by_country.jsp">Traffic Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/quality-of-life/">Quality Of Life</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/quality-of-life/">Quality of Life</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/comparison.jsp">Quality of Life Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_current.jsp">Quality of Life Index Rate Latests</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings.jsp">Quality of Life Index</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_by_country.jsp">Quality of Life Index by Country</a></li>
+	</ul></li>
+	<li class="dir">
+<a href="#">Travel</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/taxi-fare/">Taxi Fare Calculator</a></li>
+    <li><a href="http://www.numbeo.com/gas-prices/">Gas Prices Calculator</a></li>
+    <li><a href="http://www.numbeo.com/travel-prices/">Travel Prices</a></li>
+	</ul></li>
+
+
+</ul>
+<br style="clear: both"/>
+</nav>
+</div> <!-- innerWidth in header -->
+</div> <!-- dropdown-outer -->
+<div class="innerWidth">
+ <div class="right-ads-and-info">
+ <div class="right-ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- numbeo2_0 ads_right_med_rect -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="8165022551"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+ </div>
+<p>
+<nav itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
+<a href="http://www.numbeo.com/common/" class="discreet_link"><img src="http://www.numbeo.com/images/home.png" class="image_without_border hide_smaller_than_600" alt="home"/></a><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/" itemprop="item" class="breadcrumb_link"><span itemprop="name">Cost of Living</span></a><meta itemprop="position" content="1" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+ <a href="http://www.numbeo.com/cost-of-living/country_result.jsp?country=United+States"  itemprop="item"  class="breadcrumb_link"><span itemprop="name">United States</span></a><meta itemprop="position" content="2" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA"  itemprop="item"  class="breadcrumb_link">
+<span itemprop="name">Los Angeles, CA</span></a><meta itemprop="position" content="3" />
+</span></nav>
+    <h1> Cost of Living in Los Angeles</h1>
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<!-- Column 1 start -->
+
+
+<nav>
+<div class="standard_margin disabled_on_small_devices" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="dispatch_form" class="dispatch_form">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/compare_cities.jsp" style="display: inline; padding:0; margin:0;" />
+      <input type="hidden" name="city_id2" id="city_id2" value="3442"/>
+ Compare Los Angeles, CA  with: <input id="city_selector_city_id1" size="35" type="text" placeholder="Type and Pick City" class="ui-corner-all" />
+<input type="hidden" id="city_id1" name="city_id1"/>
+<input type="hidden" id="name_city_id1" name="name_city_id1"/>
+      <input type="hidden" name="tracking" value="getDispatchComparison" />
+      </form>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_city_id1').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_city_id1').val(ui.item.label);
+         $('#city_id1').val(ui.item.value);
+jQuery('#dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#city_id1').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_city_id1').val();
+		   $('#name_city_id1').val(val);
+	   }
+  }); // end autocompleter definition
+ }); // end document ready 
+</script>
+</div> 
+</nav>
+
+<div class="table_indices limit_size_ad_right table_indices_bigger">
+Cost of living in <span class="purple_light">Los Angeles</span> is 6.51%<span class="green_light"> lower</span> than in <span class="rose_light">Paris</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=United+States&amp;city=Los+Angeles%2C+CA" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 827.27&#8364; <span class="in_other_currency">(920.00&#36;)</span>
+ and for four person family at 3,020.03&#8364; <span class="in_other_currency">(3,358.57&#36;)</span>
+ (without rent).</span></div>
+
+<aside><div class="seeding-call disabled_on_small_devices">
+    Do you live in <span class="purple_light">Los Angeles</span>? <span class="we_need_your_help">We need your help: <a href="http://www.numbeo.com/common/form.jsp?country=United+States&amp;city=Los+Angeles%2C+CA&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA&amp;tracking=standardEnterData" rel="nofollow" class="enterDataA">Add data for Los Angeles, CA! </a></span></div></aside>
+
+<nav>
+<form action="city_result.jsp" method="get" class="standard_margin">
+<input type="hidden" name="country" value="United States" />
+<input type="hidden" name="city" value="Los Angeles, CA" />
+
+Currency:          <select id="displayCurrency" name="displayCurrency" onchange="if (checkSelectedSomeTextNotDashed('displayCurrency')) this.form.submit();">
+             <option value="EUR">EUR</option>
+             <option value="USD" selected="selected">USD</option>
+             <option value="---">---</option>
+             <option value="AED">AED</option>
+             <option value="AFN">AFN</option>
+             <option value="ALL">ALL</option>
+             <option value="AMD">AMD</option>
+             <option value="ANG">ANG</option>
+             <option value="AOA">AOA</option>
+             <option value="ARS">ARS</option>
+             <option value="AUD">AUD</option>
+             <option value="AWG">AWG</option>
+             <option value="AZN">AZN</option>
+             <option value="BAM">BAM</option>
+             <option value="BBD">BBD</option>
+             <option value="BDT">BDT</option>
+             <option value="BGN">BGN</option>
+             <option value="BHD">BHD</option>
+             <option value="BIF">BIF</option>
+             <option value="BMD">BMD</option>
+             <option value="BND">BND</option>
+             <option value="BOB">BOB</option>
+             <option value="BRL">BRL</option>
+             <option value="BSD">BSD</option>
+             <option value="BTN">BTN</option>
+             <option value="BWP">BWP</option>
+             <option value="BYR">BYR</option>
+             <option value="BZD">BZD</option>
+             <option value="CAD">CAD</option>
+             <option value="CDF">CDF</option>
+             <option value="CHF">CHF</option>
+             <option value="CLF">CLF</option>
+             <option value="CLP">CLP</option>
+             <option value="CNH">CNH</option>
+             <option value="CNY">CNY</option>
+             <option value="COP">COP</option>
+             <option value="CRC">CRC</option>
+             <option value="CUP">CUP</option>
+             <option value="CVE">CVE</option>
+             <option value="CYP">CYP</option>
+             <option value="CZK">CZK</option>
+             <option value="DEM">DEM</option>
+             <option value="DJF">DJF</option>
+             <option value="DKK">DKK</option>
+             <option value="DOP">DOP</option>
+             <option value="DZD">DZD</option>
+             <option value="ECS">ECS</option>
+             <option value="EGP">EGP</option>
+             <option value="ERN">ERN</option>
+             <option value="EUR">EUR</option>
+             <option value="FJD">FJD</option>
+             <option value="FKP">FKP</option>
+             <option value="FRF">FRF</option>
+             <option value="GBP">GBP</option>
+             <option value="GEL">GEL</option>
+             <option value="GIP">GIP</option>
+             <option value="GMD">GMD</option>
+             <option value="GNF">GNF</option>
+             <option value="GTQ">GTQ</option>
+             <option value="GYD">GYD</option>
+             <option value="HKD">HKD</option>
+             <option value="HNL">HNL</option>
+             <option value="HRK">HRK</option>
+             <option value="HTG">HTG</option>
+             <option value="HUF">HUF</option>
+             <option value="IDR">IDR</option>
+             <option value="IEP">IEP</option>
+             <option value="ILS">ILS</option>
+             <option value="INR">INR</option>
+             <option value="IQD">IQD</option>
+             <option value="ISK">ISK</option>
+             <option value="ITL">ITL</option>
+             <option value="JMD">JMD</option>
+             <option value="JOD">JOD</option>
+             <option value="JPY">JPY</option>
+             <option value="KES">KES</option>
+             <option value="KGS">KGS</option>
+             <option value="KHR">KHR</option>
+             <option value="KMF">KMF</option>
+             <option value="KPW">KPW</option>
+             <option value="KRW">KRW</option>
+             <option value="KWD">KWD</option>
+             <option value="KYD">KYD</option>
+             <option value="KZT">KZT</option>
+             <option value="LAK">LAK</option>
+             <option value="LBP">LBP</option>
+             <option value="LKR">LKR</option>
+             <option value="LRD">LRD</option>
+             <option value="LSL">LSL</option>
+             <option value="LTL">LTL</option>
+             <option value="LVL">LVL</option>
+             <option value="LYD">LYD</option>
+             <option value="MAD">MAD</option>
+             <option value="MDL">MDL</option>
+             <option value="MGA">MGA</option>
+             <option value="MKD">MKD</option>
+             <option value="MNT">MNT</option>
+             <option value="MOP">MOP</option>
+             <option value="MRO">MRO</option>
+             <option value="MUR">MUR</option>
+             <option value="MVR">MVR</option>
+             <option value="MWK">MWK</option>
+             <option value="MXN">MXN</option>
+             <option value="MXV">MXV</option>
+             <option value="MYR">MYR</option>
+             <option value="MZN">MZN</option>
+             <option value="NAD">NAD</option>
+             <option value="NGN">NGN</option>
+             <option value="NIO">NIO</option>
+             <option value="NOK">NOK</option>
+             <option value="NPR">NPR</option>
+             <option value="NZD">NZD</option>
+             <option value="OMR">OMR</option>
+             <option value="PAB">PAB</option>
+             <option value="PEN">PEN</option>
+             <option value="PGK">PGK</option>
+             <option value="PHP">PHP</option>
+             <option value="PKR">PKR</option>
+             <option value="PLN">PLN</option>
+             <option value="PYG">PYG</option>
+             <option value="QAR">QAR</option>
+             <option value="RON">RON</option>
+             <option value="RSD">RSD</option>
+             <option value="RUB">RUB</option>
+             <option value="RWF">RWF</option>
+             <option value="SAR">SAR</option>
+             <option value="SBD">SBD</option>
+             <option value="SCR">SCR</option>
+             <option value="SDG">SDG</option>
+             <option value="SEK">SEK</option>
+             <option value="SGD">SGD</option>
+             <option value="SHP">SHP</option>
+             <option value="SIT">SIT</option>
+             <option value="SLL">SLL</option>
+             <option value="SOS">SOS</option>
+             <option value="SRD">SRD</option>
+             <option value="STD">STD</option>
+             <option value="SVC">SVC</option>
+             <option value="SYP">SYP</option>
+             <option value="SZL">SZL</option>
+             <option value="THB">THB</option>
+             <option value="TJS">TJS</option>
+             <option value="TMT">TMT</option>
+             <option value="TND">TND</option>
+             <option value="TOP">TOP</option>
+             <option value="TRY">TRY</option>
+             <option value="TTD">TTD</option>
+             <option value="TWD">TWD</option>
+             <option value="TZS">TZS</option>
+             <option value="UAH">UAH</option>
+             <option value="UGX">UGX</option>
+             <option value="USD">USD</option>
+             <option value="UYU">UYU</option>
+             <option value="VND">VND</option>
+             <option value="VUV">VUV</option>
+             <option value="WST">WST</option>
+             <option value="XAF">XAF</option>
+             <option value="XCD">XCD</option>
+             <option value="XDR">XDR</option>
+             <option value="XOF">XOF</option>
+             <option value="XPF">XPF</option>
+             <option value="YER">YER</option>
+             <option value="ZAR">ZAR</option>
+             <option value="ZMW">ZMW</option>
+             <option value="ZWL">ZWL</option>
+         </select>
+
+<span class="small_font small_space_desktop"><a href="http://www.numbeo.com/common/currency_settings.jsp?return=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA" rel="nofollow">Sticky Currency</a></span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="small_font">
+<a href="http://www.numbeo.com/common/measurement_settings.jsp?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA" rel="nofollow">Switch to US measurement units</a></span>
+</form>
+</nav>
+
+<table class="data_wide_table"><tr> <th class="highlighted_th prices">Restaurants</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Los+Angeles%2C+CA&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA&amp;current=0&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices" style="padding-left: 132px; text-align: left;">Range</th>
+</tr>
+<tr><td>Meal, Inexpensive Restaurant </td> <td style="text-align: right" class="priceValue "> 15.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+10.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">20.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 60.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+44.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">74.00</span></td>
+ </tr>
+<tr><td>McMeal at McDonalds (or Equivalent Combo Meal) </td> <td style="text-align: right" class="priceValue "> 7.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+6.00</span><span class="barLeft" style="width: 9px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">8.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Domestic Beer (0.5 liter draught) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 5.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+4.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 29px;" ></span><span class="barTextRight">7.00</span></td>
+ </tr>
+<tr><td>Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 6.12&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+5.00</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 22px;" ></span><span class="barTextRight">8.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Cappuccino (regular) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.97&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3.50</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 9px;" ></span><span class="barTextRight">4.50</span></td>
+ </tr>
+<tr><td>Coke/Pepsi (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.82&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.39</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 7px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Water (0.33 liter bottle)  </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.53&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 23px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Markets</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Los+Angeles%2C+CA&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA&amp;current=1&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Milk (regular), (1 liter) </td> <td style="text-align: right" class="priceValue "> 1.02&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+0.85</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">1.32</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Loaf of Fresh White Bread (500g) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.89&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.19</span><span class="barLeft" style="width: 17px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">3.86</span></td>
+ </tr>
+<tr><td>Rice (white), (1kg) </td> <td style="text-align: right" class="priceValue "> 3.67&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 28px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">4.41</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Eggs (12) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.90&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.85</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">4.99</span></td>
+ </tr>
+<tr><td>Local Cheese (1kg) </td> <td style="text-align: right" class="priceValue "> 10.04&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+7.69</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">12.13</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Chicken Breasts (Boneless, Skinless), (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 10.25&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+6.59</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 37px;" ></span><span class="barTextRight">15.41</span></td>
+ </tr>
+<tr><td>Beef Round (1kg) (or Equivalent Back Leg Red Meat) </td> <td style="text-align: right" class="priceValue "> 12.45&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+8.82</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">17.64</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apples (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.92&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 32px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 50px;" ></span><span class="barTextRight">6.59</span></td>
+ </tr>
+<tr><td>Banana (1kg) </td> <td style="text-align: right" class="priceValue "> 2.22&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.54</span><span class="barLeft" style="width: 22px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 36px;" ></span><span class="barTextRight">3.31</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Oranges (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.68&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 29px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 27px;" ></span><span class="barTextRight">5.05</span></td>
+ </tr>
+<tr><td>Tomato (1kg) </td> <td style="text-align: right" class="priceValue "> 3.57&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 27px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 40px;" ></span><span class="barTextRight">5.49</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Potato (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.77&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.96</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 43px;" ></span><span class="barTextRight">4.41</span></td>
+ </tr>
+<tr><td>Onion (1kg) </td> <td style="text-align: right" class="priceValue "> 2.56&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.74</span><span class="barLeft" style="width: 23px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 37px;" ></span><span class="barTextRight">3.86</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Lettuce (1 head) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.51&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.99</span><span class="barLeft" style="width: 25px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 48px;" ></span><span class="barTextRight">2.50</span></td>
+ </tr>
+<tr><td>Water (1.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.96&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 35px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 39px;" ></span><span class="barTextRight">2.99</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Bottle of Wine (Mid-Range) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 11.75&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+10.00</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">15.00</span></td>
+ </tr>
+<tr><td>Domestic Beer (0.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 2.03&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.67</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">2.50</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.27&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.50</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">3.00</span></td>
+ </tr>
+<tr><td>Pack of Cigarettes (Marlboro) </td> <td style="text-align: right" class="priceValue "> 6.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+5.45</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">7.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Transportation</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Los+Angeles%2C+CA&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA&amp;current=2&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>One-way Ticket (Local Transport) </td> <td style="text-align: right" class="priceValue "> 1.75&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.50</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">1.80</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Monthly Pass (Regular Price) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 100.00&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+50.00</span><span class="barLeft" style="width: 35px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 1px;" ></span><span class="barTextRight">100.00</span></td>
+ </tr>
+<tr><td>Taxi Start (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 3.38&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.85</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 35px;" ></span><span class="barTextRight">5.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Taxi 1km (Normal Tariff) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.86&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.68</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">2.49</span></td>
+ </tr>
+<tr><td>Taxi 1hour Waiting (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 29.75&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+29.19</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">35.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.86&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.76</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">1.03</span></td>
+ </tr>
+<tr><td>Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) </td> <td style="text-align: right" class="priceValue "> 21,500.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+20,000.00</span><span class="barLeft" style="width: 4px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">24,000.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Utilities (Monthly)</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Los+Angeles%2C+CA&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA&amp;current=3&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 121.32&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+75.00</span><span class="barLeft" style="width: 27px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 38px;" ></span><span class="barTextRight">182.99</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.10&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.10</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 4px;" ></span><span class="barTextRight">0.11</span></td>
+ </tr>
+<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 48.92&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+35.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">65.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Sports And Leisure</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Los+Angeles%2C+CA&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA&amp;current=4&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Fitness Club, Monthly Fee for 1 Adult </td> <td style="text-align: right" class="priceValue "> 41.04&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+30.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 25px;" ></span><span class="barTextRight">55.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Tennis Court Rent (1 Hour on Weekend) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 15.78&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+8.00</span><span class="barLeft" style="width: 36px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 43px;" ></span><span class="barTextRight">25.00</span></td>
+ </tr>
+<tr><td>Cinema, International Release, 1 Seat </td> <td style="text-align: right" class="priceValue "> 14.00&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+12.00</span><span class="barLeft" style="width: 9px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 5px;" ></span><span class="barTextRight">15.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Clothing And Shoes</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Los+Angeles%2C+CA&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA&amp;current=5&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 48.71&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+35.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">69.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 33.38&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+25.00</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 25px;" ></span><span class="barTextRight">45.00</span></td>
+ </tr>
+<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 79.11&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+60.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">95.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 105.19&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+78.00</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 31px;" ></span><span class="barTextRight">150.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Rent Per Month</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Los+Angeles%2C+CA&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA&amp;current=6&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Apartment (1 bedroom) in City Centre </td> <td style="text-align: right" class="priceValue "> 1,762.61&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1,500.00</span><span class="barLeft" style="width: 9px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">2,000.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (1 bedroom) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1,333.18&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1,100.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 9px;" ></span><span class="barTextRight">1,500.00</span></td>
+ </tr>
+<tr><td>Apartment (3 bedrooms) in City Centre </td> <td style="text-align: right" class="priceValue "> 3,438.56&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2,500.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 23px;" ></span><span class="barTextRight">4,500.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (3 bedrooms) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2,563.49&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2,000.00</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">3,000.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Buy Apartment Price</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Los+Angeles%2C+CA&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA&amp;current=7&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Price per Square Meter to Buy Apartment in City Centre </td> <td style="text-align: right" class="priceValue "> 7,665.77&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+4,305.56</span><span class="barLeft" style="width: 31px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">10,763.91</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Price per Square Meter to Buy Apartment Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3,968.74&nbsp;&#36;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3,110.77</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">5,478.83</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Los+Angeles%2C+CA&amp;country=United+States&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 3,048.93&nbsp;&#36;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2,200.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 23px;" ></span><span class="barTextRight">4,000.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.95</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+3.50</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">4.30</span></td>
+ </tr>
+</table>
+<h2>Prices in Los Angeles, California, United States</h2>
+<div style="display: inline">
+These data are based on 2633 entries in the past 18 months from 348 different contributors.
+<br/>Last update: February, 2016
+</div>
+
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<div style="float: right; margin-top: 3px;">
+<!-- ad_after_prices_rect1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="4999919919"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+<div class="green_box">
+<b>Sources and References :</b> 
+<a href="http://www.numbeo.com/common/sources_and_references.jsp" title="About sources and references"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="Info"/></a><br/>
+No sources and references provided yet.<br/>
+<form action="http://www.numbeo.com/common/InsertSource" method="post" accept-charset="UTF-8" >
+<input type="hidden" id="returnUrl" name="returnUrl" value="/cost-of-living/city_result.jsp?country=United+States&amp;city=Los%20Angeles,+CA" /><input type="hidden" id="moduo" name="moduo" value="1" /><input type="hidden" id="checking_sources" name="checking_sources" value="" /><input type="hidden" id="city_id" name="city_id" value="3442" /><b>Add new source here:</b>
+<table>
+<tr><td>URL: </td><td><input type="text" id="href" name="href" size="50"/></td></tr> 
+<tr><td>Description: </td><td><input type="text" id="href_name" name="href_text" size="50"/></td></tr> 
+<tr><td colspan=2><input type="submit" value="Add" /> </td></tr>
+</table>
+</form>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking_sources').val('check_it_out');
+});
+</script>
+</div>
+
+<nav>
+<div class="fancy_explanation">
+<ul><li>
+Los Angeles has 4<sup>th</sup> <span class="rank_highest">Most Expensive</span> Cinema, International Release, 1 Seat, Sports And Leisure in America out of 192 cities). See More <a href="http://www.numbeo.com/cost-of-living/city_analysis?country=United+States&amp;city=Los+Angeles%2C+CA" class="discreet_link">Price Rankings for Los Angeles, CA</a></li>
+<li>The price of Eggs (12) in the year 2012 in Los Angeles was 2.14&#36;. See More <a href="http://www.numbeo.com/cost-of-living/city_history?country=United+States&amp;city=Los+Angeles%2C+CA"  class="discreet_link">Historical Data in Los Angeles, CA</a></li>
+<li>See <a href="http://www.numbeo.com/cost-of-living/city_basket_analysis?country=United+States&amp;city=Los+Angeles%2C+CA" class="discreet_link">Analysis of our Consumer Price Basket in Los Angeles, CA</a></li></ul></div>
+</nav>
+
+<div class="standard_margin">
+<div class="chart_bar"><script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(chartCpi_3442);
+      function chartCpi_3442() {
+      var data = google.visualization.arrayToDataTable([
+                ['Category', 'Amount in USD'],
+          ['Transportation', 451.27],
+          ['Clothing And Shoes', 93.24],
+          ['Sports And Leisure', 225.72],
+          ['Markets', 1411.98],
+          ['Utilities (Monthly)', 202.70],
+          ['Rent Per Month', 2274.46],
+          ['Restaurants', 627.30]
+        ]);
+
+        var options = {
+          title: 'Distribution of expenses using our statistical model', 
+          backgroundColor: '#E9F2FB',
+          is3D: true,
+          tooltip: { text: 'percentage'},
+          fontName: 'sans-serif' ,
+          fontSize: 12,
+          titleTextStyle: { fontSize: 14} ,
+          chartArea: {left:50,top:50, right:20, bottom:30, width:'90%', height:'80%'  }
+
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('chartCpi_3442_div'));
+        chart.draw(data, options);
+      }
+    </script>
+<div id="chartCpi_3442_div" class="pie_chart_could_be_big"></div></div>
+</div>
+
+
+
+<div class="comments_box">
+<!-- existing comments -->
+<i>60 Comments so far </i><br/>
+<div class="comment_even">
+ #<b>Calabasas Guy</b>
+<i> on Nov 04, 2015</i>
+: 
+<div class="comment_body">
+Assuming 30% tax arriving at the $3,155/m salary, it puts an estimated $4507/m salary, average yearly salary of $54,084. NOT A CHANCE. The figure could be for average household income MAYBE, but not for a single person.  Accounting for EVERYONE, including undocumented aliens (there are millions, don't think it's a trivial amount) The average yearly salary is likely closer to $35,360 per person, and that's being generous assuming an average $17/hr rate for everyone. Average &#34;Disposable after tax income&#34; is more like $2,062 a month. Factor in the $1,200/m rent, it leaves ~$800 to cover all other expenses. To think the average person here has $3,155 in disposable monthly income is hilarious. Seriously. I can't stop laughing. Factoring in the 600,000 or so millionaires who live here does not allow surveys to distribute their wealth across the other 9.5 million people here. I wish income polls would stop accounting for the wealthy in their figures.<br/>
+<br/>
+Otherwise good job on the other stats. Fun site!</div>
+</div>
+<div class="comment_odd">
+ #<b>L. Don</b>
+<i> on Oct 30, 2015</i>
+: 
+<div class="comment_body">
+Los Angeles, California ... the city of dreams...<br/>
+<br/>
+Can you imagine what it must have been like in the mid 60's and 70's in this town..<br/>
+<br/>
+LA was sunny and full of great vibe..<br/>
+<br/>
+Sunset BLVD - the Sunset Strip was The Place ...</div>
+</div>
+<div class="comment_even">
+ #<b>Parisa</b>
+<i> on Oct 17, 2015</i>
+: 
+<div class="comment_body">
+I hate LA. Specially south la   No job no opportunity. I got depression and I wanna quit here for ever.</div>
+</div>
+<div class="comment_odd">
+ #<b>Brett </b>
+<i> on Oct 14, 2015</i>
+: 
+<div class="comment_body">
+I used to live in simi and thousand oaks as a kid ..I want to move back to cali and miss what I once knew.I am in the paint and body business and would like to know where my best locations would be .Just about anywhere in southern California would be fine...cost of living info would also be appreciated..thank you</div>
+</div>
+<div class="comment_even">
+ #<b>Blah</b>
+<i> on Sep 24, 2015</i>
+: 
+<div class="comment_body">
+Stay where you are and quit trying to crowd us, already too crowded as it is. You will not be a model, a star, an actor, a singer, what ever. Give it up.</div>
+</div>
+<div class="comment_odd">
+ #<b>hessam </b>
+<i> on Sep 11, 2015</i>
+: 
+<div class="comment_body">
+Hi,i want to come into LA(2016) to study chimtery .please can anyone living in LA , a good and cheaper house to rent(one bed room) in a safe area? If you answer me you will be my friend.hessam.abouali@hotmail.com</div>
+</div>
+<div class="comment_even">
+ #<b>BigTex</b>
+<i> on Aug 06, 2015</i>
+: 
+<div class="comment_body">
+Dear all,<br/>
+I would like to get your opinion in moving to LA from Texas. I have bene offered a government job starting at $53K. My wife and I have two babies, and we are planning to home school them, so school districts will be less of a factor. Can anyone recommend a good place to live, safe and affordable? I will be working downtown LA. Thank you so much! BigTex</div>
+</div>
+<div class="comment_odd">
+ #<b>munya</b>
+<i> on Jul 01, 2015</i>
+: 
+<div class="comment_body">
+eish are u telling me that this is actually real in LA. I mean seriously? I can't believe it. I would request someone to share with me more please</div>
+</div>
+<div class="comment_even">
+ #<b>Tony Rocket</b>
+<i> on Mar 20, 2015</i>
+: 
+<div class="comment_body">
+Thank you Jaymoon23 for your info on the LA metro, plus your other info..<br/>
+<br/>
+much appreciated..</div>
+</div>
+<div class="comment_odd">
+ #<b>Tomas R</b>
+<i> on Mar 19, 2015</i>
+: 
+<div class="comment_body">
+According wikipedia average salary should be 2300 dollars per month. Why there are so high salary averages on numbeo. And this is not only the case of Los angeles. Maybe because only some sort people comes here?<br/>
+<br/>
+http://en.wikipedia.org/wiki/California_locations_by_income</div>
+</div>
+<div class="comment_even">
+ #<b>Tony Rocket</b>
+<i> on Mar 05, 2015</i>
+: 
+<div class="comment_body">
+Thanks @Jaymoon23 for such an interesting and informative post.<br/>
+<br/>
+ I think living in Los Angeles would be amazing.. even if it was just for one year...</div>
+</div>
+<div class="comment_odd">
+ #<b>Jaymoon23</b>
+<i> on Feb 23, 2015</i>
+: 
+<div class="comment_body">
+@tony Rocket the transportation system in Los angeles has expanded rapidly in the last 10 years the subway system is a lot safer than it use to be when I was growing up ..Los angeles in general is a lot safer than it use to be the majority of &#34;thugs&#34; or &#34;gangsters&#34; are getting priced out of the communities police presence has increased all around if you guys are considering moving to Los angeles don't belive the hype about south central ,compton or watts don't get me wrong there's still some shitty areas basically anything around the projects but for the most part the &#34;Hood&#34; isn't so &#34;hood&#34; anymore With that being said developments are blooming all around the mega plazas being built in USC,inglewood and Carson are going to take the south side of Los angeles to another level more jobs more money better living standards and best of all less ghetto people for those of you getting offended when I say ghetto people just know that I've lived in south central and watts my whole life and I've seen some of the most ignorant people on the face of the earth do horrible things in the communities they claim they represent it's time for a change and I'm glad it's happeneng now I'm glad so many of you have aspirations of living out here just some tips <br/>
+-Rent is pricy out here so if your planning on moving find roommates ahead of time <br/>
+<br/>
+-it may take a little time to find a good job in your field of study so have some money saved up if your looking to land a quick job for the meanwhile look for something in the public safety field (security guard) get your guard card ahead of time before moving out here and start applying if security isn't for you another fast job to land is as a server at a restaurant <br/>
+<br/>
+-be creative another beautiful thing about Los angeles is that there's so many things you can do to creat income if you have a fuel efficient car consider driving for (UBER) my mom use to be a taxi driver for 15 years and when UBER came out she gave it a shot and now she's averaging $20 dollars an hour</div>
+</div>
+<div class="comment_even">
+ #<b>Ajay</b>
+<i> on Feb 12, 2015</i>
+: 
+<div class="comment_body">
+Hi,<br/>
+ I just want to work in California, it's my dream. For that any one could help me plz......!!</div>
+</div>
+<div class="comment_odd">
+ #<b>Barbara</b>
+<i> on Feb 03, 2015</i>
+: 
+<div class="comment_body">
+So everyone what would the cost of living be if you're living in the city and not at the minimum expenses? - to have lets say for example a 'nice' 1 bed apartment (so that you don't need a gun in your closet), etc and a good paying job? How much would a nice lifestyle cost you? - so not a fancy lifestyle, but to live comfortably?</div>
+</div>
+<div class="comment_even">
+ #<b>Marcel Zachary</b>
+<i> on Dec 14, 2014</i>
+: 
+<div class="comment_body">
+Hello everyone out there on the west coast.I've been trying to get my foot in the entertainment industry for awhile.It's just the place I live is just so<br/>
+lame and it's not just that it's alot of things i don't agree with about.Mostly the place I'm talking about Lawrence KS it has a good school and college but very few resources to make a career as a musician.I want to know does anybody have any suggestions where to go in California to get noticed.And now ast month Brownback just got reelected and it's going to get worse still I want to get out before that happens.I was wondering does anyone know where does Dr.Dre live or any celeb producer I can send my music to.Also I have a Aunt who lives in Pasadena I can send y'all my email it's LadyK.Zachary@yahoo.com she has a show on Youtube.</div>
+</div>
+<div class="comment_odd">
+ #<b>Tony Rocket</b>
+<i> on Dec 09, 2014</i>
+: 
+<div class="comment_body">
+Please can someone write about what the public transport system is like in Los Angeles and whether you can live your life car free in LA.</div>
+</div>
+<div class="comment_even">
+ #<b>Pat W</b>
+<i> on Nov 26, 2014</i>
+: 
+<div class="comment_body">
+By the way, I had dealings with  Integrity Property Management, in Burbank, they own a bunch of apartments all over LA, and they were actually pretty good to deal with.</div>
+</div>
+<div class="comment_odd">
+ #<b>Pat W</b>
+<i> on Nov 26, 2014</i>
+: 
+<div class="comment_body">
+The traffic is beyond imagining. If you've ever tried to go thru the Lincoln or Holland Tunnel in NYC on a Friday evening, that is what you face all day long from 7am-11pm, Monday thru Sunday. Seriously. Stop and go and this is on freeways and smaller main roads. Every major road is a freeway here, a 5 or 7 lane freeway in each direction and the drivers are crazy and aggressive. *Almost* every nice person is from the East Coast originally, where folks were brought up less materialistically. LA is sprawling. It is more like a county really, with a ton of smaller towns within it, which all are given LA zipcodes and come under the LA umbrella. Google map any 8-mile trip in LA, say Silver Lake to Laurel Canyon, and it will take you at least 45-minutes to an hour after 7am.<br/>
+<br/>
+The reason LA and SoCal is better than Florida, which also has sun and warmth on the East Coast, is that it is dry, has no humidity, has very few bugs, no mosquitoes, and it is *liberal* and progressive and open, if not encouraging of, new ideas and ways of thinking, whereas Florida is conservative, backward, generally asinine, almost a police state, is regressive in a thousand different ways and lacks culture.<br/>
+<br/>
+But, you do need 100k a year, as a single person, to get by here. So, do you want to be a big fish in a small pond or do you want to be a small fish (or even bait) in a big pond?</div>
+</div>
+<div class="comment_even">
+ #<b>Dollar Bill Spencer</b>
+<i> on Oct 22, 2014</i>
+: 
+<div class="comment_body">
+Los Angeles California<br/>
+<br/>
+It's the lifestyle<br/>
+<br/>
+It's Hollywood<br/>
+<br/>
+It's the Movie / TV / Music business<br/>
+<br/>
+Sunshine<br/>
+<br/>
+It's the outdoor lifestyle<br/>
+<br/>
+Cost of renting an apartment is affordable .. $1500 - $3000 per month for a 2 bed apt in a good area..<br/>
+<br/>
+What's the downside?<br/>
+<br/>
+Everyone says car congestion .. driving is a nightmare and takes forever... (unless you're driving after midnight...)</div>
+</div>
+<div class="comment_odd">
+ #<b>millefort lando </b>
+<i> on Oct 20, 2014</i>
+: 
+<div class="comment_body">
+Hi,i want to come into los angeles(2015) to study movie.please can anyone living in LA directs me about a good school, a good and cheaper house to rent(one bed room) in a safe area? If you answer me you will be my friend.millefort@yahoo.ca Thanks</div>
+</div>
+<div class="comment_even">
+ #<b>May</b>
+<i> on Oct 12, 2014</i>
+: 
+<div class="comment_body">
+I have been living in Los Angeles over 25 years, I live near northeast side which is very close to downtown. My neighborhood is older but safe. There are no rundown housing except very close to affordable housing development. Rent of one bedroom apartment or older small house is about $800 to $1100 on average.  The only bad drawback that is too many years and lack of parking space in the street during daytime.</div>
+</div>
+<div class="comment_odd">
+ #<b>jane</b>
+<i> on Oct 07, 2014</i>
+: 
+<div class="comment_body">
+Hi there ,<br/>
+yes, California it a good place to live for rich and more aggressive people.<br/>
+the 1 bed room with kitchen and bath room an so on .... ( I means standard living) in LA or OC. its about $ 800/m - $2850/m, It depend on where do you want to live?., But if you choose the $800/m. I suggest you should have the armor when you are in and out of your house and you must have a gun in your closet...<br/>
+Have a good day....<br/>
+Think twice before you want to move to CA....... People are making less than $35.000 /year are plan to move out of this place<br/>
+Have a good day my friend</div>
+</div>
+<div class="comment_even">
+ #<b>Vanessa</b>
+<i> on Sep 26, 2014</i>
+: 
+<div class="comment_body">
+Let's be roommates! That'll cut the cost<br/>
+<br/>
+I'm serious by the way. Respond to this comment if interested.</div>
+</div>
+<div class="comment_odd">
+ #<b>Mica </b>
+<i> on Sep 05, 2014</i>
+: 
+<div class="comment_body">
+Hi!How much is the average cost of an apartment in California for 1 person with a kitchen and a toilet?</div>
+</div>
+<div class="comment_even">
+ #<b>kristjana</b>
+<i> on Aug 17, 2014</i>
+: 
+<div class="comment_body">
+Hello..my friend and I are thinking of moving in LA for our studies...can u give me a hand with the life cost.renting a house for two and the job opportunities...Ive read that the call centers offer good salaries...Help us guys...THank you</div>
+</div>
+<div class="comment_odd">
+ #<b>Bob</b>
+<i> on Aug 06, 2014</i>
+: 
+<div class="comment_body">
+The cost of living is outrageous depending on your zip code (i.e. 1 bedroom apartment in Beverly Hills=$1,900 for a rundown place; Santa Monica for one bedroom is about $1,800-2,200/month). Jobs are very hard to come by since most foreigners have been flocking to the state as well as people from out of state, there is A LOT of competition for jobs. Los Angeles pays the most in taxes by far from any county as well.</div>
+</div>
+<div class="comment_even">
+ #<b>Odyssey</b>
+<i> on Aug 01, 2014</i>
+: 
+<div class="comment_body">
+Los Angeles California is for the entrepreneurial spirited individual - you have a dream, an ambition ..<br/>
+<br/>
+SOFTWARE - APPS - INTERNET - ENTERTAINMENT - <br/>
+huge opportunities for software developers, mobile devices app development, Internet business concepts,<br/>
+hit music songwriting and music publishing, recorded music producers, writers and publishing e-books.<br/>
+<br/>
+Actors - Singers - Back-Room Talent..<br/>
+If you have ambitions and drive to be a commercial actor, singer or back-room talent then Los Angeles<br/>
+is the city for you..<br/>
+<br/>
+LIFESTYLE...<br/>
+Los Angeles California offers an amazing lifestyle where it's just different to the rest of the US.<br/>
+<br/>
+LA is a state of mind...</div>
+</div>
+<div class="comment_odd">
+ #<b>Anonymous</b>
+<i> on Jul 28, 2014</i>
+: 
+<div class="comment_body">
+To live in LA you need to become a drug dealer or else you won't make it with the cost of living ...Its just to fckn crazy..</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Jul 27, 2014</i>
+: 
+<div class="comment_body">
+To live in LA you need to become a drug dealer or else you won't make it with the cost of living ...Its just to fckn crazy..</div>
+</div>
+<div class="comment_odd">
+ #<b>Liz</b>
+<i> on Jul 12, 2014</i>
+: 
+<div class="comment_body">
+Average Monthly Disposable Salary (After Tax) 	$3,764.74.???? I live in LA for 13 years already, and it's even hard to find a job for $15/hr, I'm not talking about $20-$30/hr if you are not a lawyer or RN, or Computer Scientist. I have a Bachelor's in Business Administration/Management, studied in California State University, so good luck, folks! Prices for houses are huge, salaries are low in general, I'm not sure if it's worth living here. (You can find a job for $2000-$2500 a month after tax, don't expect to be paid more)....  Unless you are a doctor or director of a movie, or something.</div>
+</div>
+<div class="comment_even">
+ #<b>Addy</b>
+<i> on Jul 04, 2014</i>
+: 
+<div class="comment_body">
+Can someone guide me is there any opportunities in Tourism Operation as I had 8 years of Thailand based company tourism operation experience and moved here in Houston by March 2014. Now I have got all my paper works ready like Green Card/ License etc. etc. but as everyone know there is no tourism in TX so I am desperately looking for the opportunity in LA. Can someone guide me is this the good decision to move there...</div>
+</div>
+<div class="comment_odd">
+ #<b>Tom Cat</b>
+<i> on May 11, 2014</i>
+: 
+<div class="comment_body">
+California is still the place of dreams and the great escape...<br/>
+<br/>
+Los Angeles is the city of money, glamour, fame, success and the people behind the glamour, the writers, producers, directors,<br/>
+stunt actors, make up, technical operators, engineers, artists, accountants, wardrobe, costume, catering .. <br/>
+<br/>
+There's a lot of people and industry behind all the glamour and star making ..</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on May 05, 2014</i>
+: 
+<div class="comment_body">
+I wanna travel to California would you give the living cost please. I agreed already to go and work with a salary of $3500 USD excluding costs of housing , Medical Insurance and flight tickets.</div>
+</div>
+<div class="comment_odd">
+ #<b>Gaurav</b>
+<i> on Apr 29, 2014</i>
+: 
+<div class="comment_body">
+Hi all,<br/>
+<br/>
+I will be doing my Masters at USC, LA. Please guide me with the living cost. (per month). I will be living with 2-3 room mates. So, hoping the cost would be affordable. Please throw some info. <br/>
+Thanks :-)</div>
+</div>
+<div class="comment_even">
+ #<b>Popeye</b>
+<i> on Apr 24, 2014</i>
+: 
+<div class="comment_body">
+Hi to Shawn who wrote: &#34;I have already want to work in the entertainment industry but what part of la are they in and what area good to live in to be near the entertainment industry?&#34;<br/>
+<br/>
+Shawn, Los Angeles is crowded with people who wanna be working actors, musicians, writers, producers, managers, directors, EDM deejays and the list goes on..<br/>
+<br/>
+I really think it's a lot harder than many people think .. <br/>
+<br/>
+What might be better is to try to further your ambitions by remote control and commute into LA every so often for meetings and work opportunities but remain based in your current hometown if you have established a home already.<br/>
+<br/>
+If I were going to contemplate a move to anywhere in the US, the place I would choose is Portland OR because the climate is conducive <br/>
+for writers, artists and musicians.<br/>
+<br/>
+Also the cost of living is much less in Portland OR compared to LA and it's a lot more scenic.<br/>
+<br/>
+But if LA it is, then West Hollywood is a popular destination.<br/>
+<br/>
+You can choose to make do without a car and live near the LA transit system - you can actually get by in LA without a car<br/>
+if you plan your itinerary in advance and take the time to acquaint yourself in the wherewithal.<br/>
+<br/>
+here is the wiki web link about the Metro Rail in Los Angeles<br/>
+<br/>
+http://en.wikipedia.org/wiki/Metro_Rail_(Los_Angeles_County)</div>
+</div>
+<div class="comment_odd">
+ #<b>shawn</b>
+<i> on Apr 19, 2014</i>
+: 
+<div class="comment_body">
+hi, I have already want to work in the entertainment industry but what part of la are they in and what area good to live in to be near the entertainment industry?</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Apr 17, 2014</i>
+: 
+<div class="comment_body">
+Wondering about health care jobs for Licensed Practical Nurses in any of the hospitals or clinics?  Have been thinking about moving to a warmer climate but not humid to get about from the harsh winters in Canada.  Any info would be appreciated, thanks!!</div>
+</div>
+<div class="comment_odd">
+ #<b>Darren</b>
+<i> on Apr 14, 2014</i>
+: 
+<div class="comment_body">
+Hi I lived in La about 10 years ago and have been  living in  England for those past 10years and am desperate to get back to the La area! Miss it so much but fear I won't be able to afford it there now??? I used to be an electrician for the IBEW and it looks like I may be able to get my job back with them&#34; fingers crossed&#34; if that is the case I should take home after taxs about 4grand a month will I be able to afford to rent a 3 bed house in a fairly decent area and still have a bit of doh left over? Many thanks for any responses</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Apr 07, 2014</i>
+: 
+<div class="comment_body">
+Im considering moving to LA, even if some of your prices are high its still nothing compared to New York City! $13 for a pack of ciggarettes!and there is plenty more im not gonna get into it lol</div>
+</div>
+<div class="comment_odd">
+ #<b>Stephen K</b>
+<i> on Mar 28, 2014</i>
+: 
+<div class="comment_body">
+I've been living in County of Los Angeles over 25 years now. Time DOES fly! I do regret that I didn't purchase a house in the early 2000s. If you have kids and like the suburban area, then look into &#34;Park La Brea&#34; community. Obviously the cost of rent went up sky high. I'm paying pretty high rent every month. But considering places where you can walk and &#34;convenience&#34; is in your mind, that's the place I like the most. I used to live in Orange County for a while where the rent cost was pretty cheap. Still cheaper compared to city of LA. In terms of occupation, you really have to dig into what's available out there. Honestly I don't think there are plenty of jobs in LA due to the all the layoffs and decreasing business asset. If you are trying to move into LA, do your good study on living cost and expenses.</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Mar 08, 2014</i>
+: 
+<div class="comment_body">
+I have been living in LA for 15 years now. It was ok at late 90s, early 2000s, but now is outrageous. Forget buying a property, prices now are higher than before the real-estate bubble in 2005-2007. Rents too are higher and won't go down. Cost of maintaining a car, car insurance is high and gas prices are the highest in the country. The high paying jobs are gone ( Oracle moved out, Google moved to Irvine, tons of entertainment studios closed doors, Disney laid off 700 people just week ago with big portion from Burbank division, Dreamworks cut staff in half .. etc, etc ). The best chance to find job fast is in retail ( sales associate ), banking ( tellers ) or financial entry (accountant) which are not even mid class jobs but just to pass by day by day. If you don't make over $100K per year in LA then you are going to be broke all the time. I have seen alot of bums in areas now where were considered high end before. I won't even start on the traffic, it is the worst, worst, worst now. You need 40min/1hour minimum to ago anywhere in LA and parking spots are scarce. The beach is over-rated, quality of the beach water is the worst in CA. There is nothing iconic anymore in Venice or Manhattan beach, it is only commercialized. Raising family in LA is the worst decision one can make. Your kids will not advance in sports and expect to PAY big money for your kids to just play any sport recreationaly, and there are no safe bike zones for kids. There is some variety of parks but as I said driving sux, so the lost time in traffic doesn't make up for the spent time.<br/>
+American dream in LA is dead and will never come back.</div>
+</div>
+<div class="comment_odd">
+ #<b>Dany</b>
+<i> on Feb 18, 2014</i>
+: 
+<div class="comment_body">
+I'm planning to move to Claremont, CA; salary after tax is going to be $4,400, somebody could tell if is sufficient to live there, I'm married and we have a daughter of 9 years old. Thank you!</div>
+</div>
+<div class="comment_even">
+ #<b>Manie</b>
+<i> on Feb 11, 2014</i>
+: 
+<div class="comment_body">
+Also agree that prices are higher than stated. For the students asking, you need min.800 for expenses (with a cheap room). 1000$ with a car. <br/>
+These are min. prices.</div>
+</div>
+<div class="comment_odd">
+ #<b>Herman</b>
+<i> on Jan 26, 2014</i>
+: 
+<div class="comment_body">
+Los Angeles and California is cheap when compared to Australia. You compare the costs of setting up home and travel<br/>
+in LA compared to Melbourne or Sydney and you'll realise you get a lot more bang for your buck in SoCal.</div>
+</div>
+<div class="comment_even">
+ #<b>Mikaela</b>
+<i> on Jan 07, 2014</i>
+: 
+<div class="comment_body">
+I plan to study in a college at L.A. I would like to know more information about living in L.A and the cost of living. Thank you</div>
+</div>
+<div class="comment_odd">
+ #<b>Phil</b>
+<i> on Dec 13, 2013</i>
+: 
+<div class="comment_body">
+please help me knw, actually um planning to move to L.A just soon I graduate. So I would like to knw if L.A can accommodate me to get a job.</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Dec 08, 2013</i>
+: 
+<div class="comment_body">
+the cost of living in L A is very high and to buy a place here you need to be a millionaire, rents are out of control also.</div>
+</div>
+<div class="comment_odd">
+ #<b>tina  lee</b>
+<i> on Dec 03, 2013</i>
+: 
+<div class="comment_body">
+I have 6 yr.old twin boys,Im looking to get them started in modeling,acting,commercials.we plan to move to California this year 2014 but im also looking for a good school and safe neiborhood. If you know a  safe county that excepts section 8 please let me know! Thanks so much. Im a phlebotomist so i will also need a job!! Thanks so much!</div>
+</div>
+<div class="comment_even">
+ #<b>Haytham</b>
+<i> on Oct 14, 2013</i>
+: 
+<div class="comment_body">
+Hi, I am planning to immigrate to U.S next year as my wife is american and we are looking for a good state/city to start from it , I have good experience in managing mobile value added services and products marketing, do you think I can find a job at Silicon Valley or it will be very difficult now, and which are do you recommend for us.<br/>
+<br/>
+Thanks,</div>
+</div>
+<div class="comment_odd">
+ #<b>Jordan</b>
+<i> on Sep 03, 2013</i>
+: 
+<div class="comment_body">
+whats the cost for living in a one bed room apartment and maybe even a condo?<br/>
+</div>
+</div>
+<div class="comment_even">
+ #<b>Gökhan</b>
+<i> on Aug 21, 2013</i>
+: 
+<div class="comment_body">
+I have just come from LA after a three week visit. It seems to me that, as of August 2013, restaurant and grocery prices are at least 20% higher than it is displayed here.</div>
+</div>
+<div class="comment_odd">
+ #<b>Lalle</b>
+<i> on Aug 16, 2013</i>
+: 
+<div class="comment_body">
+Hey i am a boy 22 years old,and i am planing to visit California next year (Los Angeles) i need to know all the possible about it,and enter in contact with serious people from there,if you are seriously intentioned,write me to my email micci2013@tiscali.it a year can seems loooong,but it fly so fast!,i want to be prepared at well,beacuse i will see a culture and life style totally different from mine and it needs time,so just write me.</div>
+</div>
+<div class="comment_even">
+ #<b>Sara</b>
+<i> on Jun 25, 2013</i>
+: 
+<div class="comment_body">
+Boyfriend is from Oxnard/Ventura area, planning on moving back. Coming from the midwest, the rent scares me, is it usually pretty manageable?</div>
+</div>
+<div class="comment_odd">
+ #<b>ricky lee</b>
+<i> on May 26, 2013</i>
+: 
+<div class="comment_body">
+Hi everybody, My name is Ricky. I and my lovely wife Gina live In Santa Ana California. It's in north orange county right by Disneyland.if your planning on moving to southern california the best place i can think of is oceanside.it is as the name implies a beach town in north san diego county. it used to be kinda rough because it is next to the marine base. but it has since been cleaned up by way of urban renewal and is now quite nice and safe. best of all rent is considerably cheaper than the surrounding beach towns such as san clemente or carlsbad. if you surf you'll love it there because the waves are usualy bigger and less crowded. start at north jetty and go from there. if your going to be moving to LA proper I would try a little beach town called hollywood riviera. it's nowhere near hollywood(good thing). its a little apartment community tucked in between palos verdes and south redondo beach. very quiet and alot cheaper than any other beach towns near LA. still about 1200usd a month for rent though. I've lived in both these towns and they are safe and quiet.and the weather is awesome. . . . I've had friends from other countries than the USA,. they all tell me the same thing about living in the here. they say you can sleep good at night. they also say that if you work hard and build something like a buisness or a nice home, you don't have to worry about someone stealing it from you that is more politically connected. i understand that other countries have rampant corruption. that's what makes the usa different. or so my friends and co-workers have told me. anyways that's all I got,I hope this info helps. so good luck to all and have a great adventure in your new life. have fun and be safe. . . Ricky Lee.    <br/>
+</div>
+</div>
+<div class="comment_even">
+ #<b>Lily</b>
+<i> on Apr 18, 2013</i>
+: 
+<div class="comment_body">
+I want to move to hollywood .I need to know a great area that is not very expensive</div>
+</div>
+<div class="comment_odd">
+ #<b>Nicole</b>
+<i> on Mar 18, 2013</i>
+: 
+<div class="comment_body">
+I plan on moving my 10yr old son &amp; I to LA by July 1st. I'm looking for a safe area to move to, an apartment that won't turn me away because of my credit </div>
+</div>
+<div class="comment_even">
+ #<b>Jesus Lopez</b>
+<i> on Nov 15, 2012</i>
+: 
+<div class="comment_body">
+Actually, yes. California is very safe. You need to find the right area, like Fontana or good parts of California. But the crime rate isn't very high. We have a lot of diversity, little racism, little intolerance, etc. Overall, it is a great place to live.</div>
+</div>
+<div class="comment_odd">
+ #<b>#John</b>
+<i> on Nov 07, 2012</i>
+: 
+<div class="comment_body">
+thinking of moving to california in 3 yrs, id like to know where the best place to live would be? im looking for something with resturantes,nightlife, things to do during the day and also somewhere with a great health and fish market. <br/>
+<br/>
+any ideas would be much appreciatied </div>
+</div>
+<div class="comment_even">
+ #<b>Ravi</b>
+<i> on Jun 20, 2012</i>
+: 
+<div class="comment_body">
+Hi,<br/>
+<br/>
+We have a plan to move Califirnia Santa Clara, what would be the house rent,  is the city safe to live. We are only two.<br/>
+<br/>
+Thanks</div>
+</div>
+<div class="comment_odd">
+ #<b>Anonymous</b>
+<i> on Jun 07, 2012</i>
+: 
+<div class="comment_body">
+# Ravi I got more information, If some more kindly provide it<br/>
+ may helpful for the layman who arrives here for the first time. Thank you  </div>
+</div>
+<!-- post a comment -->
+<br/><b><i>Leave a comment :</i></b><br/>
+<form method="post" action="http://www.numbeo.com/common/SaveComment" accept-charset="UTF-8" >
+<input type=hidden name="city" id="city" value="Los Angeles, CA" />
+<input type="hidden" name="checking" id="checking" value="notchecked" />
+<input type=hidden name="country" id="country" value="United States" />
+<input type=hidden name="afterSaveCommentUrl" id="afterSaveCommentUrl" value="/cost-of-living/city_result.jsp?country=United+States&amp;city=Los%20Angeles,+CA" />
+<input type=hidden name="appModul" id="appModul" value="1" />
+Your name: <input type=text name="yourname" id="yourname" /> <a href="http://www.numbeo.com/common/signIn?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DUnited%2BStates%26city%3DLos%2520Angeles%2C%2BCA" class="small_font">Sign In</a> <br/>
+Your email address (optional): <input type=text name="email_address" id="email_address" /> <br/>
+Your comment (no HTML): <br/>
+<textarea name="commentText" id="commentText" class="comment_text_area"></textarea>
+<br/>
+<input type=submit value="Post comment" />
+</form>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking').val('secret');
+});
+</script>
+
+<aside class="disabled_on_small_devices">
+<div class="standard_margin">
+<div class="nearby_city_info">Nearby cities: <table class="close_city_info">
+<tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Glendale%2C+CA" class="likenormal"><span>Cost of Living in </span><span class="like_a">Glendale, California</span></a></td><td style="padding-left: 5px; text-align: right">14.44 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Hermosa+Beach%2C+CA" class="likenormal"><span>Cost of Living in </span><span class="like_a">Hermosa Beach, California</span></a></td><td style="padding-left: 5px; text-align: right">33.08 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Long+Beach%2C+CA" class="likenormal"><span>Cost of Living in </span><span class="like_a">Long Beach, California</span></a></td><td style="padding-left: 5px; text-align: right">39.51 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Anaheim%2C+CA" class="likenormal"><span>Cost of Living in </span><span class="like_a">Anaheim, California</span></a></td><td style="padding-left: 5px; text-align: right">42.65 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Westminster%2C+CA" class="likenormal"><span>Cost of Living in </span><span class="like_a">Westminster, California</span></a></td><td style="padding-left: 5px; text-align: right">51.40 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Santa+Ana%2C+CA" class="likenormal"><span>Cost of Living in </span><span class="like_a">Santa Ana, California</span></a></td><td style="padding-left: 5px; text-align: right">53.89 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Santa+Clarita%2C+CA" class="likenormal"><span>Cost of Living in </span><span class="like_a">Santa Clarita, California</span></a></td><td style="padding-left: 5px; text-align: right">56.95 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+States&amp;city=Huntington+Beach%2C+CA" class="likenormal"><span>Cost of Living in </span><span class="like_a">Huntington Beach, California</span></a></td><td style="padding-left: 5px; text-align: right">59.02 km</td></tr></table>
+</div>
+</div>
+</aside>
+
+<a href="http://www.tralev.com" rel="nofollow" target="_blank" style="border: 0; text-decoration: none;"><span class="ad_for_tralev">&nbsp;</span></a>
+
+<nav>
+<div class="text_block">
+<span class="small_font">
+More about Los Angeles, CA: <span class="more_about_content">
+<span class="nobreak">
+<b>Cost of Living</b></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/crime/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Crime</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/climate/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Climate</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/food-prices/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Food Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/gas-prices/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Gas Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/health-care/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Health Care</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/travel-prices/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Travel Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/pollution/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Pollution</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/property-investment/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Property Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/quality-of-life/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Quality of Life</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/taxi-fare/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Taxi Fare</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/traffic/city_result.jsp?country=United+States&amp;city=Los+Angeles%2C+CA">Traffic</a></span>
+</span>
+</span>
+</div>
+</nav>
+
+
+<div id="fb-root"></div>
+<div class="footer_content">
+<a href="http://www.numbeo.com/common/about.jsp">About</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/in_the_news.jsp">In the News</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/join_community.jsp">Newsletter</a><span class="footer_separator"></span>
+<a href="http://feeds2.feedburner.com/NumbeoBlog" target="_blank">Blog</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/api.jsp" rel="nofollow">API</a><p>
+<span style="font-style: italic">
+Copyright &copy; 2009-2016 Numbeo. Your use of this service is subject to our 
+<a href="http://www.numbeo.com/common/terms_of_use.jsp">Terms of Use</a> and 
+<a href="http://www.numbeo.com/common/privacy.jsp">Privacy Policy</a>
+</span></p>
+</div>
+</div> <!-- end of innerWidth --> 
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>  <script type="text/javascript">
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=182369865155656";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10969791-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    </body>
+</html>
+
+
+
