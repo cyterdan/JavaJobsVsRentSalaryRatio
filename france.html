@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawSeriesChart);
+
+    function drawSeriesChart() {
+
+      var data = google.visualization.arrayToDataTable([
+  ['Ville','RatioLoyerSalaire','JobsJava','Region','Population'],
+['Paris',1.06254619864,4701,'Ile-de-France',2229261],
+['Marseille',0.581570702869,223,'Provence-Alpes-Cote dAzur',855393],
+['Lyon',0.605177993528,499,'Auvergne-Rhone-Alpes',500715],
+['Toulouse',0.621621621622,585,'Languedoc-Roussillon-Midi-Pyrenees',458298],
+['Nice',0.596204878049,403,'Provence-Alpes-Cote dAzur',342295],
+['Nantes',0.44424215044,481,'Pays de la Loire',292718],
+['Strasbourg',0.458823529412,137,'Alsace-Champagne-Ardenne-Lorraine',275718],
+['Montpellier',0.673015873016,150,'Languedoc-Roussillon-Midi-Pyrenees',272084],
+['Bordeaux',0.66205832172,241,'Aquitaine-Limousin-Poitou-Charentes',243626],
+['Lille',0.650511338373,445,'Nord-Pas-de-Calais-Picardie',231491],
+['Rennes',0.433594427491,277,'Bretagne',211373],
+['Reims',0.396226415094,155,'Alsace-Champagne-Ardenne-Lorraine',182592],
+['Le Havre',0.548387096774,155,'Normandie',172074],
+['Saint-Etienne',0.352041534779,49,'Auvergne-Rhone-Alpes',172023],
+['Toulon',0.584415584416,109,'Provence-Alpes-Cote dAzur',163760],
+['Grenoble',0.456362953001,203,'Auvergne-Rhone-Alpes',160215],
+['Nimes',0.428265524625,19,'Languedoc-Roussillon-Midi-Pyrenees',150564],
+['Angers',0.390234789496,55,'Pays de la Loire',150125],
+['Le Mans',0.457142857143,63,'Pays de la Loire',144244],
+['Aix-en-Provence',0.72972972973,296,'Provence-Alpes-Cote dAzur',141545],
+['Clermont-Ferrand',0.604166666667,45,'Auvergne-Rhone-Alpes',141463],
+['Brest',0.365,95,'Bretagne',139386],
+['Limoges',0.421052631579,166,'Aquitaine-Limousin-Poitou-Charentes',135038],
+['Amiens',0.5,166,'Nord-Pas-de-Calais-Picardie',132699],
+['Metz',0.401785714286,45,'Alsace-Champagne-Ardenne-Lorraine',118634],
+['Boulogne-Billancourt',1.21052631579,4775,'Ile-de-France',116794],
+['Mulhouse',0.432693139794,14,'Alsace-Champagne-Ardenne-Lorraine',112063],
+['Rouen',0.638891666667,20,'Normandie',110755],
+['Nancy',0.47778,34,'Alsace-Champagne-Ardenne-Lorraine',104072],
+['Avignon',0.603492359079,97,'Provence-Alpes-Cote dAzur',90305],
+['Poitiers',0.588235294118,19,'Aquitaine-Limousin-Poitou-Charentes',87427],
+['Pau',0.696972727273,39,'Aquitaine-Limousin-Poitou-Charentes',77575],
+['Antibes',0.804546917358,398,'Provence-Alpes-Cote dAzur',75456],
+['Valence',0.485714285714,14,'Auvergne-Rhone-Alpes',61767],
+['Lorient',0.5,46,'Bretagne',57961],
+['Annecy',0.464576074332,22,'Auvergne-Rhone-Alpes',52029],
+['Chartres',0.714285714286,49,'Centre-Val de Loire',38840]
+
+      ]);
+
+      var options = {
+        title: '#Java jobs vs rent/salary ratio ',
+        hAxis: {title: 'Rent / salary ratio'},
+        vAxis: {title: 'Java jobs listings',logScale : true,maxValue : 13000},
+        bubble: {textStyle: {fontSize: 11}}
+      };
+
+      var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
+      chart.draw(data, options);
+    }
+    </script>
+  </head>
+  <body>
+    <div id="series_chart_div" style="width: 1600px; height: 1200px;"></div>
+  </body>
+</html>

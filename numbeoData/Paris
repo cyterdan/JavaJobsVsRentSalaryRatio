@@ -1,0 +1,1578 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta property="og:title" content="Cost of Living in Paris" />
+<meta property="og:description" content="Average prices of more than 40 products and services in Paris, France updated Feb 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Paris"/>
+            <script type="text/javascript" src="../common/numbeo_standard.js"></script>
+    <link type="text/css" href="../common/css/redmond/jquery-ui-1.10.3.custom.min.css" rel="Stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+    <!-- script src="http://platform.linkedin.com/in.js" type="text/javascript"></script -->
+    <script type="text/javascript" src="../common/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="../common/js/jquery-ui-1.10.3.custom.min.js"></script>
+   <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <link rel="stylesheet" type="text/css" href="../common/style.css" />
+    <link rel="stylesheet" type="text/css" href="../common/style_desktop.css" />
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#nav-one li").hover(
+		function(){ $("ul", this).fadeIn("fast"); },
+		function() { }
+	);
+	if (document.all) {
+		$("#nav-one li").hoverClass ("sfHover");
+	}
+});
+$.fn.hoverClass = function(c) {
+	return this.each(function(){
+		$(this).hover(
+			function() { $(this).addClass(c);  },
+			function() { $(this).removeClass(c); }
+		);
+	});
+};
+</script>
+
+<title>Cost of Living in Paris</title>
+
+</head>
+<body>
+<div class="logo-and-upper-ad">
+<div class="innerWidth">
+<div style="display: block; height: 90px; width: 728px; margin: 0 auto;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ad_in_header3 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="7618322317"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<tr>
+<td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
+<a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
+<img  src="http://www.numbeo.com/images/numbeo_icon.svg" style="height: 62px; vertical-align: bottom; border: 0;" alt="" /><img  src="http://www.numbeo.com/images/numbeo_text.svg" style="height: 34px; margin-left: 1em; margin-bottom: 8px; vertical-align: bottom; border: 0;" alt="NUMBEO" /></a>
+</td>
+<td style="padding-left:8px; padding-top: 0px; padding-bottom: 0px; vertical-align: middle; width: 680px; text-align: right;" >
+<div style="display: inline-block; width: 100%; margin-top: 10px; margin-bottom: 10px; text-align: right; vertical-align: bottom">
+<nav style="display: inline-block; vertical-align: middle;">
+<div class="standard_margin_inlineblock" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="menu_dispatch_form"  style="display: inline; padding: 0; margin:0;">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/city_result.jsp" style="display: inline; padding:0; margin:0;" />
+<input id="city_selector_menu_city_id" size="35" type="text" placeholder="Select City (Cost of Living)" class="ui-corner-all city-selector-menu"/>
+<input type="hidden" id="menu_city_id" name="city_id"/>
+<input type="hidden" id="name_menu_city_id" name="name_city_id"/>
+      </form>
+</div>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_menu_city_id').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_menu_city_id').val(ui.item.label);
+         $('#menu_city_id').val(ui.item.value);
+jQuery('#menu_dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#menu_city_id').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_menu_city_id').val();
+		   $('#name_menu_city_id').val(val);
+	   }
+  }); // end autocompleter definition
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+$('#city_selector_menu_city_id').toggleClass('city-selector-menu');
+ }); // end document ready 
+</script>
+</nav>
+<nav style="display: inline-block; vertical-align: middle; padding-left: 0.5em;">
+<div class="standard_margin_inlineblock">
+<select name="city_result_switcher" id="city_result_switcher"  onchange="window.location = this.value;" class="result_switcher ui-corner-all">
+<option value="" selected="selected">What are you looking for?</option>
+<option value="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Paris">Cost of Living in Paris</option>
+<option value="http://www.numbeo.com/crime/city_result.jsp?country=France&amp;city=Paris">Crime in Paris</option>
+<option value="http://www.numbeo.com/climate/city_result.jsp?country=France&amp;city=Paris">Climate in Paris</option>
+<option value="http://www.numbeo.com/food-prices/city_result.jsp?country=France&amp;city=Paris">Food Prices in Paris</option>
+<option value="http://www.numbeo.com/gas-prices/city_result.jsp?country=France&amp;city=Paris">Gas Prices in Paris</option>
+<option value="http://www.numbeo.com/health-care/city_result.jsp?country=France&amp;city=Paris">Health Care in Paris</option>
+<option value="http://www.numbeo.com/travel-prices/city_result.jsp?country=France&amp;city=Paris">Travel Prices in Paris</option>
+<option value="http://www.numbeo.com/pollution/city_result.jsp?country=France&amp;city=Paris">Pollution in Paris</option>
+<option value="http://www.numbeo.com/property-investment/city_result.jsp?country=France&amp;city=Paris">Property Prices in Paris</option>
+<option value="http://www.numbeo.com/quality-of-life/city_result.jsp?country=France&amp;city=Paris">Quality of Life in Paris</option>
+<option value="http://www.numbeo.com/taxi-fare/city_result.jsp?country=France&amp;city=Paris">Taxi Fares in Paris</option>
+<option value="http://www.numbeo.com/traffic/city_result.jsp?country=France&amp;city=Paris">Traffic in Paris</option>
+</select>
+
+</div>
+</nav>
+</div>
+</td>
+</tr>
+</table>
+</div> <!-- innerWidth in header -->
+</div> <!-- logo-and-upper-ad -->
+<div class="dropdown-outer">
+<div class="innerWidth">
+<nav class="before-nav" >
+    <ul id="nav-one" class="nav">
+
+	<li class="dir">
+<a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/cost-of-living/">Cost Of Living</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/comparison.jsp">Cost of Living Comparison</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/calculator.jsp">Cost of Living Calculator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings.jsp">Cost Of Living Index</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp">Cost Of Living Index (Current)</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/rankings_by_country.jsp">Cost Of Living Rankings By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/estimator_main">Cost of Living Estimator</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/analysis_main">Cost of Living Analysis</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_city.jsp">Prices By City</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/prices_by_country.jsp">Prices By Country</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-data">Historical Data in a City by Year </a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/historical-prices-by-city">Historical Data in a Year by City</a></li>
+    <li><a href="http://www.numbeo.com/food-prices/">Food Prices</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/basket_of_goods.jsp">Basket of Goods and Services</a></li>
+    <li><a href="http://www.numbeo.com/common/motivation_and_methodology.jsp">Our Motivation and Methodology</a></li>
+    <li><a href="http://www.numbeo.com/cost-of-living/contribute.jsp">Update Information for Your City</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/property-investment/">Property Prices</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/property-investment/">Property Prices</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/comparison.jsp">Property Prices Comparison</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings.jsp">Property Price Index</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_current.jsp">Property Price Index Rate (Current)</a></li>
+    <li><a href="http://www.numbeo.com/property-investment/rankings_by_country.jsp">Property Price Index By Country</a></li>
+   </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/crime/">Crime</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/crime/">Crime</a></li>
+    <li><a href="http://www.numbeo.com/crime/comparison.jsp">Crime Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_current.jsp">Crime Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings.jsp">Crime Index</a></li>
+    <li><a href="http://www.numbeo.com/crime/rankings_by_country.jsp">Crime Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/health-care/">Health Care</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/health-care/">Health Care</a></li>
+    <li><a href="http://www.numbeo.com/health-care/comparison.jsp">Health Care Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_current.jsp">Health Care Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings.jsp">Health Care Index</a></li>
+    <li><a href="http://www.numbeo.com/health-care/rankings_by_country.jsp">Health Care Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/pollution/">Pollution</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/pollution/">Pollution</a></li>
+    <li><a href="http://www.numbeo.com/pollution/comparison.jsp">Pollution Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_current.jsp">Pollution Index Rate Latest</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings.jsp">Pollution Index</a></li>
+    <li><a href="http://www.numbeo.com/pollution/rankings_by_country.jsp">Pollution Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/traffic/">Traffic</a>
+  <ul>
+     <li><a href="http://www.numbeo.com/traffic/">Traffic</a></li>
+     <li><a href="http://www.numbeo.com/traffic/comparison.jsp">Traffic Comparisons</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_current.jsp">Traffic Index Rate Latest</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings.jsp">Traffic Index</a></li>
+     <li><a href="http://www.numbeo.com/traffic/rankings_by_country.jsp">Traffic Index by Country</a></li>
+  </ul></li>
+
+	<li class="dir">
+<a href="http://www.numbeo.com/quality-of-life/">Quality Of Life</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/quality-of-life/">Quality of Life</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/comparison.jsp">Quality of Life Comparisons</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_current.jsp">Quality of Life Index Rate Latests</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings.jsp">Quality of Life Index</a></li>
+    <li><a href="http://www.numbeo.com/quality-of-life/rankings_by_country.jsp">Quality of Life Index by Country</a></li>
+	</ul></li>
+	<li class="dir">
+<a href="#">Travel</a>
+  <ul>
+    <li><a href="http://www.numbeo.com/taxi-fare/">Taxi Fare Calculator</a></li>
+    <li><a href="http://www.numbeo.com/gas-prices/">Gas Prices Calculator</a></li>
+    <li><a href="http://www.numbeo.com/travel-prices/">Travel Prices</a></li>
+	</ul></li>
+
+
+</ul>
+<br style="clear: both"/>
+</nav>
+</div> <!-- innerWidth in header -->
+</div> <!-- dropdown-outer -->
+<div class="innerWidth">
+ <div class="right-ads-and-info">
+ <div class="right-ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- numbeo2_0 ads_right_med_rect -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="8165022551"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ </div>
+ </div>
+<p>
+<nav itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
+<a href="http://www.numbeo.com/common/" class="discreet_link"><img src="http://www.numbeo.com/images/home.png" class="image_without_border hide_smaller_than_600" alt="home"/></a><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/" itemprop="item" class="breadcrumb_link"><span itemprop="name">Cost of Living</span></a><meta itemprop="position" content="1" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+ <a href="http://www.numbeo.com/cost-of-living/country_result.jsp?country=France"  itemprop="item"  class="breadcrumb_link"><span itemprop="name">France</span></a><meta itemprop="position" content="2" />
+</span> <span style="font-size: 75%; display: inline-block;">&gt;</span> <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Paris"  itemprop="item"  class="breadcrumb_link">
+<span itemprop="name">Paris</span></a><meta itemprop="position" content="3" />
+</span></nav>
+    <h1> Cost of Living in Paris</h1>
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<!-- Column 1 start -->
+
+
+<nav>
+<div class="standard_margin disabled_on_small_devices" >
+      <form action="http://www.numbeo.com/common/dispatcher.jsp" method="get" id="dispatch_form" class="dispatch_form">
+      <input type="hidden" name="where" value="http://www.numbeo.com/cost-of-living/compare_cities.jsp" style="display: inline; padding:0; margin:0;" />
+      <input type="hidden" name="city_id2" id="city_id2" value="5426"/>
+ Compare Paris  with: <input id="city_selector_city_id1" size="35" type="text" placeholder="Type and Pick City" class="ui-corner-all" />
+<input type="hidden" id="city_id1" name="city_id1"/>
+<input type="hidden" id="name_city_id1" name="name_city_id1"/>
+      <input type="hidden" name="tracking" value="getDispatchComparison" />
+      </form>
+ <script type="text/javascript">
+  jQuery(document).ready(function($) {
+  	jQuery('#city_selector_city_id1').autocomplete({
+  	  source: 'http://www.numbeo.com/common/CitySearchJson',
+     minLength: 1,
+     delay: 3,
+     autoFocus: true,
+     select: function(event, ui) {
+         event.preventDefault();
+         $('#city_selector_city_id1').val(ui.item.label);
+         $('#city_id1').val(ui.item.value);
+jQuery('#dispatch_form').submit();     },
+     focus: function(event, ui) {
+         event.preventDefault();
+     }
+	  })   .keydown(function(e){
+	    if (e.keyCode === 13){
+      if ($('#city_id1').val() == '') { 
+        e.preventDefault();
+      }
+      var val = $('#city_selector_city_id1').val();
+		   $('#name_city_id1').val(val);
+	   }
+  }); // end autocompleter definition
+ }); // end document ready 
+</script>
+</div> 
+</nav>
+
+<div class="table_indices limit_size_ad_right table_indices_bigger">
+Cost of living in <span class="purple_light">Paris</span> is 15.68%<span class="green_light"> lower</span> than in <span class="rose_light">New York</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=France&amp;city=Paris" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 874.59&#8364; and for four person family at 3,132.51&#8364; (without rent).</span></div>
+
+<aside><div class="seeding-call disabled_on_small_devices">
+    Do you live in <span class="purple_light">Paris</span>? <span class="we_need_your_help">We need your help: <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Paris&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis&amp;tracking=standardEnterData" rel="nofollow" class="enterDataA">Add data for Paris! </a></span></div></aside>
+
+<nav>
+<form action="city_result.jsp" method="get" class="standard_margin">
+<input type="hidden" name="country" value="France" />
+<input type="hidden" name="city" value="Paris" />
+
+Currency:          <select id="displayCurrency" name="displayCurrency" onchange="if (checkSelectedSomeTextNotDashed('displayCurrency')) this.form.submit();">
+             <option value="EUR" selected="selected">EUR</option>
+             <option value="USD">USD</option>
+             <option value="---">---</option>
+             <option value="AED">AED</option>
+             <option value="AFN">AFN</option>
+             <option value="ALL">ALL</option>
+             <option value="AMD">AMD</option>
+             <option value="ANG">ANG</option>
+             <option value="AOA">AOA</option>
+             <option value="ARS">ARS</option>
+             <option value="AUD">AUD</option>
+             <option value="AWG">AWG</option>
+             <option value="AZN">AZN</option>
+             <option value="BAM">BAM</option>
+             <option value="BBD">BBD</option>
+             <option value="BDT">BDT</option>
+             <option value="BGN">BGN</option>
+             <option value="BHD">BHD</option>
+             <option value="BIF">BIF</option>
+             <option value="BMD">BMD</option>
+             <option value="BND">BND</option>
+             <option value="BOB">BOB</option>
+             <option value="BRL">BRL</option>
+             <option value="BSD">BSD</option>
+             <option value="BTN">BTN</option>
+             <option value="BWP">BWP</option>
+             <option value="BYR">BYR</option>
+             <option value="BZD">BZD</option>
+             <option value="CAD">CAD</option>
+             <option value="CDF">CDF</option>
+             <option value="CHF">CHF</option>
+             <option value="CLF">CLF</option>
+             <option value="CLP">CLP</option>
+             <option value="CNH">CNH</option>
+             <option value="CNY">CNY</option>
+             <option value="COP">COP</option>
+             <option value="CRC">CRC</option>
+             <option value="CUP">CUP</option>
+             <option value="CVE">CVE</option>
+             <option value="CYP">CYP</option>
+             <option value="CZK">CZK</option>
+             <option value="DEM">DEM</option>
+             <option value="DJF">DJF</option>
+             <option value="DKK">DKK</option>
+             <option value="DOP">DOP</option>
+             <option value="DZD">DZD</option>
+             <option value="ECS">ECS</option>
+             <option value="EGP">EGP</option>
+             <option value="ERN">ERN</option>
+             <option value="EUR">EUR</option>
+             <option value="FJD">FJD</option>
+             <option value="FKP">FKP</option>
+             <option value="FRF">FRF</option>
+             <option value="GBP">GBP</option>
+             <option value="GEL">GEL</option>
+             <option value="GIP">GIP</option>
+             <option value="GMD">GMD</option>
+             <option value="GNF">GNF</option>
+             <option value="GTQ">GTQ</option>
+             <option value="GYD">GYD</option>
+             <option value="HKD">HKD</option>
+             <option value="HNL">HNL</option>
+             <option value="HRK">HRK</option>
+             <option value="HTG">HTG</option>
+             <option value="HUF">HUF</option>
+             <option value="IDR">IDR</option>
+             <option value="IEP">IEP</option>
+             <option value="ILS">ILS</option>
+             <option value="INR">INR</option>
+             <option value="IQD">IQD</option>
+             <option value="ISK">ISK</option>
+             <option value="ITL">ITL</option>
+             <option value="JMD">JMD</option>
+             <option value="JOD">JOD</option>
+             <option value="JPY">JPY</option>
+             <option value="KES">KES</option>
+             <option value="KGS">KGS</option>
+             <option value="KHR">KHR</option>
+             <option value="KMF">KMF</option>
+             <option value="KPW">KPW</option>
+             <option value="KRW">KRW</option>
+             <option value="KWD">KWD</option>
+             <option value="KYD">KYD</option>
+             <option value="KZT">KZT</option>
+             <option value="LAK">LAK</option>
+             <option value="LBP">LBP</option>
+             <option value="LKR">LKR</option>
+             <option value="LRD">LRD</option>
+             <option value="LSL">LSL</option>
+             <option value="LTL">LTL</option>
+             <option value="LVL">LVL</option>
+             <option value="LYD">LYD</option>
+             <option value="MAD">MAD</option>
+             <option value="MDL">MDL</option>
+             <option value="MGA">MGA</option>
+             <option value="MKD">MKD</option>
+             <option value="MNT">MNT</option>
+             <option value="MOP">MOP</option>
+             <option value="MRO">MRO</option>
+             <option value="MUR">MUR</option>
+             <option value="MVR">MVR</option>
+             <option value="MWK">MWK</option>
+             <option value="MXN">MXN</option>
+             <option value="MXV">MXV</option>
+             <option value="MYR">MYR</option>
+             <option value="MZN">MZN</option>
+             <option value="NAD">NAD</option>
+             <option value="NGN">NGN</option>
+             <option value="NIO">NIO</option>
+             <option value="NOK">NOK</option>
+             <option value="NPR">NPR</option>
+             <option value="NZD">NZD</option>
+             <option value="OMR">OMR</option>
+             <option value="PAB">PAB</option>
+             <option value="PEN">PEN</option>
+             <option value="PGK">PGK</option>
+             <option value="PHP">PHP</option>
+             <option value="PKR">PKR</option>
+             <option value="PLN">PLN</option>
+             <option value="PYG">PYG</option>
+             <option value="QAR">QAR</option>
+             <option value="RON">RON</option>
+             <option value="RSD">RSD</option>
+             <option value="RUB">RUB</option>
+             <option value="RWF">RWF</option>
+             <option value="SAR">SAR</option>
+             <option value="SBD">SBD</option>
+             <option value="SCR">SCR</option>
+             <option value="SDG">SDG</option>
+             <option value="SEK">SEK</option>
+             <option value="SGD">SGD</option>
+             <option value="SHP">SHP</option>
+             <option value="SIT">SIT</option>
+             <option value="SLL">SLL</option>
+             <option value="SOS">SOS</option>
+             <option value="SRD">SRD</option>
+             <option value="STD">STD</option>
+             <option value="SVC">SVC</option>
+             <option value="SYP">SYP</option>
+             <option value="SZL">SZL</option>
+             <option value="THB">THB</option>
+             <option value="TJS">TJS</option>
+             <option value="TMT">TMT</option>
+             <option value="TND">TND</option>
+             <option value="TOP">TOP</option>
+             <option value="TRY">TRY</option>
+             <option value="TTD">TTD</option>
+             <option value="TWD">TWD</option>
+             <option value="TZS">TZS</option>
+             <option value="UAH">UAH</option>
+             <option value="UGX">UGX</option>
+             <option value="USD">USD</option>
+             <option value="UYU">UYU</option>
+             <option value="VND">VND</option>
+             <option value="VUV">VUV</option>
+             <option value="WST">WST</option>
+             <option value="XAF">XAF</option>
+             <option value="XCD">XCD</option>
+             <option value="XDR">XDR</option>
+             <option value="XOF">XOF</option>
+             <option value="XPF">XPF</option>
+             <option value="YER">YER</option>
+             <option value="ZAR">ZAR</option>
+             <option value="ZMW">ZMW</option>
+             <option value="ZWL">ZWL</option>
+         </select>
+
+<span class="small_font small_space_desktop"><a href="http://www.numbeo.com/common/currency_settings.jsp?return=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis" rel="nofollow">Sticky Currency</a></span>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="small_font">
+<a href="http://www.numbeo.com/common/measurement_settings.jsp?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis" rel="nofollow">Switch to US measurement units</a></span>
+</form>
+</nav>
+
+<table class="data_wide_table"><tr> <th class="highlighted_th prices">Restaurants</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Paris&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis&amp;current=0&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices" style="padding-left: 132px; text-align: left;">Range</th>
+</tr>
+<tr><td>Meal, Inexpensive Restaurant </td> <td style="text-align: right" class="priceValue "> 13.00&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+10.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">15.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 50.00&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+40.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">60.00</span></td>
+ </tr>
+<tr><td>McMeal at McDonalds (or Equivalent Combo Meal) </td> <td style="text-align: right" class="priceValue "> 8.00&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+7.00</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 9px;" ></span><span class="barTextRight">9.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Domestic Beer (0.5 liter draught) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 6.00&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+5.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">7.00</span></td>
+ </tr>
+<tr><td>Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 5.00&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+4.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 29px;" ></span><span class="barTextRight">7.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Cappuccino (regular) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.44&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.50</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">4.00</span></td>
+ </tr>
+<tr><td>Coke/Pepsi (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 3.23&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.00</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">4.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Water (0.33 liter bottle)  </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.97&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 35px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 39px;" ></span><span class="barTextRight">3.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Markets</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Paris&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis&amp;current=1&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Milk (regular), (1 liter) </td> <td style="text-align: right" class="priceValue "> 1.04&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+0.80</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 32px;" ></span><span class="barTextRight">1.50</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Loaf of Fresh White Bread (500g) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.40&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 31px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td>Rice (white), (1kg) </td> <td style="text-align: right" class="priceValue "> 1.80&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 31px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 27px;" ></span><span class="barTextRight">2.45</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Eggs (12) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.32&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.20</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">4.00</span></td>
+ </tr>
+<tr><td>Local Cheese (1kg) </td> <td style="text-align: right" class="priceValue "> 14.88&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+10.00</span><span class="barLeft" style="width: 23px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 25px;" ></span><span class="barTextRight">20.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Chicken Breasts (Boneless, Skinless), (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 10.82&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+8.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">15.00</span></td>
+ </tr>
+<tr><td>Beef Round (1kg) (or Equivalent Back Leg Red Meat) </td> <td style="text-align: right" class="priceValue "> 20.57&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+15.00</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 16px;" ></span><span class="barTextRight">25.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apples (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.54&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.00</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 13px;" ></span><span class="barTextRight">3.00</span></td>
+ </tr>
+<tr><td>Banana (1kg) </td> <td style="text-align: right" class="priceValue "> 1.95&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.50</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">2.50</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Oranges (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.21&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.00</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">2.66</span></td>
+ </tr>
+<tr><td>Tomato (1kg) </td> <td style="text-align: right" class="priceValue "> 2.58&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.00</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">3.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Potato (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.44&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 22px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td>Onion (1kg) </td> <td style="text-align: right" class="priceValue "> 1.57&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 39px;" ></span><span class="barTextRight">2.40</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Lettuce (1 head) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.09&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 5px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 27px;" ></span><span class="barTextRight">1.50</span></td>
+ </tr>
+<tr><td>Water (1.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 0.74&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+0.40</span><span class="barLeft" style="width: 33px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 26px;" ></span><span class="barTextRight">1.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Bottle of Wine (Mid-Range) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 7.00&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+5.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">8.00</span></td>
+ </tr>
+<tr><td>Domestic Beer (0.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.80&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.50</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.57&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.00</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">2.00</span></td>
+ </tr>
+<tr><td>Pack of Cigarettes (Marlboro) </td> <td style="text-align: right" class="priceValue "> 7.00&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+7.00</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 4px;" ></span><span class="barTextRight">7.50</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Transportation</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Paris&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis&amp;current=2&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>One-way Ticket (Local Transport) </td> <td style="text-align: right" class="priceValue "> 1.80&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1.60</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 4px;" ></span><span class="barTextRight">1.90</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Monthly Pass (Regular Price) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 70.00&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+70.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">70.00</span></td>
+ </tr>
+<tr><td>Taxi Start (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 5.00&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+2.60</span><span class="barLeft" style="width: 34px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">6.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Taxi 1km (Normal Tariff) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.25&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.05</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">1.50</span></td>
+ </tr>
+<tr><td>Taxi 1hour Waiting (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 33.00&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+32.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">38.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.35&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1.20</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">1.50</span></td>
+ </tr>
+<tr><td>Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) </td> <td style="text-align: right" class="priceValue "> 20,000.00&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+15,000.00</span><span class="barLeft" style="width: 17px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">23,700.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Utilities (Monthly)</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Paris&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis&amp;current=3&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 176.49&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+120.00</span><span class="barLeft" style="width: 23px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">250.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.16&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+0.10</span><span class="barLeft" style="width: 23px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 52px;" ></span><span class="barTextRight">0.30</span></td>
+ </tr>
+<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 27.62&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+20.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">32.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Sports And Leisure</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Paris&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis&amp;current=4&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Fitness Club, Monthly Fee for 1 Adult </td> <td style="text-align: right" class="priceValue "> 50.36&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+30.00</span><span class="barLeft" style="width: 29px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 43px;" ></span><span class="barTextRight">80.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Tennis Court Rent (1 Hour on Weekend) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 14.41&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+9.00</span><span class="barLeft" style="width: 27px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">20.00</span></td>
+ </tr>
+<tr><td>Cinema, International Release, 1 Seat </td> <td style="text-align: right" class="priceValue "> 10.00&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+9.00</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">12.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Clothing And Shoes</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Paris&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis&amp;current=5&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 86.75&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+50.00</span><span class="barLeft" style="width: 29px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">100.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 37.26&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+30.00</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 25px;" ></span><span class="barTextRight">50.00</span></td>
+ </tr>
+<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 88.10&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+70.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">100.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 121.36&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+100.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">150.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Rent Per Month</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Paris&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis&amp;current=6&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Apartment (1 bedroom) in City Centre </td> <td style="text-align: right" class="priceValue "> 1,090.87&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+850.00</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">1,400.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (1 bedroom) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 779.12&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+600.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">1,000.00</span></td>
+ </tr>
+<tr><td>Apartment (3 bedrooms) in City Centre </td> <td style="text-align: right" class="priceValue "> 2,357.45&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1,800.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">3,000.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Apartment (3 bedrooms) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1,645.45&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+1,200.00</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 16px;" ></span><span class="barTextRight">2,000.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Buy Apartment Price</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Paris&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis&amp;current=7&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Price per Square Meter to Buy Apartment in City Centre </td> <td style="text-align: right" class="priceValue "> 9,931.75&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+8,000.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 37px;" ></span><span class="barTextRight">15,000.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Price per Square Meter to Buy Apartment Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 6,425.64&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+5,000.00</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">8,000.00</span></td>
+ </tr>
+<tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Paris&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
+<th class="th_no_highlight prices"></th>
+</tr>
+<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 2,218.68&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+1,645.01</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 26px;" ></span><span class="barTextRight">2,999.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.78</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.10</span><span class="barLeft" style="width: 17px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">3.20</span></td>
+ </tr>
+</table>
+<h2>Prices in Paris, France</h2>
+<div style="display: inline">
+These data are based on 3230 entries in the past 12 months from 359 different contributors.
+<br/>Last update: February, 2016
+</div>
+
+<!-- social share start -->
+<aside>
+<table class="social_share " >
+<tr>
+<td class="social-inner" style="height: 100%; overflow-y: hidden; vertical-align: top"> 
+<div style="display: inline-block; height: 24px; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="fb-like" data-width="24" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Numbeo" data-related="mladenadamovic" rel="nofollow">Tweet</a></div>
+</td>
+<td class="social-inner" style="height: 24px; overflow-y: hidden; vertical-align: top" >
+<div style="display: inline-block; max-height: 24px; overflow-y: hidden; min-width: 1px;">
+<div class="g-plusone" data-size="medium" ></div>
+</div>
+</td>
+</tr>
+</table>
+</aside>
+
+
+<div style="float: right; margin-top: 3px;">
+<!-- ad_after_prices_rect1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8993465169534557"
+     data-ad-slot="4999919919"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+<div class="green_box">
+<b>Sources and References :</b> 
+<a href="http://www.numbeo.com/common/sources_and_references.jsp" title="About sources and references"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="Info"/></a><br/>
+<ul>
+<li><a href="http://www.paris.notaires.fr/prix/info_prix.php" rel="nofollow" target="_blank">Prices from Paris notaries</a></li>
+<li><a href="http://www.insee.fr/fr/themes/tableau.asp?reg_id=0&ref_id=NATSEF04143" rel="nofollow" target="_blank">official statistics</a></li>
+<li><a href="http://www.taxisg7.com/more-taxis/paris-taxi-fares" rel="nofollow" target="_blank">Taxi Tariff</a></li>
+<li><a href="http://www.paris.fr/pratique/pratiquer-un-sport/tennis/tarifs-et-conditions-d-acces/rub_153_stand_3967_port_10924" rel="nofollow" target="_blank">Tennis Courts Rental Rates</a></li>
+<li><a href="http://www.m2paris.fr/" rel="nofollow" target="_blank">Property Prices Changes</a></li>
+</ul>
+<form action="http://www.numbeo.com/common/InsertSource" method="post" accept-charset="UTF-8" >
+<input type="hidden" id="returnUrl" name="returnUrl" value="/cost-of-living/city_result.jsp?country=France&amp;city=Paris" /><input type="hidden" id="moduo" name="moduo" value="1" /><input type="hidden" id="checking_sources" name="checking_sources" value="" /><input type="hidden" id="city_id" name="city_id" value="5426" /><b>Add new source here:</b>
+<table>
+<tr><td>URL: </td><td><input type="text" id="href" name="href" size="50"/></td></tr> 
+<tr><td>Description: </td><td><input type="text" id="href_name" name="href_text" size="50"/></td></tr> 
+<tr><td colspan=2><input type="submit" value="Add" /> </td></tr>
+</table>
+</form>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking_sources').val('check_it_out');
+});
+</script>
+</div>
+
+<nav>
+<div class="fancy_explanation">
+<ul><li>
+Paris has 9<sup>th</sup> <span class="rank_highest">Most Expensive</span> Coke/Pepsi (0.33 liter bottle) in the World (out of 539 cities). See More <a href="http://www.numbeo.com/cost-of-living/city_analysis?country=France&amp;city=Paris" class="discreet_link">Price Rankings for Paris</a></li>
+<li>The price of Eggs (12) in the year 2012 in Paris was 3.05&#8364;. See More <a href="http://www.numbeo.com/cost-of-living/city_history?country=France&amp;city=Paris"  class="discreet_link">Historical Data in Paris</a></li>
+<li>See <a href="http://www.numbeo.com/cost-of-living/city_basket_analysis?country=France&amp;city=Paris" class="discreet_link">Analysis of our Consumer Price Basket in Paris</a></li></ul></div>
+</nav>
+
+<div class="standard_margin">
+<div class="chart_bar"><script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(chartCpi_5426);
+      function chartCpi_5426() {
+      var data = google.visualization.arrayToDataTable([
+                ['Category', 'Amount in USD'],
+          ['Transportation', 470.08],
+          ['Clothing And Shoes', 129.02],
+          ['Sports And Leisure', 242.16],
+          ['Markets', 1443.90],
+          ['Utilities (Monthly)', 282.88],
+          ['Rent Per Month', 1623.06],
+          ['Restaurants', 628.71]
+        ]);
+
+        var options = {
+          title: 'Distribution of expenses using our statistical model', 
+          backgroundColor: '#E9F2FB',
+          is3D: true,
+          tooltip: { text: 'percentage'},
+          fontName: 'sans-serif' ,
+          fontSize: 12,
+          titleTextStyle: { fontSize: 14} ,
+          chartArea: {left:50,top:50, right:20, bottom:30, width:'90%', height:'80%'  }
+
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('chartCpi_5426_div'));
+        chart.draw(data, options);
+      }
+    </script>
+<div id="chartCpi_5426_div" class="pie_chart_could_be_big"></div></div>
+</div>
+
+<div id="modal_after_a_delay" title="We need your help" style="display: none;">
+<div style="text-align: center; width: 100%; height: 100%; vertical-align: middle;">Comparisons improve with every new price that you enter. <br/>
+Do you live in Paris? Then you can help! <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Paris&amp;current=2&amp;tracking=formForModal" class="discreet_link">Tell us some prices here.</a><br/>
+</div></div>
+<script type="text/javascript">
+$(document).ready(function() {
+  setTimeout(function() {
+  jQuery('#modal_after_a_delay').dialog({ modal: false, 
+     position: { my: 'center', at: 'left+50% bottom-25%', of: window },
+     beforeClose: function( event, ui ) {
+        jQuery.post('http://www.numbeo.com/common/setAvoidAskingForEnterData.jsp');     },
+     show: {
+        effect: "slide",
+        duration: 2500
+      },width: 650});
+  }, 24000);
+});
+</script>
+
+
+<div class="comments_box">
+<!-- existing comments -->
+<i>58 Comments so far </i><br/>
+<div class="comment_even">
+ #<b>Vanya</b>
+<i> on Nov 11, 2015</i>
+: 
+<div class="comment_body">
+Hey Seb! Your info was awesome! My boyfriend moved to Paris because of his job and now I'm planning moving too. I'm IT engineer and currently I'm looking for a job...could you please point me to a descent website, HR company, give me some tips in order to ease my search. Soon I'll start learning French too, because I think it will be extremely difficult to find job without knowing a little French...?<br/>
+<br/>
+Regards</div>
+</div>
+<div class="comment_odd">
+ #<b>Yogesh T</b>
+<i> on Nov 04, 2015</i>
+: 
+<div class="comment_body">
+Hi Seb,<br/>
+Many thanks for super detailed response, it was the most helpful response i ever received from any blog. :-)</div>
+</div>
+<div class="comment_even">
+ #<b>Seb</b>
+<i> on Nov 04, 2015</i>
+: 
+<div class="comment_body">
+Hi all, Parisian here, I have been living here for 10 years, so I'm going to answer some recent comments :<br/>
+<br/>
+#Yogesh T, 900 euros for an appartement in Neuilly is a regular price there, it's a very expensive city close to Paris, and I've seen mor expensive appartements in those areas.<br/>
+<br/>
+You can use this site for calculating what you will actually receive on your salry : http://www.salairebrutnet.fr<br/>
+<br/>
+Brut = your salary without all the company taxes, fees etc.<br/>
+Net = what you receive after all of those went through.<br/>
+<br/>
+For example my salary is 37k brut a year, but I will only get 28488 net.<br/>
+<br/>
+For taxes : You can count a bout 10% of your salary. Meaning if you earn 2000 euros a month, you'll end up paying roughly 2400 in taxes yearly. The first year you pay taxes in france you have to pay the full amount up front, but after that you can start paying monthly.<br/>
+<br/>
+Also know for taxes : it's based on the previous year ! Meaning that if you work in 2015, you'll be paying those 2015 taxes only in 2016.<br/>
+<br/>
+There is also habitation taxe once a year (in november), it all depends on where your appartement is located exactly, you can get a rough estimate if you were to contact the town hall of your city.<br/>
+<br/>
+More information here for other users :<br/>
+<br/>
+If you are planning to find an appartement, 90% of owners will make sure you earn 3x the salary. So if you find a studio for 600 euros per month, you'd need to earn at least 1800, all of this with a CDI contract.<br/>
+<br/>
+You can have multiple contracts for work : CDI = Contract with no end date, &#34;permanent&#34; job. CDD = A fixed end date, for example 6 months and then it's over. These are the 2 main types. Also know that all contracts have a trial period, generally 2 months, but it can be renewed once (4 months). Higher paying jobs can go up to 8 months in total.<br/>
+<br/>
+Some good cities on the outskirts of Paris for cheaper rent :<br/>
+<br/>
+Asnières sur seine (7 minutes away by train).<br/>
+Bois Colombes (10 minutes).<br/>
+Colombes (12 minutes).<br/>
+La Garenne Colombes (10 minutes).<br/>
+Courbevoie (Next to la defense, 5 minutes from Paris).<br/>
+<br/>
+In Paris, the cheaper districts are :<br/>
+<br/>
+18th,<br/>
+19th,<br/>
+20th.<br/>
+<br/>
+These districts are however a bit dodgey sometimes, I'd avoid them if possible.<br/>
+<br/>
+Some affordable ones :<br/>
+<br/>
+15th,<br/>
+12th,<br/>
+11th,<br/>
+8th.<br/>
+<br/>
+Minimum wage in France is about 1300 euros. <br/>
+<br/>
+To benefit from unemployement, you will have to have worked for 4 months in a job, and not have quit. If you quit your job, you loose all rights to unemployement, you have to either be : end of contract, fired, or an agreement between your employer and you too leave (&#34;Rupture de contrat Conventionelle).<br/>
+<br/>
+Medical insurance is pricy in the personal domain (around 70 euros a month), however most jobs offer one with a contract (deducted from salary, you end up paying 20 euros).<br/>
+<br/>
+Public transport is now 70 euros a month for an all zone pass, Paris and all the outskirts.<br/>
+<br/>
+I hope this information helps.</div>
+</div>
+<div class="comment_odd">
+ #<b>Yogesh T</b>
+<i> on Nov 04, 2015</i>
+: 
+<div class="comment_body">
+Thanks a ton Mouhwa! <br/>
+The URL was really helpful.<br/>
+<br/>
+My company would provide me a studio room for 900 Euros (inclusive all charges) per month near my workplace 'Neuilly sur seine', is that normal rate in Paris, or would there be any better deals?<br/>
+<br/>
+I researched online, the avg. price was around 850-1200 Euros + additional charges, which I felt was way more costly.</div>
+</div>
+<div class="comment_even">
+ #<b>Mouhwa</b>
+<i> on Nov 03, 2015</i>
+: 
+<div class="comment_body">
+Reply to Yogesh : You will get around 2600€ net/month. It actually depend on the position you will fill, but if you want to calculate you can remove ~20% or use this website can work too : http://www.salairebrutnet.fr .<br/>
+<br/>
+You also may have troubles to get an appartment, being a foreigner might scare a little the landlords.</div>
+</div>
+<div class="comment_odd">
+ #<b>Yogesh</b>
+<i> on Oct 29, 2015</i>
+: 
+<div class="comment_body">
+Dear experts, I got a job in Paris with pay of 3450 Euros per month gross. Could you please let me know, what will be my net salary then? How the taxation works in Paris?<br/>
+<br/>
+Thanks is advance!<br/>
+<br/>
+Regards,<br/>
+Yogesh</div>
+</div>
+<div class="comment_even">
+ #<b>Yee</b>
+<i> on Oct 12, 2015</i>
+: 
+<div class="comment_body">
+Hi,<br/>
+I am Asian staying in Malaysia now.<br/>
+I would like to get a process/mechanical engineer job in Paris due to relationship with a french guy and plan move there for long term moving.<br/>
+Any recommended to get related job?<br/>
+Regard</div>
+</div>
+<div class="comment_odd">
+ #<b>SJ</b>
+<i> on Aug 12, 2015</i>
+: 
+<div class="comment_body">
+Reply to Sunburn: I think 1300 euros is an alright salary to survive in Paris, however you will hardly be able to save anything, thats for sure. I spend 30 euros easily a week in groceries (without alcohol), another 50-60 euros on weekends. Also, once you spend 1-2 months here, you would understand more reasonable places to go for drinks/dinner etc.</div>
+</div>
+<div class="comment_even">
+ #<b>Sunburn</b>
+<i> on Jul 24, 2015</i>
+: 
+<div class="comment_body">
+Hi guys! I am a 30 year old single male and I have just received an offer for a job in Paris with a monthly salary of 1300 EUR. I can see the prices on this site are enormous. I've heard the rent for a 1 bedroom flat should cost me about 700 EUR in a decent neighborhood, which leaves me with 600 EUR for everything else. I would really appreciate the advices from people who are actually living there. I am not a big posh spender, but I would like to have a decent life including a cup of coffee / beer from time to time (2-3 times a week) and lets say go out 2-3 times a month. But I always prefer a “coffee / beer to go” and to enjoy the city in long walks. I am also a smoker which I think is important as the prices for cigarettes/tobacco are high. So, my dear friends, is it possible to live in Paris with 1300 EUR and what can I afford with that money? I would appreciate any information and each of your advices will be very helpful to me. Thanks in advance!</div>
+</div>
+<div class="comment_odd">
+ #<b>Cassie</b>
+<i> on Jul 20, 2015</i>
+: 
+<div class="comment_body">
+I really would like to try to live in France and teach English, but I am trying to decide which city. I have no desire to live in Paris. I think maybe the South of France  (because I like hot weather). As far as the cost of living, which city in the South would be better?</div>
+</div>
+<div class="comment_even">
+ #<b>Elham</b>
+<i> on Jul 10, 2015</i>
+: 
+<div class="comment_body">
+Hi,<br/>
+<br/>
+I'm going to do my PhD in Paris. This position offers 1400 euros net/month. Do you think it's sufficient for student-living expenses?<br/>
+<br/>
+Kind regards,</div>
+</div>
+<div class="comment_odd">
+ #<b>Katie</b>
+<i> on Jun 09, 2015</i>
+: 
+<div class="comment_body">
+You can live anywhere if you're thrifty. Maybe Paris is too expensive because you're bathing in champagne and partying every weekend. Maybe it's too expensive because you don't know how to keep a belt on the budget?<br/>
+<br/>
+You can live anywhere if you have a job and the will to look after your pennies.</div>
+</div>
+<div class="comment_even">
+ #<b>tome</b>
+<i> on Jun 07, 2015</i>
+: 
+<div class="comment_body">
+Hello guys, i wonder how much a construction worker is paid in Paris?<br/>
+do they get around 2000-3000 euros?</div>
+</div>
+<div class="comment_odd">
+ #<b>#alex</b>
+<i> on May 27, 2015</i>
+: 
+<div class="comment_body">
+i want to do bachelors in fashion design from paris (instituto marangoni). what will be the cost of living per month.which includes college fee,rent, transport and all other expenses...</div>
+</div>
+<div class="comment_even">
+ #<b>#alex</b>
+<i> on May 27, 2015</i>
+: 
+<div class="comment_body">
+i want to do bachelors in fashion design from paris (instituto marangoni). what will be the cost of living per month.which includes college fee,rent, transport and all other expenses...</div>
+</div>
+<div class="comment_odd">
+ #<b>Poivre</b>
+<i> on Apr 22, 2015</i>
+: 
+<div class="comment_body">
+If you need information on French salaries, here is a valuable source with many details:<br/>
+Website: www.salairemoyen.com<br/>
+<br/>
+Available in English</div>
+</div>
+<div class="comment_even">
+ #<b>Javad Dortaj</b>
+<i> on Apr 16, 2015</i>
+: 
+<div class="comment_body">
+Hi guys.<br/>
+How much does an international English teacher earn each month?<br/>
+I want to move to Paris to continue my Education in Linguistics and Literature, and my wife is studying law.<br/>
+considering the case that both of us worked, could we live a &#34;normal&#34; life?</div>
+</div>
+<div class="comment_odd">
+ #<b>A-Sykes</b>
+<i> on Apr 08, 2015</i>
+: 
+<div class="comment_body">
+within a month or 2 ill be moving to france to join the F.F.L, i would like to find a nice small place outside of a city, anyone have any reccomendations?</div>
+</div>
+<div class="comment_even">
+ #<b>nawfal</b>
+<i> on Mar 18, 2015</i>
+: 
+<div class="comment_body">
+Cafesoul,<br/>
+you are so wrong comparing Paris to Auckland and saying that services in Auckland are crap and living expenses high etc...Please go up and compare quality of life in both cities and you will find that living in Auckland is 100 times better than living in Paris. I don't think you are a kiwi</div>
+</div>
+<div class="comment_odd">
+ #<b>dawn</b>
+<i> on Feb 13, 2015</i>
+: 
+<div class="comment_body">
+I woul,d like to live in Europe for a few years <br/>
+<br/>
+buy a condo in Italy,France,Rome,Greece</div>
+</div>
+<div class="comment_even">
+ #<b>to Luca</b>
+<i> on Jan 31, 2015</i>
+: 
+<div class="comment_body">
+It depends on your current living standards. If you originate from Western Europe/US/AU/NZ, you'll feel quite poor with that money in Paris.</div>
+</div>
+<div class="comment_odd">
+ #<b>Luca</b>
+<i> on Jan 28, 2015</i>
+: 
+<div class="comment_body">
+I received a job offer to work in Paris. The net salary will be around 1800 euros. I am 33. What kind of life can you conduct in Paris with 1000 euros per months, after paying the rent? Thank you</div>
+</div>
+<div class="comment_even">
+ #<b>kiara</b>
+<i> on Dec 06, 2014</i>
+: 
+<div class="comment_body">
+i would like to go to college in paris and im not quiet sure how much it would cost to live ther and i need help deciding in colleges because i do want to be in france. how much is it to rent houses and how much is the average low income?</div>
+</div>
+<div class="comment_odd">
+ #<b>Rainbow</b>
+<i> on Nov 16, 2014</i>
+: 
+<div class="comment_body">
+I read there's French minimum salary payment, which is 1500 eur. So for example for a maid or labour their payment is 1500€ ? <br/>
+And are 3000€ considered expensive or cheap as a payment for doing a design project such as designing logo, products, or poster?</div>
+</div>
+<div class="comment_even">
+ #<b>george</b>
+<i> on Nov 15, 2014</i>
+: 
+<div class="comment_body">
+I'man engineer moving to Paris for a one year contract <br/>
+Any hints for where to shop for food and a gym to workout?</div>
+</div>
+<div class="comment_odd">
+ #<b>Pete</b>
+<i> on Nov 07, 2014</i>
+: 
+<div class="comment_body">
+is 3,000 Euros (not counting rent) enough for 1 person to live &#34;easily&#34; in Paris ?</div>
+</div>
+<div class="comment_even">
+ #<b>JR</b>
+<i> on Oct 19, 2014</i>
+: 
+<div class="comment_body">
+There's no question NYC is more expensive than Paris.</div>
+</div>
+<div class="comment_odd">
+ #<b>Slam</b>
+<i> on Sep 09, 2014</i>
+: 
+<div class="comment_body">
+I visited Paris during the last 2 weeks of August.   The high prices are about correct.  Weather is either sunny/cool and constant rain.   Air quality is slightly polluted and could be a problem with breathing problems. Sidewalks are difficult to walk due to the cobblestone or Dog Feces (don't pickup). Streets are hard to follow as they split into different twists and turns.  Driving is extremely aggressive and with roads hard to follow and dangerous (witnesses a pedestrian killed walking the road).  As for locals, they're quite decent and not as rude as commented.  Very helpful when you need directions or assistance.  <br/>
+<br/>
+The problem are the non-residents: Gypsies and Africans that steal, physically harm or trick you of your money (fake surveys and found jewelry).   Locals and Tourists are generally fully aware of these thieves.  Unfair to view Locals in the same manner.   Besides the beautiful people, history, buildings and shopping; there is nothing else to do.  Loved the city, but cannot live in a city with little job opportunities besides services, govt. or fashion.  Great city, but a cold feeling with so little control over the thieving non-residents I wouldn't recommend to permanently live.</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Sep 02, 2014</i>
+: 
+<div class="comment_body">
+salaries in paris are really higher than in the rest of France. <br/>
+i have absolutely no idea of what a designer wins unfortunaetly. Anyway, out of some spécific diplomas (finance, any doctor except perhaps gp, some engineers in some specific fields, lawyers if billingual and or specialised on the above fields, and phd), very hard to begin With above 2200 after tax, i ´ d say.<br/>
+HoWever,  hard to live Alone downtown With less than a 1900 eur wage dowtown. <br/>
+2000 per 2 person: impossible rai! (Even in the suburb i think)<br/>
+Property tenant require the couple to earn 3 Times the amount of wage by law, but most of time Will require additional commitment from your parents or company unless you can pay around 5 Times...<br/>
+However: child éducation is free, so most familiies are double income ones. Insurance not too heavy in the budget as well. Food is expensive but quality above average. <br/>
+Weather is not very good. (Mix of oceanic and temperated). People are dirty, rude, never smile, often snobish, but quite fun when you know them more. (More and more people speak enclise correctly). You can make very close good friends who Will quickly invite you home for dinner. (Not only meeting in anonyme us pubs)<br/>
+The city is wonderful doWntown, transport costs are peanuts, we have a city rent service + bus in addition to the metro. <br/>
+Hope it helped</div>
+</div>
+<div class="comment_odd">
+ #<b>Lily</b>
+<i> on Sep 02, 2014</i>
+: 
+<div class="comment_body">
+I 'm french and live in Paris<br/>
+I confirm, most price Sound correct. I confirm the rent price are correct, and you also néed to take into account the fact that each of our rooms are really smaller, certainly bécause Paris has been suffering from housing pressure since decades, if not centuries.<br/>
+Average wage appear to me too High. even if this could be inflated by banking and luxury wages as well as possible  from property tenants, i think this might be around 2000 max. however it is hard to estimate the impact of the rich tail on the statistic nowadays as it can go so high!!!! Anyway, median should be around 1700-1900, for those who have the chance to work! (Unemployement rates are high).</div>
+</div>
+<div class="comment_even">
+ #<b>Keith</b>
+<i> on Sep 01, 2014</i>
+: 
+<div class="comment_body">
+So if I have a pension of $3800 USD per month can I live comfortably in Paris in a 1 Bedroom?</div>
+</div>
+<div class="comment_odd">
+ #<b>Howtobuyaflatinparis.com</b>
+<i> on Jul 29, 2014</i>
+: 
+<div class="comment_body">
+Price of real estate in Paris is disproportionate compared to the cost of living and the salaries.</div>
+</div>
+<div class="comment_even">
+ #<b>Rainbow</b>
+<i> on Jul 15, 2014</i>
+: 
+<div class="comment_body">
+Hey is average people's salary in Paris accurate?<br/>
+I mean for professional's salary such as designer, how much they will make? 2400 Eur per month? --&gt; is that for talented/skillfull designer or fresh graduates?</div>
+</div>
+<div class="comment_odd">
+ #<b> Martina Alvarez</b>
+<i> on Jul 01, 2014</i>
+: 
+<div class="comment_body">
+I would like to know about medical andschoolsalaries and what I need to live in france</div>
+</div>
+<div class="comment_even">
+ #<b>Hulahula</b>
+<i> on May 01, 2014</i>
+: 
+<div class="comment_body">
+Paris is just so over-rated now! It's sticks everywhere, i'm not even talking about the metro inside. Rudeness and ignorance is art for parisians. You need about 1500 eu for a month to live like a middle class parisian. City itself is beautiful with those amazing buildings and parks. But please be prepared for this city and never smile as soon as you get here.</div>
+</div>
+<div class="comment_odd">
+ #<b>charlie sean</b>
+<i> on Mar 21, 2014</i>
+: 
+<div class="comment_body">
+Well you know what guys, if you want to enjoy your life in paris you need a minimum of 2970£ per month (including all taxes) to fully enjoy your life for ONE PERSON . Paris is amazing, with this 2970£ , you can cover all your needs from monthly clothing to rent and appartment needs to the movies and dinning.</div>
+</div>
+<div class="comment_even">
+ #<b>Alf</b>
+<i> on Mar 20, 2014</i>
+: 
+<div class="comment_body">
+1.10€ per milk liter? hahah that's so not true! As well as the average salary..I'd say it's somewhere 1500-1850€</div>
+</div>
+<div class="comment_odd">
+ #<b>Billie</b>
+<i> on Mar 17, 2014</i>
+: 
+<div class="comment_body">
+What do you need to do to be able to live in Paris?</div>
+</div>
+<div class="comment_even">
+ #<b>Rai</b>
+<i> on Feb 07, 2014</i>
+: 
+<div class="comment_body">
+Hi, <br/>
+I would be moving to Paris to pursue my higher studies. I would be offered a fellowship of 2000 euros. Is that amount sufficient for 2 people (couple)to live in Paris? <br/>
+Thanks!</div>
+</div>
+<div class="comment_odd">
+ #<b>raju</b>
+<i> on Jan 09, 2014</i>
+: 
+<div class="comment_body">
+I would like to study MBA in France i mean Paris.<br/>
+<br/>
+Can anyone of you please let me know the expenses and cost of living on average basis.<br/>
+<br/>
+What kind of part time jobs i will be getting there ?<br/>
+<br/>
+I do not know at least basic info..<br/>
+<br/>
+Please guide me anyone<br/>
+<br/>
+Regards<br/>
+Raju</div>
+</div>
+<div class="comment_even">
+ #<b>Mallesh</b>
+<i> on Dec 25, 2013</i>
+: 
+<div class="comment_body">
+Hi, how many euros are sufficient to stay cofortably for one person around ecole polytechnique university, Paris</div>
+</div>
+<div class="comment_odd">
+ #<b>Alie</b>
+<i> on Dec 19, 2013</i>
+: 
+<div class="comment_body">
+As someone who checks numbeo quite often I've noticed that the last three topics regarding real estate and salaries aren't too accurate for most of the cities... on the other hand everything else proved to be very reliable and extremely helpful.</div>
+</div>
+<div class="comment_even">
+ #<b>Anonymous</b>
+<i> on Dec 02, 2013</i>
+: 
+<div class="comment_body">
+Yes - the way salaries are calculated (not just for Paris - but in general) is skewed.<br/>
+By skewed I mean that if you take a sample of 100 people all of which are Mangers/Senior Managers who make €60,000 on average then the average salary is inflated. Or overestimated.<br/>
+<br/>
+Having said that, Paris is a rich city, much richer on average than the rest of France. But still €2.600 (as reported here) is crazy.<br/>
+<br/>
+If you're in your 30ies and you have a good job (Bank or a big Multinational), depending on your position your salary will range from €2.200 net to €2.800 but that's if you have a good job.<br/>
+<br/>
+The average salary in the EU is €1.600.. France as a country is not that rich, especially nowadays.</div>
+</div>
+<div class="comment_odd">
+ #<b>kevin</b>
+<i> on Nov 26, 2013</i>
+: 
+<div class="comment_body">
+Yes, salaries appear wildly overestimated here! €2,600 after tax? NEVER! As for renting, France makes a legal distinction between furnished and non-furnished apartments. The latter is usually exclusive of electricity and other household charges.</div>
+</div>
+<div class="comment_even">
+ #<b>Igor</b>
+<i> on Nov 18, 2013</i>
+: 
+<div class="comment_body">
+the average salary in paris can't be €2.600 after tax. No way..<br/>
+If it is, then it's a mere average between the many millionaires who live in Paris and ordinary people..<br/>
+Salaries in Paris are higher than the EU average for sure, but not as high as €2.600..<br/>
+This amount is ridiculous.</div>
+</div>
+<div class="comment_odd">
+ #<b>Vibhav</b>
+<i> on Sep 16, 2013</i>
+: 
+<div class="comment_body">
+Hello,<br/>
+The rend per month that is given,is it inclusive of electricity?<br/>
+<br/>
+Thanks</div>
+</div>
+<div class="comment_even">
+ #<b>Mark</b>
+<i> on Apr 30, 2013</i>
+: 
+<div class="comment_body">
+When saying &#34;Median Monthly Disposable Salary (After Tax) 2,400.00 €&#34; is the income tax already deducted from this figure? <br/>
+As I understood in France there is not a PAYE system and everyone should pay their income tax separately by their own. </div>
+</div>
+<div class="comment_odd">
+ #<b>Anonymous</b>
+<i> on Apr 20, 2013</i>
+: 
+<div class="comment_body">
+I have lived in Nice for 3 years and the only way I could afford it was finding a french &#34;Madam&#34;.<br/>
+The 40 year age difference is challenging , however our mansion perched in the Ciemea district and 5 servants do help.<br/>
+</div>
+</div>
+<div class="comment_even">
+ #<b>Alexandre</b>
+<i> on Mar 27, 2013</i>
+: 
+<div class="comment_body">
+Laurent<br/>
+<br/>
+1500€ is the minimum wage / 2350€ is the medium wage</div>
+</div>
+<div class="comment_odd">
+ #<b>Anonymous</b>
+<i> on Mar 09, 2013</i>
+: 
+<div class="comment_body">
+Paris is too expensive to live in.<br/>
+</div>
+</div>
+<div class="comment_even">
+ #<b>Rochard</b>
+<i> on Jan 30, 2013</i>
+: 
+<div class="comment_body">
+The price of real-estate in Paris will continue to rise until the physical boundaries of Paris expand to include the outlying areas. It is likely that central Paris will sell for €10.000 M2 as soon as 2014.</div>
+</div>
+<div class="comment_odd">
+ #<b>Danny</b>
+<i> on Jan 27, 2013</i>
+: 
+<div class="comment_body">
+Paris price per square meter is about €8,400 with prices going up to 12,000 in the city center (5th, 6th) and even €24,000 per square meter on the islands. It is extremely expensive, second only perhaps to London. The most expensive city int the USA is NYC and that doesn't even enter the list of most expensive cities in the world until around number 26 or so (data from the Economist Intelligence Unit for, say, 2011), far behind Paris or London. <br/>
+<br/>
+<br/>
+</div>
+</div>
+<div class="comment_even">
+ #<b>cara</b>
+<i> on Dec 02, 2012</i>
+: 
+<div class="comment_body">
+I agree with Kiko, there should be a price per meters squared in the comparison as Paris 1br flats are quite small compared to others in Europe and the USA. Would be very useful as my husband and I are considering moving from Paris to elsewhere in Europe.</div>
+</div>
+<div class="comment_odd">
+ #<b>Nelson</b>
+<i> on Nov 27, 2012</i>
+: 
+<div class="comment_body">
+It all balances out at the end because there is really nothing that neends not<br/>
+be paid for wherever you are. In other words, education may be free in Paris but taxes are higher. Where an apartment in Paris is costlier than New York, the monthly charges are much less. In reality, it all depends on your situation. If you have a large family, you may be better off in Paris, but if you are single, maybe in New York. And so forth.... at the end of the day, big cities are big money. </div>
+</div>
+<div class="comment_even">
+ #<b>Cecile</b>
+<i> on Nov 25, 2012</i>
+: 
+<div class="comment_body">
+Paris is more expensive than New York because of the inflation as I lived in both of them </div>
+</div>
+<div class="comment_odd">
+ #<b>Manny </b>
+<i> on Sep 16, 2012</i>
+: 
+<div class="comment_body">
+Hi, there is something I don't get and is that table on the bottom of the page where it shows paris more expensive than New York. Can somebody please say something about that maybe william you have lived in the 2 countries, THX.</div>
+</div>
+<div class="comment_even">
+ #<b>Cafesoul</b>
+<i> on Sep 10, 2012</i>
+: 
+<div class="comment_body">
+If you think it's expensive living in the Big Cities of France or the USA try living in New Zealand . It's outrageously expensive , you get crap service and even crappier food . Everything you buy and everywhere you go you get gouged and the government we have here are Hell bent on creating a fully employed slave class for our off-shore masters to benefit from since the government sold all the things that belonged to us , to them . Best of all , we have none of the class or grace Paris has but at least we have the crime and luckily that's increasing . And by the way . NZ . Size of UK . Population approx 4 mil . Have you seen our money ? Because we don't know where it is . </div>
+</div>
+<div class="comment_odd">
+ #<b>Kiko</b>
+<i> on Feb 28, 2012</i>
+: 
+<div class="comment_body">
+Hello.<br/>
+I would want to comment that would be a good idea, to include the rate eur/m2 on renting flats, due the one room flat conception in Paris, is really different from other cities in europe, due a &#34;flat&#34; in paris could measure 15m2.  compare with other cities in europe is not admissible (&gt;30m2 min)<br/>
+I hope that could be useful<br/>
+regards<br/>
+ </div>
+</div>
+<!-- post a comment -->
+<br/><b><i>Leave a comment :</i></b><br/>
+<form method="post" action="http://www.numbeo.com/common/SaveComment" accept-charset="UTF-8" >
+<input type=hidden name="city" id="city" value="Paris" />
+<input type="hidden" name="checking" id="checking" value="notchecked" />
+<input type=hidden name="country" id="country" value="France" />
+<input type=hidden name="afterSaveCommentUrl" id="afterSaveCommentUrl" value="/cost-of-living/city_result.jsp?country=France&amp;city=Paris" />
+<input type=hidden name="appModul" id="appModul" value="1" />
+Your name: <input type=text name="yourname" id="yourname" /> <a href="http://www.numbeo.com/common/signIn?returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DParis" class="small_font">Sign In</a> <br/>
+Your email address (optional): <input type=text name="email_address" id="email_address" /> <br/>
+Your comment (no HTML): <br/>
+<textarea name="commentText" id="commentText" class="comment_text_area"></textarea>
+<br/>
+<input type=submit value="Post comment" />
+</form>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+  jQuery('#checking').val('secret');
+});
+</script>
+
+<aside class="disabled_on_small_devices">
+<div class="standard_margin">
+<div class="nearby_city_info">Nearby cities: <table class="close_city_info">
+<tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Chaville" class="likenormal"><span>Cost of Living in </span><span class="like_a">Chaville</span></a></td><td style="padding-left: 5px; text-align: right">15.39 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Guyancourt" class="likenormal"><span>Cost of Living in </span><span class="like_a">Guyancourt</span></a></td><td style="padding-left: 5px; text-align: right">28.01 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Chartres" class="likenormal"><span>Cost of Living in </span><span class="like_a">Chartres</span></a></td><td style="padding-left: 5px; text-align: right">90.54 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Rouen" class="likenormal"><span>Cost of Living in </span><span class="like_a">Rouen</span></a></td><td style="padding-left: 5px; text-align: right">131.62 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Orleans" class="likenormal"><span>Cost of Living in </span><span class="like_a">Orleans</span></a></td><td style="padding-left: 5px; text-align: right">132.62 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Amiens" class="likenormal"><span>Cost of Living in </span><span class="like_a">Amiens</span></a></td><td style="padding-left: 5px; text-align: right">139.87 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Reims" class="likenormal"><span>Cost of Living in </span><span class="like_a">Reims</span></a></td><td style="padding-left: 5px; text-align: right">143.76 km</td></tr><tr><td><a href="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Le+Havre" class="likenormal"><span>Cost of Living in </span><span class="like_a">Le Havre</span></a></td><td style="padding-left: 5px; text-align: right">195.79 km</td></tr></table>
+</div>
+</div>
+</aside>
+
+<a href="http://www.tralev.com" rel="nofollow" target="_blank" style="border: 0; text-decoration: none;"><span class="ad_for_tralev">&nbsp;</span></a>
+
+<nav>
+<div class="text_block">
+<span class="small_font">
+More about Paris: <span class="more_about_content">
+<span class="nobreak">
+<b>Cost of Living</b></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/crime/city_result.jsp?country=France&amp;city=Paris">Crime</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/climate/city_result.jsp?country=France&amp;city=Paris">Climate</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/food-prices/city_result.jsp?country=France&amp;city=Paris">Food Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/gas-prices/city_result.jsp?country=France&amp;city=Paris">Gas Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/health-care/city_result.jsp?country=France&amp;city=Paris">Health Care</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/travel-prices/city_result.jsp?country=France&amp;city=Paris">Travel Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/pollution/city_result.jsp?country=France&amp;city=Paris">Pollution</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/property-investment/city_result.jsp?country=France&amp;city=Paris">Property Prices</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/quality-of-life/city_result.jsp?country=France&amp;city=Paris">Quality of Life</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/taxi-fare/city_result.jsp?country=France&amp;city=Paris">Taxi Fare</a></span>
+<span class="nobreak">
+ | <a href="http://www.numbeo.com/traffic/city_result.jsp?country=France&amp;city=Paris">Traffic</a></span>
+</span>
+</span>
+</div>
+</nav>
+
+
+<div id="fb-root"></div>
+<div class="footer_content">
+<a href="http://www.numbeo.com/common/about.jsp">About</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/in_the_news.jsp">In the News</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/join_community.jsp">Newsletter</a><span class="footer_separator"></span>
+<a href="http://feeds2.feedburner.com/NumbeoBlog" target="_blank">Blog</a><span class="footer_separator"></span>
+<a href="http://www.numbeo.com/common/api.jsp" rel="nofollow">API</a><p>
+<span style="font-style: italic">
+Copyright &copy; 2009-2016 Numbeo. Your use of this service is subject to our 
+<a href="http://www.numbeo.com/common/terms_of_use.jsp">Terms of Use</a> and 
+<a href="http://www.numbeo.com/common/privacy.jsp">Privacy Policy</a>
+</span></p>
+</div>
+</div> <!-- end of innerWidth --> 
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>  <script type="text/javascript">
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=182369865155656";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10969791-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    </body>
+</html>
+
+
+
