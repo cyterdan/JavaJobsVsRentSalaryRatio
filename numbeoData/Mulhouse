@@ -53,7 +53,7 @@ $.fn.hoverClass = function(c) {
 </script>
 
 </div>
-<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<table style="border-spacing: 0px; width: 100%; margin-top: 7px; margin-bottom: 1px;" >
 <tr>
 <td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
 <a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
@@ -400,6 +400,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
              <option value="ILS">ILS</option>
              <option value="INR">INR</option>
              <option value="IQD">IQD</option>
+             <option value="IRR">IRR</option>
              <option value="ISK">ISK</option>
              <option value="ITL">ITL</option>
              <option value="JMD">JMD</option>
@@ -507,20 +508,20 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <table class="data_wide_table"><tr> <th class="highlighted_th prices">Restaurants</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Mulhouse&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMulhouse&amp;current=0&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices" style="padding-left: 132px; text-align: left;">Range</th>
 </tr>
-<tr><td>Meal, Inexpensive Restaurant </td> <td style="text-align: right" class="priceValue "> 13.00&nbsp;&#8364;</td>
+<tr><td>Meal, Inexpensive Restaurant </td> <td style="text-align: right" class="priceValue "> 15.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-11.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 39px;" ></span><span class="barTextRight">20.00</span></td>
+11.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">20.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 50.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-35.00</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">60.00</span></td>
+40.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">60.00</span></td>
  </tr>
 <tr><td>McMeal at McDonalds (or Equivalent Combo Meal) </td> <td style="text-align: right" class="priceValue "> 8.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-8.00</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">9.00</span></td>
+8.00</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 16px;" ></span><span class="barTextRight">10.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Domestic Beer (0.5 liter draught) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.25&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -535,17 +536,17 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td class="tr_highlighted">Cappuccino (regular) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.25&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-1.50</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">3.00</span></td>
+1.70</span><span class="barLeft" style="width: 17px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">3.00</span></td>
  </tr>
-<tr><td>Coke/Pepsi (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.67&nbsp;&#8364;</td>
+<tr><td>Coke/Pepsi (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.75&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-1.00</span><span class="barLeft" style="width: 28px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">2.00</span></td>
+1.00</span><span class="barLeft" style="width: 30px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">2.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Water (0.33 liter bottle)  </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.17&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-0.90</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 53px;" ></span><span class="barTextRight">2.00</span></td>
+0.70</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 57px;" ></span><span class="barTextRight">2.50</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Markets</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Mulhouse&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMulhouse&amp;current=1&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
@@ -585,10 +586,10 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 10.00</span><span class="barLeft" style="width: 35px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">23.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">Apples (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.50&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Apples (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.60&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-1.97</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">3.00</span></td>
+1.97</span><span class="barLeft" style="width: 17px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">3.00</span></td>
  </tr>
 <tr><td>Banana (1kg) </td> <td style="text-align: right" class="priceValue "> 2.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -615,20 +616,20 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 2.00</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 72px;" ></span><span class="barTextRight">4.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">Lettuce (1 head) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.06&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Lettuce (1 head) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.94&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-0.98</span><span class="barLeft" style="width: 5px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">1.19</span></td>
+0.80</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">1.30</span></td>
  </tr>
 <tr><td>Water (1.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 0.77&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
 0.60</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">1.02</span></td>
  </tr>
-<tr><td class="tr_highlighted">Bottle of Wine (Mid-Range) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 5.00&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Bottle of Wine (Mid-Range) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 5.50&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-4.50</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 44px;" ></span><span class="barTextRight">8.00</span></td>
+4.50</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 33px;" ></span><span class="barTextRight">8.00</span></td>
  </tr>
 <tr><td>Domestic Beer (0.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.45&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -722,25 +723,25 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Clothing And Shoes</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Mulhouse&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMulhouse&amp;current=5&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 90.00&nbsp;&#8364;</td>
+<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 85.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-70.00</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">100.00</span></td>
+70.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">99.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 55.00&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 47.50&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-40.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 33px;" ></span><span class="barTextRight">80.00</span></td>
+40.00</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 4px;" ></span><span class="barTextRight">50.00</span></td>
  </tr>
-<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 78.33&nbsp;&#8364;</td>
+<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 76.67&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-50.00</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 39px;" ></span><span class="barTextRight">120.00</span></td>
+70.00</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 31px;" ></span><span class="barTextRight">110.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 115.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-100.00</span><span class="barLeft" style="width: 9px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 22px;" ></span><span class="barTextRight">150.00</span></td>
+110.00</span><span class="barLeft" style="width: 3px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">150.00</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Rent Per Month</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Mulhouse&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMulhouse&amp;current=6&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
@@ -780,7 +781,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Mulhouse&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMulhouse&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 1,733.33&nbsp;&#8364;</td>
+<tr><td>Average Monthly Disposable Salary (Net After Tax) </td> <td style="text-align: right" class="priceValue "> 1,733.33&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
 1,500.00</span><span class="barLeft" style="width: 9px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">2,000.00</span></td>
@@ -793,7 +794,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 </table>
 <h2>Prices in Mulhouse, France</h2>
 <div style="display: inline">
-This city had 10 different contributors in the past 18 months. <br/>Some data are estimated due to a low number of contributors. If you are living here, <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Mulhouse&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMulhouse&amp;tracking=standardEnterData" rel="nofollow">please update our data</a>. <br/>Last update: February, 2016
+This city had 10 different contributors in the past 18 months. <br/>Some data are estimated due to a low number of contributors. If you are living here, <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Mulhouse&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMulhouse&amp;tracking=standardEnterData" rel="nofollow">please update our data</a>. <br/>Last update: March, 2016
 </div>
 
 <!-- social share start -->
@@ -857,13 +858,13 @@ $(document).ready(function() {
       function chartCpi_5423() {
       var data = google.visualization.arrayToDataTable([
                 ['Category', 'Amount in USD'],
-          ['Transportation', 460.29],
-          ['Clothing And Shoes', 146.77],
-          ['Sports And Leisure', 295.93],
-          ['Markets', 1522.69],
-          ['Utilities (Monthly)', 366.47],
-          ['Rent Per Month', 565.63],
-          ['Restaurants', 741.05]
+          ['Transportation', 471.02],
+          ['Clothing And Shoes', 150.19],
+          ['Sports And Leisure', 302.83],
+          ['Markets', 1558.17],
+          ['Utilities (Monthly)', 375.01],
+          ['Rent Per Month', 578.81],
+          ['Restaurants', 758.31]
         ]);
 
         var options = {

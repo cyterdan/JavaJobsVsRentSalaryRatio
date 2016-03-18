@@ -53,7 +53,7 @@ $.fn.hoverClass = function(c) {
 </script>
 
 </div>
-<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<table style="border-spacing: 0px; width: 100%; margin-top: 7px; margin-bottom: 1px;" >
 <tr>
 <td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
 <a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
@@ -400,6 +400,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
              <option value="ILS">ILS</option>
              <option value="INR">INR</option>
              <option value="IQD">IQD</option>
+             <option value="IRR">IRR</option>
              <option value="ISK">ISK</option>
              <option value="ITL">ITL</option>
              <option value="JMD">JMD</option>
@@ -532,7 +533,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 3.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">6.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">Cappuccino (regular) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.10&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Cappuccino (regular) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.08&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
 2.00</span><span class="barLeft" style="width: 3px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 31px;" ></span><span class="barTextRight">3.00</span></td>
@@ -555,20 +556,20 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 0.80</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 32px;" ></span><span class="barTextRight">1.50</span></td>
  </tr>
-<tr><td class="tr_highlighted">Loaf of Fresh White Bread (500g) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.40&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Loaf of Fresh White Bread (500g) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.42&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-1.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 31px;" ></span><span class="barTextRight">2.00</span></td>
+1.00</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 43px;" ></span><span class="barTextRight">2.25</span></td>
  </tr>
-<tr><td>Rice (white), (1kg) </td> <td style="text-align: right" class="priceValue "> 1.80&nbsp;&#8364;</td>
+<tr><td>Rice (white), (1kg) </td> <td style="text-align: right" class="priceValue "> 1.87&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-1.50</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 26px;" ></span><span class="barTextRight">2.45</span></td>
+1.50</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 32px;" ></span><span class="barTextRight">2.70</span></td>
  </tr>
-<tr><td class="tr_highlighted">Eggs (12) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.32&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Eggs (12) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.39&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-2.20</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: -5px;" ></span><span class="barTextRight">3.00</span></td>
+2.20</span><span class="barLeft" style="width: 22px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: -6px;" ></span><span class="barTextRight">3.00</span></td>
  </tr>
 <tr><td>Local Cheese (1kg) </td> <td style="text-align: right" class="priceValue "> 12.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -585,7 +586,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 15.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">25.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">Apples (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.54&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Apples (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.56&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
 1.80</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 13px;" ></span><span class="barTextRight">3.00</span></td>
@@ -593,7 +594,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td>Banana (1kg) </td> <td style="text-align: right" class="priceValue "> 2.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-1.50</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">2.50</span></td>
+1.70</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">2.50</span></td>
  </tr>
 <tr><td class="tr_highlighted">Oranges (1kg) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.25&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -613,12 +614,12 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td>Onion (1kg) </td> <td style="text-align: right" class="priceValue "> 1.73&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-1.00</span><span class="barLeft" style="width: 30px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 29px;" ></span><span class="barTextRight">2.40</span></td>
+1.00</span><span class="barLeft" style="width: 30px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 32px;" ></span><span class="barTextRight">2.49</span></td>
  </tr>
 <tr><td class="tr_highlighted">Lettuce (1 head) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.50&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-1.00</span><span class="barLeft" style="width: 22px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 1px;" ></span><span class="barTextRight">1.50</span></td>
+1.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">2.00</span></td>
  </tr>
 <tr><td>Water (1.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 0.75&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -668,10 +669,10 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 1.60</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">2.50</span></td>
  </tr>
-<tr><td>Taxi 1hour Waiting (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 34.00&nbsp;&#8364;</td>
+<tr><td>Taxi 1hour Waiting (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 35.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-32.00</span><span class="barLeft" style="width: 3px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">38.00</span></td>
+32.00</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 52px;" ></span><span class="barTextRight">60.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.30&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -689,17 +690,17 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 180.43&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-116.88</span><span class="barLeft" style="width: 25px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">250.00</span></td>
+116.88</span><span class="barLeft" style="width: 25px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 53px;" ></span><span class="barTextRight">309.09</span></td>
  </tr>
 <tr><td class="tr_highlighted">1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.24&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
 0.10</span><span class="barLeft" style="width: 41px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 19px;" ></span><span class="barTextRight">0.30</span></td>
  </tr>
-<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 27.62&nbsp;&#8364;</td>
+<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 27.50&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-20.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">32.00</span></td>
+20.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">35.00</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Sports And Leisure</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Caen&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DCaen&amp;current=4&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
@@ -721,10 +722,10 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Clothing And Shoes</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Caen&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DCaen&amp;current=5&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 75.00&nbsp;&#8364;</td>
+<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 81.67&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-40.00</span><span class="barLeft" style="width: 33px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">90.00</span></td>
+45.00</span><span class="barLeft" style="width: 31px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">90.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 42.50&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -734,7 +735,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 96.67&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-80.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">110.00</span></td>
+80.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">120.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 116.67&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -779,18 +780,18 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Caen&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DCaen&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> ?</td>
+<tr><td>Average Monthly Disposable Salary (Net After Tax) </td> <td style="text-align: right" class="priceValue "> ?</td>
 <td class=""></td>
  </tr>
 <tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.20</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-3.00</span><span class="barLeft" style="width: 4px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 1px;" ></span><span class="barTextRight">3.20</span></td>
+2.10</span><span class="barLeft" style="width: 23px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 1px;" ></span><span class="barTextRight">3.20</span></td>
  </tr>
 </table>
 <h2>Prices in Caen, France</h2>
 <div style="display: inline">
-This city had 11 different contributors in the past 18 months. <br/>Some data are estimated due to a low number of contributors. If you are living here, <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Caen&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DCaen&amp;tracking=standardEnterData" rel="nofollow">please update our data</a>. <br/>Last update: February, 2016
+This city had 11 different contributors in the past 18 months. <br/>Some data are estimated due to a low number of contributors. If you are living here, <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Caen&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DCaen&amp;tracking=standardEnterData" rel="nofollow">please update our data</a>. <br/>Last update: March, 2016
 </div>
 
 <!-- social share start -->

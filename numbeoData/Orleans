@@ -53,7 +53,7 @@ $.fn.hoverClass = function(c) {
 </script>
 
 </div>
-<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<table style="border-spacing: 0px; width: 100%; margin-top: 7px; margin-bottom: 1px;" >
 <tr>
 <td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
 <a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
@@ -395,6 +395,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
              <option value="ILS">ILS</option>
              <option value="INR">INR</option>
              <option value="IQD">IQD</option>
+             <option value="IRR">IRR</option>
              <option value="ISK">ISK</option>
              <option value="ITL">ITL</option>
              <option value="JMD">JMD</option>
@@ -694,7 +695,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Orleans&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DOrleans&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> ?</td>
+<tr><td>Average Monthly Disposable Salary (Net After Tax) </td> <td style="text-align: right" class="priceValue "> ?</td>
 <td class=""></td>
  </tr>
 <tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> ?</td>

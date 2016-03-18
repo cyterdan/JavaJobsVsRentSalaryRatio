@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta property="og:title" content="Cost of Living in Brest" />
-<meta property="og:description" content="Average prices of more than 40 products and services in Brest, France updated Feb 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
+<meta property="og:description" content="Average prices of more than 40 products and services in Brest, France updated Mar 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
 <meta property="og:type" content="website"/>
 <meta property="og:url" content="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Brest"/>
             <script type="text/javascript" src="../common/numbeo_standard.js"></script>
@@ -53,7 +53,7 @@ $.fn.hoverClass = function(c) {
 </script>
 
 </div>
-<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<table style="border-spacing: 0px; width: 100%; margin-top: 7px; margin-bottom: 1px;" >
 <tr>
 <td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
 <a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
@@ -400,6 +400,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
              <option value="ILS">ILS</option>
              <option value="INR">INR</option>
              <option value="IQD">IQD</option>
+             <option value="IRR">IRR</option>
              <option value="ISK">ISK</option>
              <option value="ITL">ITL</option>
              <option value="JMD">JMD</option>
@@ -522,10 +523,10 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 7.00</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 5px;" ></span><span class="barTextRight">8.50</span></td>
  </tr>
-<tr><td class="tr_highlighted">Domestic Beer (0.5 liter draught) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.80&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Domestic Beer (0.5 liter draught) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 5.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-3.00</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">5.50</span></td>
+3.40</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 1px;" ></span><span class="barTextRight">5.00</span></td>
  </tr>
 <tr><td>Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 4.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -640,23 +641,23 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 1.50</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">2.00</span></td>
  </tr>
-<tr><td>Pack of Cigarettes (Marlboro) </td> <td style="text-align: right" class="priceValue "> 6.90&nbsp;&#8364;</td>
+<tr><td>Pack of Cigarettes (Marlboro) </td> <td style="text-align: right" class="priceValue "> 6.95&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-6.70</span><span class="barLeft" style="width: 3px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 2px;" ></span><span class="barTextRight">7.00</span></td>
+6.90</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">7.00</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Transportation</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Brest&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DBrest&amp;current=2&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>One-way Ticket (Local Transport) </td> <td style="text-align: right" class="priceValue "> 1.40&nbsp;&#8364;</td>
+<tr><td>One-way Ticket (Local Transport) </td> <td style="text-align: right" class="priceValue "> 1.50&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-1.40</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">1.60</span></td>
+1.40</span><span class="barLeft" style="width: 4px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 4px;" ></span><span class="barTextRight">1.60</span></td>
  </tr>
-<tr><td class="tr_highlighted">Monthly Pass (Regular Price) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 35.70&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Monthly Pass (Regular Price) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 35.35&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-35.00</span><span class="barLeft" style="width: 4px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 1px;" ></span><span class="barTextRight">35.70</span></td>
+35.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">35.70</span></td>
  </tr>
 <tr><td>Taxi Start (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 3.85&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -707,7 +708,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td>Fitness Club, Monthly Fee for 1 Adult </td> <td style="text-align: right" class="priceValue "> 29.98&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-29.95</span><span class="barLeft" style="width: 3px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 2px;" ></span><span class="barTextRight">30.00</span></td>
+29.95</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">30.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Tennis Court Rent (1 Hour on Weekend) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 8.33&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -755,10 +756,10 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 350.00</span><span class="barLeft" style="width: 28px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 48px;" ></span><span class="barTextRight">1,513.00</span></td>
  </tr>
-<tr><td>Apartment (3 bedrooms) in City Centre </td> <td style="text-align: right" class="priceValue "> 730.00&nbsp;&#8364;</td>
+<tr><td>Apartment (3 bedrooms) in City Centre </td> <td style="text-align: right" class="priceValue "> 723.33&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-710.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">750.00</span></td>
+710.00</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 4px;" ></span><span class="barTextRight">750.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Apartment (3 bedrooms) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 616.67&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -780,10 +781,10 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Brest&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DBrest&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 2,000.00&nbsp;&#8364;</td>
+<tr><td>Average Monthly Disposable Salary (Net After Tax) </td> <td style="text-align: right" class="priceValue "> 1,833.33&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-1,700.00</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">2,300.00</span></td>
+1,500.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 19px;" ></span><span class="barTextRight">2,300.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.00</td>
 <td class="priceBarTd tr_highlighted">
@@ -793,7 +794,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 </table>
 <h2>Prices in Brest, France</h2>
 <div style="display: inline">
-This city had 17 different contributors in the past 18 months. <br/>Some data are estimated due to a low number of contributors. If you are living here, <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Brest&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DBrest&amp;tracking=standardEnterData" rel="nofollow">please update our data</a>. <br/>Last update: February, 2016
+This city had 15 different contributors in the past 18 months. <br/>Some data are estimated due to a low number of contributors. If you are living here, <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Brest&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DBrest&amp;tracking=standardEnterData" rel="nofollow">please update our data</a>. <br/>Last update: March, 2016
 </div>
 
 <!-- social share start -->

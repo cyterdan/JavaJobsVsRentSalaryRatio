@@ -53,7 +53,7 @@ $.fn.hoverClass = function(c) {
 </script>
 
 </div>
-<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<table style="border-spacing: 0px; width: 100%; margin-top: 7px; margin-bottom: 1px;" >
 <tr>
 <td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
 <a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
@@ -400,6 +400,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
              <option value="ILS">ILS</option>
              <option value="INR">INR</option>
              <option value="IQD">IQD</option>
+             <option value="IRR">IRR</option>
              <option value="ISK">ISK</option>
              <option value="ITL">ITL</option>
              <option value="JMD">JMD</option>
@@ -515,7 +516,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 45.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-40.00</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">50.00</span></td>
+32.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">58.00</span></td>
  </tr>
 <tr><td>McMeal at McDonalds (or Equivalent Combo Meal) </td> <td style="text-align: right" class="priceValue "> 8.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -537,10 +538,10 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 2.00</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 23px;" ></span><span class="barTextRight">3.00</span></td>
  </tr>
-<tr><td>Coke/Pepsi (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 2.38&nbsp;&#8364;</td>
+<tr><td>Coke/Pepsi (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 2.44&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-2.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 19px;" ></span><span class="barTextRight">3.00</span></td>
+2.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">3.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Water (0.33 liter bottle)  </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.50&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -563,7 +564,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td>Rice (white), (1kg) </td> <td style="text-align: right" class="priceValue "> 1.41&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-1.20</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 31px;" ></span><span class="barTextRight">2.00</span></td>
+1.20</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 51px;" ></span><span class="barTextRight">2.40</span></td>
  </tr>
 <tr><td class="tr_highlighted">Eggs (12) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.01&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -620,10 +621,10 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 0.90</span><span class="barLeft" style="width: 4px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 1px;" ></span><span class="barTextRight">1.00</span></td>
  </tr>
-<tr><td>Water (1.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 0.87&nbsp;&#8364;</td>
+<tr><td>Water (1.5 liter bottle) </td> <td style="text-align: right" class="priceValue "> 0.80&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-0.40</span><span class="barLeft" style="width: 38px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">1.00</span></td>
+0.40</span><span class="barLeft" style="width: 35px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 19px;" ></span><span class="barTextRight">1.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Bottle of Wine (Mid-Range) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.99&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -685,20 +686,20 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Utilities (Monthly)</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Avignon&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DAvignon&amp;current=3&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 163.34&nbsp;&#8364;</td>
+<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 162.92&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-85.00</span><span class="barLeft" style="width: 34px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">200.00</span></td>
+113.33</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">200.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.22&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
 0.17</span><span class="barLeft" style="width: 17px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">0.30</span></td>
  </tr>
-<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 25.00&nbsp;&#8364;</td>
+<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 24.99&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-20.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">30.00</span></td>
+20.00</span><span class="barLeft" style="width: 13px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">30.00</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Sports And Leisure</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Avignon&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DAvignon&amp;current=4&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
@@ -714,7 +715,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td>Cinema, International Release, 1 Seat </td> <td style="text-align: right" class="priceValue "> 9.90&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-9.00</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 15px;" ></span><span class="barTextRight">12.00</span></td>
+9.00</span><span class="barLeft" style="width: 5px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">11.00</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Clothing And Shoes</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Avignon&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DAvignon&amp;current=5&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
@@ -777,7 +778,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Avignon&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DAvignon&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 1,353.24&nbsp;&#8364;</td>
+<tr><td>Average Monthly Disposable Salary (Net After Tax) </td> <td style="text-align: right" class="priceValue "> 1,353.24&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
 1,059.72</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">1,500.00</span></td>
@@ -790,7 +791,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 </table>
 <h2>Prices in Avignon, France</h2>
 <div style="display: inline">
-This city had 9 different contributors in the past 12 months. <br/>Some data are estimated due to a low number of contributors. If you are living here, <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Avignon&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DAvignon&amp;tracking=standardEnterData" rel="nofollow">please update our data</a>. <br/>Last update: February, 2016
+This city had 9 different contributors in the past 12 months. <br/>Some data are estimated due to a low number of contributors. If you are living here, <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Avignon&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DAvignon&amp;tracking=standardEnterData" rel="nofollow">please update our data</a>. <br/>Last update: March, 2016
 </div>
 
 <!-- social share start -->

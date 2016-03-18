@@ -6,10 +6,10 @@ S'Paris'
 p3
 sS'rentSalaryRatio'
 p4
-F1.0625461986406333
+F1.0599883992822055
 sS'javaJobs'
 p5
-I4701
+I91965
 sS'region'
 p6
 S'Ile-de-France'
@@ -29,7 +29,7 @@ p13
 sg4
 F0.5815707028691789
 sg5
-I223
+I6557
 sg6
 S"Provence-Alpes-Cote d'Azur"
 p14
@@ -46,7 +46,7 @@ p18
 sg4
 F0.6051779935275081
 sg5
-I499
+I14975
 sg6
 S'Auvergne-Rhone-Alpes'
 p19
@@ -61,9 +61,9 @@ g2
 S'Toulouse'
 p23
 sg4
-F0.6216216216216216
+F0.5875920986745966
 sg5
-I585
+I7480
 sg6
 S'Languedoc-Roussillon-Midi-Pyrenees'
 p24
@@ -78,9 +78,9 @@ g2
 S'Nice'
 p28
 sg4
-F0.5962048780487805
+F0.5760892958462953
 sg5
-I403
+I5383
 sg6
 g14
 sg8
@@ -96,7 +96,7 @@ p32
 sg4
 F0.4442421504404789
 sg5
-I481
+I6961
 sg6
 S'Pays de la Loire'
 p33
@@ -113,7 +113,7 @@ p37
 sg4
 F0.4588235294117647
 sg5
-I137
+I6584
 sg6
 S'Alsace-Champagne-Ardenne-Lorraine'
 p38
@@ -130,7 +130,7 @@ p42
 sg4
 F0.6730158730158731
 sg5
-I150
+I2807
 sg6
 g24
 sg8
@@ -146,7 +146,7 @@ p46
 sg4
 F0.6620583217202173
 sg5
-I241
+I6579
 sg6
 S'Aquitaine-Limousin-Poitou-Charentes'
 p47
@@ -161,9 +161,9 @@ g2
 S'Lille'
 p51
 sg4
-F0.65051133837261
+F0.6829268292682927
 sg5
-I445
+I11269
 sg6
 S'Nord-Pas-de-Calais-Picardie'
 p52
@@ -180,7 +180,7 @@ p56
 sg4
 F0.43359442749129296
 sg5
-I277
+I5407
 sg6
 S'Bretagne'
 p57
@@ -197,7 +197,7 @@ p61
 sg4
 F0.39622641509433965
 sg5
-I155
+I1459
 sg6
 g38
 sg8
@@ -213,7 +213,7 @@ p65
 sg4
 F0.5483870967741935
 sg5
-I155
+I1720
 sg6
 S'Normandie'
 p66
@@ -230,7 +230,7 @@ p70
 sg4
 F0.3520415347786424
 sg5
-I49
+I3133
 sg6
 g19
 sg8
@@ -244,9 +244,9 @@ g2
 S'Toulon'
 p74
 sg4
-F0.5844155844155844
+F0.6428571428571429
 sg5
-I109
+I2812
 sg6
 g14
 sg8
@@ -260,9 +260,9 @@ g2
 S'Grenoble'
 p78
 sg4
-F0.45636295300068375
+F0.4499107142857143
 sg5
-I203
+I3080
 sg6
 g19
 sg8
@@ -273,7 +273,7 @@ S'160215'
 p80
 sa(dp81
 g5
-I30
+I2463
 sg2
 S'Dijon'
 p82
@@ -293,7 +293,7 @@ p87
 sg4
 F0.4282655246252677
 sg5
-I19
+I1640
 sg6
 g24
 sg8
@@ -309,7 +309,7 @@ p91
 sg4
 F0.39023478949649537
 sg5
-I55
+I2834
 sg6
 g33
 sg8
@@ -320,7 +320,7 @@ S'150125'
 p93
 sa(dp94
 g5
-I499
+I15257
 sg2
 S'Villeurbanne'
 p95
@@ -339,7 +339,7 @@ p99
 sg4
 F0.45714285714285713
 sg5
-I63
+I2222
 sg6
 g33
 sg8
@@ -350,7 +350,7 @@ S'144244'
 p101
 sa(dp102
 g5
-I4635
+I90231
 sg2
 S'Saint-Denis'
 p103
@@ -368,9 +368,9 @@ g2
 S'Aix-en-Provence'
 p108
 sg4
-F0.7297297297297297
+F0.7690861547401344
 sg5
-I296
+I4453
 sg6
 g14
 sg8
@@ -386,7 +386,7 @@ p112
 sg4
 F0.6041666666666666
 sg5
-I45
+I2423
 sg6
 g19
 sg8
@@ -400,9 +400,9 @@ g2
 S'Brest'
 p116
 sg4
-F0.365
+F0.3945443537170068
 sg5
-I95
+I2178
 sg6
 g57
 sg8
@@ -418,7 +418,7 @@ p120
 sg4
 F0.42105263157894735
 sg5
-I166
+I914
 sg6
 g47
 sg8
@@ -429,7 +429,7 @@ S'135038'
 p122
 sa(dp123
 g5
-I114
+I3340
 sg2
 S'Tours'
 p124
@@ -449,7 +449,7 @@ p129
 sg4
 F0.5
 sg5
-I166
+I1651
 sg6
 g52
 sg8
@@ -460,7 +460,7 @@ S'132699'
 p131
 sa(dp132
 g5
-I12
+I1156
 sg2
 S'Perpignan'
 p133
@@ -479,7 +479,7 @@ p137
 sg4
 F0.4017857142857143
 sg5
-I45
+I1931
 sg6
 g38
 sg8
@@ -490,7 +490,7 @@ S'118634'
 p139
 sa(dp140
 g5
-I10
+I1121
 sg2
 S'Besan\xc3\xa7on'
 p141
@@ -509,7 +509,7 @@ p145
 sg4
 F1.2105263157894737
 sg5
-I4775
+I91714
 sg6
 g7
 sg8
@@ -520,7 +520,7 @@ S'116794'
 p147
 sa(dp148
 g5
-I80
+I3425
 sg2
 S'Orleans'
 p149
@@ -539,7 +539,7 @@ p153
 sg4
 F0.43269313979449964
 sg5
-I14
+I3077
 sg6
 g38
 sg8
@@ -555,7 +555,7 @@ p157
 sg4
 F0.6388916666666666
 sg5
-I20
+I2997
 sg6
 g66
 sg8
@@ -566,7 +566,7 @@ S'110755'
 p159
 sa(dp160
 g5
-I4635
+I90209
 sg2
 g103
 sg6
@@ -579,7 +579,7 @@ S'109343'
 p162
 sa(dp163
 g5
-I27
+I2029
 sg2
 S'Caen'
 p164
@@ -593,7 +593,7 @@ S'107229'
 p166
 sa(dp167
 g5
-I4726
+I89485
 sg2
 S'Argenteuil'
 p168
@@ -607,7 +607,7 @@ S'106817'
 p170
 sa(dp171
 g5
-I122
+I261
 sg2
 S'Saint-Paul'
 p172
@@ -621,7 +621,7 @@ S'104332'
 p174
 sa(dp175
 g5
-I4630
+I90075
 sg2
 S'Montreuil'
 p176
@@ -640,7 +640,7 @@ p180
 sg4
 F0.47778
 sg5
-I34
+I2101
 sg6
 g38
 sg8
@@ -651,7 +651,7 @@ S'104072'
 p182
 sa(dp183
 g5
-I469
+I15239
 sg2
 S'Roubaix'
 p184
@@ -665,7 +665,7 @@ S'95866'
 p186
 sa(dp187
 g5
-I479
+I16568
 sg2
 S'Tourcoing'
 p188
@@ -679,7 +679,7 @@ S'92974'
 p190
 sa(dp191
 g5
-I4818
+I91515
 sg2
 S'Nanterre'
 p192
@@ -698,7 +698,7 @@ p196
 sg4
 F0.6034923590789513
 sg5
-I97
+I2715
 sg6
 g14
 sg8
@@ -709,7 +709,7 @@ S'90305'
 p198
 sa(dp199
 g5
-I4710
+I91733
 sg2
 S'Vitry-sur-Seine'
 p200
@@ -723,7 +723,7 @@ S'90075'
 p202
 sa(dp203
 g5
-I4657
+I90498
 sg2
 S'Creteil'
 p204
@@ -737,7 +737,7 @@ S'89989'
 p206
 sa(dp207
 g5
-I27
+I2053
 sg2
 S'Dunkerque'
 p208
@@ -756,7 +756,7 @@ p212
 sg4
 F0.5882352941176471
 sg5
-I19
+I1778
 sg6
 g47
 sg8
@@ -767,7 +767,7 @@ S'87427'
 p214
 sa(dp215
 g5
-I4765
+I92004
 sg2
 S'Asnieres-sur-Seine'
 p216
@@ -781,7 +781,7 @@ S'86020'
 p218
 sa(dp219
 g5
-I4781
+I92847
 sg2
 S'Courbevoie'
 p220
@@ -795,7 +795,7 @@ S'85523'
 p222
 sa(dp223
 g5
-I4770
+I87463
 sg2
 S'Versailles'
 p224
@@ -809,7 +809,7 @@ S'85272'
 p226
 sa(dp227
 g5
-I4779
+I92287
 sg2
 S'Colombes'
 p228
@@ -823,7 +823,7 @@ S'84577'
 p230
 sa(dp231
 g5
-I133
+I506
 sg2
 S'Fort-de-France'
 p232
@@ -838,7 +838,7 @@ S'84174'
 p235
 sa(dp236
 g5
-I4219
+I79555
 sg2
 S'Aulnay-sous-Bois'
 p237
@@ -852,7 +852,7 @@ S'82634'
 p239
 sa(dp240
 g5
-I111
+I204
 sg2
 S'Saint-Pierre'
 p241
@@ -866,7 +866,7 @@ S'81415'
 p243
 sa(dp244
 g5
-I122
+I894
 sg2
 S'Cherbourg-en-Cotentin'
 p245
@@ -879,11 +879,13 @@ sg10
 S'80878'
 p247
 sa(dp248
-g5
-I4818
-sg2
+g2
 S'Rueil-Malmaison'
 p249
+sg4
+F0.725
+sg5
+I91971
 sg6
 g7
 sg8
@@ -899,7 +901,7 @@ p253
 sg4
 F0.6969727272727272
 sg5
-I39
+I1941
 sg6
 g47
 sg8
@@ -910,7 +912,7 @@ S'77575'
 p255
 sa(dp256
 g5
-I4642
+I90321
 sg2
 S'Aubervilliers'
 p257
@@ -924,7 +926,7 @@ S'77452'
 p259
 sa(dp260
 g5
-I111
+I424
 sg2
 S'Le Tampon'
 p261
@@ -938,7 +940,7 @@ S'76080'
 p263
 sa(dp264
 g5
-I4507
+I87219
 sg2
 S'Champigny-sur-Marne'
 p265
@@ -957,7 +959,7 @@ p269
 sg4
 F0.8045469173580316
 sg5
-I398
+I5908
 sg6
 g14
 sg8
@@ -968,7 +970,7 @@ S'75456'
 p271
 sa(dp272
 g5
-I12
+I1195
 sg2
 S'Beziers'
 p273
@@ -982,7 +984,7 @@ S'74811'
 p275
 sa(dp276
 g5
-I19
+I1341
 sg2
 S'La Rochelle'
 p277
@@ -996,7 +998,7 @@ S'74344'
 p279
 sa(dp280
 g5
-I4589
+I88896
 sg2
 S'Saint-Maur-des-Fosses'
 p281
@@ -1010,7 +1012,7 @@ S'74133'
 p283
 sa(dp284
 g5
-I306
+I3921
 sg2
 S'Cannes'
 p285
@@ -1024,7 +1026,7 @@ S'73325'
 p287
 sa(dp288
 g5
-I25
+I1234
 sg2
 S'Calais'
 p289
@@ -1038,7 +1040,7 @@ S'72520'
 p291
 sa(dp292
 g5
-I35
+I2349
 sg2
 S'Saint-Nazaire'
 p293
@@ -1052,7 +1054,7 @@ S'68513'
 p295
 sa(dp296
 g5
-I241
+I6527
 sg2
 S'Merignac'
 p297
@@ -1066,7 +1068,7 @@ S'68386'
 p299
 sa(dp300
 g5
-I4547
+I87247
 sg2
 S'Drancy'
 p301
@@ -1080,7 +1082,7 @@ S'68241'
 p303
 sa(dp304
 g5
-I14
+I2281
 sg2
 S'Colmar'
 p305
@@ -1094,7 +1096,7 @@ S'67956'
 p307
 sa(dp308
 g5
-I111
+I223
 sg2
 S'Ajaccio'
 p309
@@ -1109,7 +1111,7 @@ S'67507'
 p312
 sa(dp313
 g5
-I37
+I1693
 sg2
 S'Bourges'
 p314
@@ -1123,7 +1125,7 @@ S'67189'
 p316
 sa(dp317
 g5
-I4787
+I92778
 sg2
 S'Issy-les-Moulineaux'
 p318
@@ -1137,7 +1139,7 @@ S'65662'
 p320
 sa(dp321
 g5
-I4777
+I92544
 sg2
 S'Levallois-Perret'
 p322
@@ -1151,7 +1153,7 @@ S'65264'
 p324
 sa(dp325
 g5
-I118
+I2981
 sg2
 S'La Seyne-sur-Mer'
 p326
@@ -1165,7 +1167,7 @@ S'64523'
 p328
 sa(dp329
 g5
-I46
+I1907
 sg2
 S'Quimper'
 p330
@@ -1179,7 +1181,7 @@ S'63532'
 p332
 sa(dp333
 g5
-I4214
+I79144
 sg2
 S'Noisy-le-Grand'
 p334
@@ -1193,7 +1195,7 @@ S'62834'
 p336
 sa(dp337
 g5
-I466
+I13589
 sg2
 S"Villeneuve-d'Ascq"
 p338
@@ -1207,7 +1209,7 @@ S'62616'
 p340
 sa(dp341
 g5
-I4740
+I92560
 sg2
 S'Neuilly-sur-Seine'
 p342
@@ -1226,7 +1228,7 @@ p346
 sg4
 F0.4857142857142857
 sg5
-I14
+I1211
 sg6
 g19
 sg8
@@ -1237,7 +1239,7 @@ S'61767'
 p348
 sa(dp349
 g5
-I4755
+I90546
 sg2
 S'Antony'
 p350
@@ -1251,7 +1253,7 @@ S'61727'
 p352
 sa(dp353
 g5
-I1474
+I33338
 sg2
 S'Cergy'
 p354
@@ -1265,7 +1267,7 @@ S'61708'
 p356
 sa(dp357
 g5
-I502
+I15315
 sg2
 S'Venissieux'
 p358
@@ -1279,7 +1281,7 @@ S'61636'
 p360
 sa(dp361
 g5
-I242
+I6531
 sg2
 S'Pessac'
 p362
@@ -1293,7 +1295,7 @@ S'60763'
 p364
 sa(dp365
 g5
-I188
+I946
 sg2
 S'Troyes'
 p366
@@ -1307,7 +1309,7 @@ S'59671'
 p368
 sa(dp369
 g5
-I4714
+I91546
 sg2
 S'Clichy'
 p370
@@ -1321,7 +1323,7 @@ S'59255'
 p372
 sa(dp373
 g5
-I4719
+I92655
 sg2
 S'Ivry-sur-Seine'
 p374
@@ -1335,7 +1337,7 @@ S'58933'
 p376
 sa(dp377
 g5
-I15
+I1109
 sg2
 S'Chambery'
 p378
@@ -1354,7 +1356,7 @@ p382
 sg4
 F0.5
 sg5
-I46
+I1782
 sg6
 g57
 sg8
@@ -1365,7 +1367,7 @@ S'57961'
 p384
 sa(dp385
 g5
-I122
+I338
 sg2
 S'Les Abymes'
 p386
@@ -1380,7 +1382,7 @@ S'57960'
 p389
 sa(dp390
 g5
-I57
+I1600
 sg2
 S'Montauban'
 p391
@@ -1394,7 +1396,7 @@ S'57921'
 p393
 sa(dp394
 g5
-I4419
+I83025
 sg2
 S'Sarcelles'
 p395
@@ -1408,7 +1410,7 @@ S'57533'
 p397
 sa(dp398
 g5
-I80
+I1163
 sg2
 S'Niort'
 p399
@@ -1422,7 +1424,7 @@ S'57393'
 p401
 sa(dp402
 g5
-I0
+I189
 sg2
 S'Mamoudzou'
 p403
@@ -1437,7 +1439,7 @@ S'572'
 p406
 sa(dp407
 g5
-I4733
+I92605
 sg2
 S'Villejuif'
 p408
@@ -1451,7 +1453,7 @@ S'57184'
 p410
 sa(dp411
 g5
-I111
+I446
 sg2
 S'Saint-Andre'
 p412
@@ -1465,7 +1467,7 @@ S'56156'
 p414
 sa(dp415
 g5
-I108
+I2718
 sg2
 S'Hyeres'
 p416
@@ -1479,7 +1481,7 @@ S'55713'
 p418
 sa(dp419
 g5
-I133
+I852
 sg2
 S'Saint-Quentin'
 p420
@@ -1493,7 +1495,7 @@ S'55698'
 p422
 sa(dp423
 g5
-I177
+I1324
 sg2
 S'Beauvais'
 p424
@@ -1507,7 +1509,7 @@ S'55252'
 p426
 sa(dp427
 g5
-I4694
+I90177
 sg2
 S'Epinay-sur-Seine'
 p428
@@ -1521,7 +1523,7 @@ S'54857'
 p430
 sa(dp431
 g5
-I0
+I232
 sg2
 S'Cayenne'
 p432
@@ -1536,7 +1538,7 @@ S'54709'
 p435
 sa(dp436
 g5
-I4672
+I91718
 sg2
 S'Maisons-Alfort'
 p437
@@ -1550,7 +1552,7 @@ S'54470'
 p439
 sa(dp440
 g5
-I60
+I1864
 sg2
 S'Cholet'
 p441
@@ -1564,7 +1566,7 @@ S'53890'
 p443
 sa(dp444
 g5
-I727
+I13869
 sg2
 S'Meaux'
 p445
@@ -1578,7 +1580,7 @@ S'53766'
 p447
 sa(dp448
 g5
-I3831
+I72886
 sg2
 S'Chelles'
 p449
@@ -1592,7 +1594,7 @@ S'53569'
 p451
 sa(dp452
 g5
-I4636
+I90145
 sg2
 S'Pantin'
 p453
@@ -1606,7 +1608,7 @@ S'53471'
 p455
 sa(dp456
 g5
-I1116
+I28753
 sg2
 S'Evry'
 p457
@@ -1620,7 +1622,7 @@ S'53237'
 p459
 sa(dp460
 g5
-I4615
+I89177
 sg2
 S'Fontenay-sous-Bois'
 p461
@@ -1634,7 +1636,7 @@ S'53124'
 p463
 sa(dp464
 g5
-I85
+I2148
 sg2
 S'Frejus'
 p465
@@ -1648,7 +1650,7 @@ S'53039'
 p467
 sa(dp468
 g5
-I50
+I1965
 sg2
 S'Vannes'
 p469
@@ -1662,7 +1664,7 @@ S'53032'
 p471
 sa(dp472
 g5
-I4593
+I88057
 sg2
 S'Bondy'
 p473
@@ -1676,7 +1678,7 @@ S'52865'
 p475
 sa(dp476
 g5
-I12
+I824
 sg2
 S'Narbonne'
 p477
@@ -1690,7 +1692,7 @@ S'52802'
 p479
 sa(dp480
 g5
-I4552
+I87285
 sg2
 S'Le Blanc-Mesnil'
 p481
@@ -1704,7 +1706,7 @@ S'52797'
 p483
 sa(dp484
 g5
-I44
+I1970
 sg2
 S'La Roche-sur-Yon'
 p485
@@ -1718,7 +1720,7 @@ S'52732'
 p487
 sa(dp488
 g5
-I111
+I216
 sg2
 S'Saint-Louis'
 p489
@@ -1732,7 +1734,7 @@ S'52656'
 p491
 sa(dp492
 g5
-I86
+I1683
 sg2
 S'Arles'
 p493
@@ -1746,7 +1748,7 @@ S'52566'
 p495
 sa(dp496
 g5
-I4786
+I92335
 sg2
 S'Clamart'
 p497
@@ -1765,7 +1767,7 @@ p501
 sg4
 F0.4645760743321719
 sg5
-I22
+I3089
 sg6
 g19
 sg8
@@ -1776,7 +1778,7 @@ S'52029'
 p503
 sa(dp504
 g5
-I4666
+I86399
 sg2
 S'Sartrouville'
 p505
@@ -1790,7 +1792,7 @@ S'51599'
 p507
 sa(dp508
 g5
-I306
+I3862
 sg2
 S'Grasse'
 p509
@@ -1804,7 +1806,7 @@ S'50916'
 p511
 sa(dp512
 g5
-I38
+I1473
 sg2
 S'Laval'
 p513
@@ -1818,7 +1820,7 @@ S'50479'
 p515
 sa(dp516
 g5
-I1611
+I427
 sg2
 S'Belfort'
 p517
@@ -1832,7 +1834,7 @@ S'50196'
 p519
 sa(dp520
 g5
-I4592
+I88362
 sg2
 S'Bobigny'
 p521
@@ -1846,7 +1848,7 @@ S'49802'
 p523
 sa(dp524
 g5
-I166
+I1350
 sg2
 S'Evreux'
 p525
@@ -1860,7 +1862,7 @@ S'49722'
 p527
 sa(dp528
 g5
-I4658
+I90750
 sg2
 S'Vincennes'
 p529
@@ -1874,7 +1876,7 @@ S'49695'
 p531
 sa(dp532
 g5
-I4750
+I93026
 sg2
 S'Montrouge'
 p533
@@ -1888,7 +1890,7 @@ S'49656'
 p535
 sa(dp536
 g5
-I4219
+I79225
 sg2
 S'Sevran'
 p537
@@ -1902,7 +1904,7 @@ S'49465'
 p539
 sa(dp540
 g5
-I53
+I1018
 sg2
 S'Albi'
 p541
@@ -1916,7 +1918,7 @@ S'49342'
 p543
 sa(dp544
 g5
-I155
+I785
 sg2
 S'Charleville-Mezieres'
 p545
@@ -1930,7 +1932,7 @@ S'48991'
 p547
 sa(dp548
 g5
-I4782
+I92290
 sg2
 S'Suresnes'
 p549
@@ -1944,7 +1946,7 @@ S'48066'
 p551
 sa(dp552
 g5
-I141
+I3888
 sg2
 S'Martigues'
 p553
@@ -1958,7 +1960,7 @@ S'47904'
 p555
 sa(dp556
 g5
-I913
+I22983
 sg2
 S'Corbeil-Essonnes'
 p557
@@ -1972,7 +1974,7 @@ S'47632'
 p559
 sa(dp560
 g5
-I4689
+I91471
 sg2
 S'Saint-Ouen'
 p561
@@ -1986,7 +1988,7 @@ S'47534'
 p563
 sa(dp564
 g5
-I39
+I1513
 sg2
 S'Bayonne'
 p565
@@ -2000,7 +2002,7 @@ S'47492'
 p567
 sa(dp568
 g5
-I413
+I6343
 sg2
 S'Cagnes-sur-Mer'
 p569
@@ -2014,7 +2016,7 @@ S'46940'
 p571
 sa(dp572
 g5
-I133
+I749
 sg2
 S'Brive-la-Gaillarde'
 p573
@@ -2028,7 +2030,7 @@ S'46794'
 p575
 sa(dp576
 g5
-I15
+I932
 sg2
 S'Carcassonne'
 p577
@@ -2042,7 +2044,7 @@ S'46724'
 p579
 sa(dp580
 g5
-I4763
+I88953
 sg2
 S'Massy'
 p581
@@ -2056,7 +2058,7 @@ S'45902'
 p583
 sa(dp584
 g5
-I74
+I1882
 sg2
 S'Blois'
 p585
@@ -2070,7 +2072,7 @@ S'45539'
 p587
 sa(dp588
 g5
-I45
+I2065
 sg2
 S'Saint-Brieuc'
 p589
@@ -2084,7 +2086,7 @@ S'45331'
 p591
 sa(dp592
 g5
-I214
+I5984
 sg2
 S'Aubagne'
 p593
@@ -2098,7 +2100,7 @@ S'45303'
 p595
 sa(dp596
 g5
-I32
+I1376
 sg2
 S'Ch\xc3\xa2teauroux'
 p597
@@ -2112,7 +2114,7 @@ S'45209'
 p599
 sa(dp600
 g5
-I144
+I925
 sg2
 S'Chalon-sur-Saone'
 p601
@@ -2126,7 +2128,7 @@ S'45166'
 p603
 sa(dp604
 g5
-I740
+I12686
 sg2
 S'Mantes-la-Jolie'
 p605
@@ -2140,7 +2142,7 @@ S'45052'
 p607
 sa(dp608
 g5
-I4775
+I91135
 sg2
 S'Meudon'
 p609
@@ -2154,7 +2156,7 @@ S'45043'
 p611
 sa(dp612
 g5
-I43
+I1864
 sg2
 S'Saint-Malo'
 p613
@@ -2168,7 +2170,7 @@ S'44919'
 p615
 sa(dp616
 g5
-I178
+I863
 sg2
 S'Ch\xc3\xa2lons-en-Champagne'
 p617
@@ -2182,7 +2184,7 @@ S'44899'
 p619
 sa(dp620
 g5
-I4681
+I91665
 sg2
 S'Alfortville'
 p621
@@ -2196,7 +2198,7 @@ S'44818'
 p623
 sa(dp624
 g5
-I12
+I1032
 sg2
 S'Sete'
 p625
@@ -2210,7 +2212,7 @@ S'44270'
 p627
 sa(dp628
 g5
-I135
+I3702
 sg2
 S'Salon-de-Provence'
 p629
@@ -2224,7 +2226,7 @@ S'44263'
 p631
 sa(dp632
 g5
-I499
+I15156
 sg2
 S'Vaulx-en-Velin'
 p633
@@ -2238,7 +2240,7 @@ S'44087'
 p635
 sa(dp636
 g5
-I4819
+I93073
 sg2
 S'Puteaux'
 p637
@@ -2252,7 +2254,7 @@ S'43891'
 p639
 sa(dp640
 g5
-I4602
+I88519
 sg2
 S'Rosny-sous-Bois'
 p641
@@ -2266,7 +2268,7 @@ S'43802'
 p643
 sa(dp644
 g5
-I479
+I6829
 sg2
 S'Saint-Herblain'
 p645
@@ -2280,7 +2282,7 @@ S'43784'
 p647
 sa(dp648
 g5
-I4730
+I90953
 sg2
 S'Gennevilliers'
 p649
@@ -2294,7 +2296,7 @@ S'43219'
 p651
 sa(dp652
 g5
-I399
+I5659
 sg2
 S'Le Cannet'
 p653
@@ -2308,7 +2310,7 @@ S'43187'
 p655
 sa(dp656
 g5
-I4143
+I78044
 sg2
 S'Livry-Gargan'
 p657
@@ -2322,7 +2324,7 @@ S'43099'
 p659
 sa(dp660
 g5
-I502
+I15371
 sg2
 S'Saint-Priest'
 p661
@@ -2336,7 +2338,7 @@ S'42950'
 p663
 sa(dp664
 g5
-I141
+I3979
 sg2
 S'Istres'
 p665
@@ -2350,7 +2352,7 @@ S'42937'
 p667
 sa(dp668
 g5
-I54
+I3398
 sg2
 S'Valenciennes'
 p669
@@ -2364,7 +2366,7 @@ S'42851'
 p671
 sa(dp672
 g5
-I4675
+I90711
 sg2
 S'Choisy-le-Roi'
 p673
@@ -2378,7 +2380,7 @@ S'42769'
 p675
 sa(dp676
 g5
-I501
+I15164
 sg2
 S'Caluire-et-Cuire'
 p677
@@ -2392,7 +2394,7 @@ S'42581'
 p679
 sa(dp680
 g5
-I25
+I1225
 sg2
 S'Boulogne-sur-Mer'
 p681
@@ -2406,7 +2408,7 @@ S'42537'
 p683
 sa(dp684
 g5
-I111
+I132
 sg2
 S'Bastia'
 p685
@@ -2420,7 +2422,7 @@ S'42254'
 p687
 sa(dp688
 g5
-I11
+I1102
 sg2
 S'Angouleme'
 p689
@@ -2434,7 +2436,7 @@ S'41970'
 p691
 sa(dp692
 g5
-I4567
+I87494
 sg2
 S'Garges-les-Gonesse'
 p693
@@ -2448,7 +2450,7 @@ S'41782'
 p695
 sa(dp696
 g5
-I53
+I925
 sg2
 S'Castres'
 p697
@@ -2462,7 +2464,7 @@ S'41636'
 p699
 sa(dp700
 g5
-I45
+I1759
 sg2
 S'Thionville'
 p701
@@ -2476,7 +2478,7 @@ S'41627'
 p703
 sa(dp704
 g5
-I492
+I17890
 sg2
 S'Wattrelos'
 p705
@@ -2490,7 +2492,7 @@ S'41552'
 p707
 sa(dp708
 g5
-I242
+I6547
 sg2
 S'Talence'
 p709
@@ -2504,7 +2506,7 @@ S'41517'
 p711
 sa(dp712
 g5
-I0
+I144
 sg2
 S'Saint-Laurent-du-Maroni'
 p713
@@ -2518,7 +2520,7 @@ S'41515'
 p715
 sa(dp716
 g5
-I90
+I3590
 sg2
 S'Douai'
 p717
@@ -2532,7 +2534,7 @@ S'41189'
 p719
 sa(dp720
 g5
-I4602
+I88270
 sg2
 S'Noisy-le-Sec'
 p721
@@ -2546,7 +2548,7 @@ S'41125'
 p723
 sa(dp724
 g5
-I53
+I1317
 sg2
 S'Tarbes'
 p725
@@ -2560,7 +2562,7 @@ S'41062'
 p727
 sa(dp728
 g5
-I29
+I2611
 sg2
 S'Arras'
 p729
@@ -2574,7 +2576,7 @@ S'40830'
 p731
 sa(dp732
 g5
-I12
+I1130
 sg2
 S'Ales'
 p733
@@ -2588,7 +2590,7 @@ S'40771'
 p735
 sa(dp736
 g5
-I4642
+I90364
 sg2
 S'La Courneuve'
 p737
@@ -2602,7 +2604,7 @@ S'40678'
 p739
 sa(dp740
 g5
-I145
+I982
 sg2
 S'Bourg-en-Bresse'
 p741
@@ -2616,7 +2618,7 @@ S'40490'
 p743
 sa(dp744
 g5
-I122
+I1469
 sg2
 S'Compiegne'
 p745
@@ -2630,7 +2632,7 @@ S'40430'
 p747
 sa(dp748
 g5
-I85
+I1314
 sg2
 S'Gap'
 p749
@@ -2644,7 +2646,7 @@ S'40255'
 p751
 sa(dp752
 g5
-I737
+I13663
 sg2
 S'Melun'
 p753
@@ -2658,7 +2660,7 @@ S'40066'
 p755
 sa(dp756
 g5
-I133
+I512
 sg2
 S'Le Lamentin'
 p757
@@ -2672,7 +2674,7 @@ S'40040'
 p759
 sa(dp760
 g5
-I479
+I6919
 sg2
 S'Reze'
 p761
@@ -2686,7 +2688,7 @@ S'39568'
 p763
 sa(dp764
 g5
-I4714
+I84033
 sg2
 S'Saint-Germain-en-Laye'
 p765
@@ -2700,7 +2702,7 @@ S'39547'
 p767
 sa(dp768
 g5
-I466
+I14004
 sg2
 S'Marcq-en-Bar\xc5\x93ul'
 p769
@@ -2714,7 +2716,7 @@ S'39392'
 p771
 sa(dp772
 g5
-I4453
+I85057
 sg2
 S'Gagny'
 p773
@@ -2728,7 +2730,7 @@ S'39276'
 p775
 sa(dp776
 g5
-I39
+I1500
 sg2
 S'Anglet'
 p777
@@ -2742,7 +2744,7 @@ S'39184'
 p779
 sa(dp780
 g5
-I85
+I2070
 sg2
 S'Draguignan'
 p781
@@ -2755,13 +2757,11 @@ sg10
 S'39174'
 p783
 sa(dp784
-g2
+g5
+I2297
+sg2
 S'Chartres'
 p785
-sg4
-F0.7142857142857143
-sg5
-I49
 sg6
 g125
 sg8
@@ -2772,7 +2772,7 @@ S'38840'
 p787
 sa(dp788
 g5
-I502
+I15394
 sg2
 S'Bron'
 p789
@@ -2786,7 +2786,7 @@ S'38746'
 p791
 sa(dp792
 g5
-I4765
+I92804
 sg2
 S'Bagneux'
 p793
@@ -2800,7 +2800,7 @@ S'38520'
 p795
 sa(dp796
 g5
-I568
+I6850
 sg2
 S'Colomiers'
 p797
@@ -2814,7 +2814,7 @@ S'38302'
 p799
 sa(dp800
 g5
-I203
+I3084
 sg2
 S"Saint-Martin-d'Heres"
 p801
@@ -2828,7 +2828,7 @@ S'38019'
 p803
 sa(dp804
 g5
-I3624
+I67618
 sg2
 S'Pontault-Combault'
 p805
@@ -2842,7 +2842,7 @@ S'37847'
 p807
 sa(dp808
 g5
-I199
+I554
 sg2
 S'Montlu\xc3\xa7on'
 p809
@@ -2856,7 +2856,7 @@ S'37839'
 p811
 sa(dp812
 g5
-I114
+I3316
 sg2
 S'Joue-les-Tours'
 p813
@@ -2870,7 +2870,7 @@ S'37707'
 p815
 sa(dp816
 g5
-I111
+I199
 sg2
 S'Saint-Joseph'
 p817
@@ -2884,7 +2884,7 @@ S'37550'
 p819
 sa(dp820
 g5
-I4570
+I79066
 sg2
 S'Poissy'
 p821
@@ -2898,7 +2898,7 @@ S'37461'
 p823
 sa(dp824
 g5
-I4258
+I75280
 sg2
 S'Savigny-sur-Orge'
 p825
@@ -2912,7 +2912,7 @@ S'37206'
 p827
 sa(dp828
 g5
-I155
+I596
 sg2
 S'Montelimar'
 p829
@@ -2926,7 +2926,7 @@ S'36643'
 p831
 sa(dp832
 g5
-I143
+I6092
 sg2
 S'Villefranche-sur-Saone'
 p833
@@ -2940,7 +2940,7 @@ S'36531'
 p835
 sa(dp836
 g5
-I4594
+I89577
 sg2
 S'Stains'
 p837
@@ -2954,7 +2954,7 @@ S'36365'
 p839
 sa(dp840
 g5
-I111
+I390
 sg2
 S'Saint-Benoit'
 p841
@@ -2968,7 +2968,7 @@ S'36131'
 p843
 sa(dp844
 g5
-I4640
+I90549
 sg2
 S'Bagnolet'
 p845
@@ -2982,7 +2982,7 @@ S'35984'
 p847
 sa(dp848
 g5
-I4791
+I92861
 sg2
 S'Ch\xc3\xa2tillon'
 p849
@@ -2996,7 +2996,7 @@ S'35964'
 p851
 sa(dp852
 g5
-I111
+I282
 sg2
 S'Le Port'
 p853
@@ -3010,7 +3010,7 @@ S'35881'
 p855
 sa(dp856
 g5
-I3766
+I59778
 sg2
 S'Sainte-Genevieve-des-Bois'
 p857
@@ -3024,7 +3024,7 @@ S'35868'
 p859
 sa(dp860
 g5
-I111
+I26
 sg2
 S'Saint-Martin'
 p861
@@ -3036,7 +3036,7 @@ S'36594'
 p863
 sa(dp864
 g5
-I203
+I3049
 sg2
 S'Echirolles'
 p865
@@ -3050,7 +3050,7 @@ S'35684'
 p867
 sa(dp868
 g5
-I114
+I1002
 sg2
 S'Roanne'
 p869
@@ -3064,7 +3064,7 @@ S'35507'
 p871
 sa(dp872
 g5
-I3909
+I73252
 sg2
 S'Villepinte'
 p873
@@ -3078,7 +3078,7 @@ S'35329'
 p875
 sa(dp876
 g5
-I49
+I3299
 sg2
 S'Saint-Chamond'
 p877
@@ -3092,7 +3092,7 @@ S'35308'
 p879
 sa(dp880
 g5
-I4430
+I76972
 sg2
 S'Conflans-Sainte-Honorine'
 p881
@@ -3106,7 +3106,7 @@ S'35213'
 p883
 sa(dp884
 g5
-I133
+I951
 sg2
 S'Auxerre'
 p885
@@ -3120,7 +3120,7 @@ S'34869'
 p887
 sa(dp888
 g5
-I133
+I560
 sg2
 S'Nevers'
 p889
@@ -3134,7 +3134,7 @@ S'34841'
 p891
 sa(dp892
 g5
-I4391
+I84511
 sg2
 S'Neuilly-sur-Marne'
 p893
@@ -3148,7 +3148,7 @@ S'34756'
 p895
 sa(dp896
 g5
-I213
+I5579
 sg2
 S'La Ciotat'
 p897
@@ -3162,7 +3162,7 @@ S'34655'
 p899
 sa(dp900
 g5
-I3785
+I71696
 sg2
 S'Tremblay-en-France'
 p901
@@ -3176,7 +3176,7 @@ S'34614'
 p903
 sa(dp904
 g5
-I55
+I2432
 sg2
 S'Thonon-les-Bains'
 p905
@@ -3190,7 +3190,7 @@ S'34610'
 p907
 sa(dp908
 g5
-I438
+I9056
 sg2
 S'Vitrolles'
 p909
@@ -3204,7 +3204,7 @@ S'34493'
 p911
 sa(dp912
 g5
-I15
+I2268
 sg2
 S'Haguenau'
 p913
@@ -3218,7 +3218,7 @@ S'34419'
 p915
 sa(dp916
 g5
-I118
+I2978
 sg2
 S'Six-Fours-les-Plages'
 p917
@@ -3232,7 +3232,7 @@ S'34387'
 p919
 sa(dp920
 g5
-I28
+I1298
 sg2
 S'Agen'
 p921
@@ -3246,7 +3246,7 @@ S'34344'
 p923
 sa(dp924
 g5
-I122
+I2424
 sg2
 S'Creil'
 p925
@@ -3260,7 +3260,7 @@ S'34262'
 p927
 sa(dp928
 g5
-I134
+I5487
 sg2
 S'Annemasse'
 p929
@@ -3274,7 +3274,7 @@ S'34261'
 p931
 sa(dp932
 g5
-I95
+I2495
 sg2
 S'Saint-Rapha\xc3\xabl'
 p933
@@ -3288,7 +3288,7 @@ S'34005'
 p935
 sa(dp936
 g5
-I429
+I8776
 sg2
 S'Marignane'
 p937
@@ -3302,7 +3302,7 @@ S'33986'
 p939
 sa(dp940
 g5
-I14
+I1246
 sg2
 S'Romans-sur-Isere'
 p941
@@ -3316,7 +3316,7 @@ S'33632'
 p943
 sa(dp944
 g5
-I2118
+I47136
 sg2
 S'Montigny-le-Bretonneux'
 p945
@@ -3330,7 +3330,7 @@ S'33625'
 p947
 sa(dp948
 g5
-I4608
+I88538
 sg2
 S'Le Perreux-sur-Marne'
 p949
@@ -3344,7 +3344,7 @@ S'33480'
 p951
 sa(dp952
 g5
-I4597
+I84480
 sg2
 S'Franconville'
 p953
@@ -3358,7 +3358,7 @@ S'33375'
 p955
 sa(dp956
 g5
-I133
+I950
 sg2
 S'M\xc3\xa2con'
 p957
@@ -3372,7 +3372,7 @@ S'33350'
 p959
 sa(dp960
 g5
-I133
+I769
 sg2
 S'Saint-Leu'
 p961
@@ -3386,7 +3386,7 @@ S'33154'
 p963
 sa(dp964
 g5
-I25
+I1336
 sg2
 S'Cambrai'
 p965
@@ -3400,7 +3400,7 @@ S'32852'
 p967
 sa(dp968
 g5
-I4785
+I91449
 sg2
 S'Ch\xc3\xa2tenay-Malabry'
 p969
@@ -3414,7 +3414,7 @@ S'32623'
 p971
 sa(dp972
 g5
-I111
+I456
 sg2
 S'Sainte-Marie'
 p973
@@ -3428,7 +3428,7 @@ S'32605'
 p975
 sa(dp976
 g5
-I4560
+I87334
 sg2
 S'Villeneuve-Saint-Georges'
 p977
@@ -3442,7 +3442,7 @@ S'32575'
 p979
 sa(dp980
 g5
-I4811
+I90654
 sg2
 S'Houilles'
 p981
@@ -3456,7 +3456,7 @@ S'32287'
 p983
 sa(dp984
 g5
-I22
+I921
 sg2
 S'Epinal'
 p985
@@ -3470,7 +3470,7 @@ S'32188'
 p987
 sa(dp988
 g5
-I91
+I3822
 sg2
 S'Lens'
 p989
@@ -3484,7 +3484,7 @@ S'31647'
 p991
 sa(dp992
 g5
-I91
+I3487
 sg2
 S'Lievin'
 p993
@@ -3498,7 +3498,7 @@ S'31517'
 p995
 sa(dp996
 g5
-I1003
+I20295
 sg2
 S'Les Mureaux'
 p997
@@ -3512,7 +3512,7 @@ S'31487'
 p999
 sa(dp1000
 g5
-I136
+I6717
 sg2
 S'Schiltigheim'
 p1001
@@ -3526,7 +3526,7 @@ S'31450'
 p1003
 sa(dp1004
 g5
-I111
+I295
 sg2
 S'La Possession'
 p1005
@@ -3540,7 +3540,7 @@ S'31439'
 p1007
 sa(dp1008
 g5
-I502
+I15138
 sg2
 S'Meyzieu'
 p1009
@@ -3554,7 +3554,7 @@ S'31438'
 p1011
 sa(dp1012
 g5
-I32
+I1421
 sg2
 S'Dreux'
 p1013
@@ -3568,7 +3568,7 @@ S'31373'
 p1015
 sa(dp1016
 g5
-I4615
+I89530
 sg2
 S'Nogent-sur-Marne'
 p1017
@@ -3582,7 +3582,7 @@ S'31367'
 p1019
 sa(dp1020
 g5
-I1766
+I35960
 sg2
 S'Plaisir'
 p1021
@@ -3596,7 +3596,7 @@ S'31342'
 p1023
 sa(dp1024
 g5
-I25
+I851
 sg2
 S'Mont-de-Marsan'
 p1025
@@ -3610,7 +3610,7 @@ S'31334'
 p1027
 sa(dp1028
 g5
-I4733
+I87336
 sg2
 S'Palaiseau'
 p1029
@@ -3624,7 +3624,7 @@ S'31264'
 p1031
 sa(dp1032
 g5
-I199
+I713
 sg2
 S'Ch\xc3\xa2tellerault'
 p1033
@@ -3638,7 +3638,7 @@ S'31262'
 p1035
 sa(dp1036
 g5
-I3967
+I72008
 sg2
 S'Goussainville'
 p1037
@@ -3652,7 +3652,7 @@ S'31212'
 p1039
 sa(dp1040
 g5
-I4748
+I93258
 sg2
 S"L'Ha\xc3\xbf-les-Roses"
 p1041
@@ -3666,7 +3666,7 @@ S'31201'
 p1043
 sa(dp1044
 g5
-I4151
+I73917
 sg2
 S'Viry-Ch\xc3\xa2tillon'
 p1045
@@ -3680,7 +3680,7 @@ S'31132'
 p1047
 sa(dp1048
 g5
-I4429
+I81641
 sg2
 S'Vigneux-sur-Seine'
 p1049
@@ -3694,7 +3694,7 @@ S'31126'
 p1051
 sa(dp1052
 g5
-I2019
+I42771
 sg2
 S'Trappes'
 p1053
@@ -3708,7 +3708,7 @@ S'30979'
 p1055
 sa(dp1056
 g5
-I4816
+I90197
 sg2
 S'Chatou'
 p1057
@@ -3722,7 +3722,7 @@ S'30809'
 p1059
 sa(dp1060
 g5
-I4140
+I78102
 sg2
 S'Clichy-sous-Bois'
 p1061
@@ -3736,7 +3736,7 @@ S'30725'
 p1063
 sa(dp1064
 g5
-I242
+I6565
 sg2
 S"Villenave-d'Ornon"
 p1065
@@ -3750,7 +3750,7 @@ S'30663'
 p1067
 sa(dp1068
 g5
-I501
+I15177
 sg2
 S'Rillieux-la-Pape'
 p1069
@@ -3764,7 +3764,7 @@ S'30645'
 p1071
 sa(dp1072
 g5
-I67
+I3346
 sg2
 S'Maubeuge'
 p1073
@@ -3778,7 +3778,7 @@ S'30567'
 p1075
 sa(dp1076
 g5
-I4681
+I92012
 sg2
 S'Charenton-le-Pont'
 p1077
@@ -3792,7 +3792,7 @@ S'30408'
 p1079
 sa(dp1080
 g5
-I4761
+I93075
 sg2
 S'Malakoff'
 p1081
@@ -3806,7 +3806,7 @@ S'30303'
 p1083
 sa(dp1084
 g5
-I0
+I233
 sg2
 S'Matoury'
 p1085
@@ -3820,7 +3820,7 @@ S'30244'
 p1087
 sa(dp1088
 g5
-I155
+I1086
 sg2
 S'Dieppe'
 p1089
@@ -3834,7 +3834,7 @@ S'30214'
 p1091
 sa(dp1092
 g5
-I4574
+I86837
 sg2
 S'Athis-Mons'
 p1093
@@ -3848,7 +3848,7 @@ S'30094'
 p1095
 sa(dp1096
 g5
-I741
+I15522
 sg2
 S'Savigny-le-Temple'
 p1097
@@ -3862,7 +3862,7 @@ S'30068'
 p1099
 sa(dp1100
 g5
-I25
+I1255
 sg2
 S'Perigueux'
 p1101
@@ -3876,7 +3876,7 @@ S'30036'
 p1103
 sa(dp1104
 g5
-I122
+I343
 sg2
 S'Baie-Mahault'
 p1105

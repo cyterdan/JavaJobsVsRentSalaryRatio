@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta property="og:title" content="Cost of Living in Marseille" />
-<meta property="og:description" content="Average prices of more than 40 products and services in Marseille, France updated Feb 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
+<meta property="og:description" content="Average prices of more than 40 products and services in Marseille, France updated Mar 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
 <meta property="og:type" content="website"/>
 <meta property="og:url" content="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Marseille"/>
             <script type="text/javascript" src="../common/numbeo_standard.js"></script>
@@ -53,7 +53,7 @@ $.fn.hoverClass = function(c) {
 </script>
 
 </div>
-<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<table style="border-spacing: 0px; width: 100%; margin-top: 7px; margin-bottom: 1px;" >
 <tr>
 <td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
 <a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
@@ -315,7 +315,7 @@ jQuery('#dispatch_form').submit();     },
 </nav>
 
 <div class="table_indices limit_size_ad_right table_indices_bigger">
-Cost of living in <span class="purple_light">Marseille</span> is 24.53%<span class="green_light"> lower</span> than in <span class="rose_light">Paris</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=France&amp;city=Marseille" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 606.13&#8364; and for four person family at 2,197.44&#8364; (without rent).</span></div>
+Cost of living in <span class="purple_light">Marseille</span> is 26.41%<span class="green_light"> lower</span> than in <span class="rose_light">Paris</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=France&amp;city=Marseille" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 611.93&#8364; and for four person family at 2,219.66&#8364; (without rent).</span></div>
 
 <aside><div class="seeding-call disabled_on_small_devices">
     Do you live in <span class="purple_light">Marseille</span>? <span class="we_need_your_help">We need your help: <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Marseille&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMarseille&amp;tracking=standardEnterData" rel="nofollow" class="enterDataA">Add data for Marseille! </a></span></div></aside>
@@ -396,6 +396,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
              <option value="ILS">ILS</option>
              <option value="INR">INR</option>
              <option value="IQD">IQD</option>
+             <option value="IRR">IRR</option>
              <option value="ISK">ISK</option>
              <option value="ITL">ITL</option>
              <option value="JMD">JMD</option>
@@ -506,12 +507,12 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td>Meal, Inexpensive Restaurant </td> <td style="text-align: right" class="priceValue "> 12.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-10.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">13.00</span></td>
+10.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">15.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 40.00&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 42.50&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-30.00</span><span class="barLeft" style="width: 18px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">50.00</span></td>
+30.00</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 26px;" ></span><span class="barTextRight">58.00</span></td>
  </tr>
 <tr><td>McMeal at McDonalds (or Equivalent Combo Meal) </td> <td style="text-align: right" class="priceValue "> 8.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -672,7 +673,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.27&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-1.10</span><span class="barLeft" style="width: 9px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 7px;" ></span><span class="barTextRight">1.40</span></td>
+1.10</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">1.44</span></td>
  </tr>
 <tr><td>Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) </td> <td style="text-align: right" class="priceValue "> 16,500.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -682,10 +683,10 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Utilities (Monthly)</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Marseille&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMarseille&amp;current=3&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 85.43&nbsp;&#8364;</td>
+<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 86.08&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-66.11</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 13px;" ></span><span class="barTextRight">100.00</span></td>
+66.11</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">100.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 0.21&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -700,51 +701,51 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Sports And Leisure</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Marseille&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMarseille&amp;current=4&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Fitness Club, Monthly Fee for 1 Adult </td> <td style="text-align: right" class="priceValue "> 36.33&nbsp;&#8364;</td>
+<tr><td>Fitness Club, Monthly Fee for 1 Adult </td> <td style="text-align: right" class="priceValue "> 37.78&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-30.00</span><span class="barLeft" style="width: 11px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">40.00</span></td>
+30.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">45.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Tennis Court Rent (1 Hour on Weekend) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 11.67&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
 10.00</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 20px;" ></span><span class="barTextRight">15.00</span></td>
  </tr>
-<tr><td>Cinema, International Release, 1 Seat </td> <td style="text-align: right" class="priceValue "> 9.50&nbsp;&#8364;</td>
+<tr><td>Cinema, International Release, 1 Seat </td> <td style="text-align: right" class="priceValue "> 9.25&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-8.00</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 9px;" ></span><span class="barTextRight">10.70</span></td>
+8.50</span><span class="barLeft" style="width: 5px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">10.70</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Clothing And Shoes</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Marseille&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMarseille&amp;current=5&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 69.00&nbsp;&#8364;</td>
+<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 72.50&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-30.00</span><span class="barLeft" style="width: 40px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 23px;" ></span><span class="barTextRight">90.00</span></td>
+30.00</span><span class="barLeft" style="width: 42px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 18px;" ></span><span class="barTextRight">90.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 34.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
 30.00</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">40.00</span></td>
  </tr>
-<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 76.11&nbsp;&#8364;</td>
+<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 79.38&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-50.00</span><span class="barLeft" style="width: 24px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 13px;" ></span><span class="barTextRight">90.00</span></td>
+70.00</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 9px;" ></span><span class="barTextRight">90.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 86.00&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 85.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-50.00</span><span class="barLeft" style="width: 30px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 29px;" ></span><span class="barTextRight">120.00</span></td>
+50.00</span><span class="barLeft" style="width: 30px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 30px;" ></span><span class="barTextRight">120.00</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Rent Per Month</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Marseille&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMarseille&amp;current=6&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Apartment (1 bedroom) in City Centre </td> <td style="text-align: right" class="priceValue "> 543.75&nbsp;&#8364;</td>
+<tr><td>Apartment (1 bedroom) in City Centre </td> <td style="text-align: right" class="priceValue "> 550.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-500.00</span><span class="barLeft" style="width: 5px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">650.00</span></td>
+500.00</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">650.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Apartment (1 bedroom) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 434.17&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -764,10 +765,10 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Buy Apartment Price</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Marseille&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMarseille&amp;current=7&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Price per Square Meter to Buy Apartment in City Centre </td> <td style="text-align: right" class="priceValue "> 3,366.67&nbsp;&#8364;</td>
+<tr><td>Price per Square Meter to Buy Apartment in City Centre </td> <td style="text-align: right" class="priceValue "> 3,275.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-2,800.00</span><span class="barLeft" style="width: 12px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 24px;" ></span><span class="barTextRight">4,500.00</span></td>
+2,800.00</span><span class="barLeft" style="width: 10px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 27px;" ></span><span class="barTextRight">4,500.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Price per Square Meter to Buy Apartment Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2,650.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
@@ -777,12 +778,12 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Marseille&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DMarseille&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 1,694.91&nbsp;&#8364;</td>
+<tr><td>Average Monthly Disposable Salary (Net After Tax) </td> <td style="text-align: right" class="priceValue "> 1,694.91&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
 1,300.00</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 27px;" ></span><span class="barTextRight">2,311.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.07</td>
+<tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 3.05</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
 2.80</span><span class="barLeft" style="width: 5px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">3.50</span></td>
@@ -791,7 +792,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <h2>Prices in Marseille, France</h2>
 <div style="display: inline">
 These data are based on 494 entries in the past 18 months from 47 different contributors.
-<br/>Last update: February, 2016
+<br/>Last update: March, 2016
 </div>
 
 <!-- social share start -->
@@ -848,13 +849,6 @@ $(document).ready(function() {
 </script>
 </div>
 
-<nav>
-<div class="fancy_explanation">
-<ul><li>
-Marseille has 1<sup>st</sup> <span class="rank_lowest">Least Expensive</span> Chicken Breasts (Boneless, Skinless), (1kg), Markets in Western Europe out of 45 cities). See More <a href="http://www.numbeo.com/cost-of-living/city_analysis?country=France&amp;city=Marseille" class="discreet_link">Price Rankings for Marseille</a></li>
-<li><a href="http://www.numbeo.com/cost-of-living/city_history?country=France&amp;city=Marseille"  class="discreet_link">Historical Data in Marseille</a></li>
-<li>See <a href="http://www.numbeo.com/cost-of-living/city_basket_analysis?country=France&amp;city=Marseille" class="discreet_link">Analysis of our Consumer Price Basket in Marseille</a></li></ul></div>
-</nav>
 
 <div class="standard_margin">
 <div class="chart_bar"><script type="text/javascript">
@@ -863,13 +857,13 @@ Marseille has 1<sup>st</sup> <span class="rank_lowest">Least Expensive</span> Ch
       function chartCpi_5420() {
       var data = google.visualization.arrayToDataTable([
                 ['Category', 'Amount in USD'],
-          ['Transportation', 387.34],
-          ['Clothing And Shoes', 102.57],
-          ['Sports And Leisure', 194.08],
-          ['Markets', 1015.07],
-          ['Utilities (Monthly)', 197.45],
-          ['Rent Per Month', 766.54],
-          ['Restaurants', 515.93]
+          ['Transportation', 395.85],
+          ['Clothing And Shoes', 107.25],
+          ['Sports And Leisure', 200.67],
+          ['Markets', 1038.72],
+          ['Utilities (Monthly)', 202.79],
+          ['Rent Per Month', 786.17],
+          ['Restaurants', 537.85]
         ]);
 
         var options = {

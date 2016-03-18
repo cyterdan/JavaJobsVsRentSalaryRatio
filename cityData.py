@@ -30,7 +30,7 @@ def extractNumbeo(soup,containsText) :
 for i,place in enumerate(places) :
 	print place
 	if not 'javaJobs' in place :
-		response = requests.get(urllib.unquote("http://www.indeed.fr/emplois?q=java&l="+place['city']).decode('utf8'))
+		response = requests.get(urllib.unquote("http://www.indeed.fr/emplois?q=&l="+place['city']).decode('utf8'))
 		soup = BeautifulSoup(response.text)
 		count = [div.text for div in soup.findAll('div', attrs={'id': 'searchCount'})]
 		if count : 

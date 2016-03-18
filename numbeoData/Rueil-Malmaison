@@ -53,7 +53,7 @@ $.fn.hoverClass = function(c) {
 </script>
 
 </div>
-<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<table style="border-spacing: 0px; width: 100%; margin-top: 7px; margin-bottom: 1px;" >
 <tr>
 <td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
 <a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
@@ -395,6 +395,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
              <option value="ILS">ILS</option>
              <option value="INR">INR</option>
              <option value="IQD">IQD</option>
+             <option value="IRR">IRR</option>
              <option value="ISK">ISK</option>
              <option value="ITL">ITL</option>
              <option value="JMD">JMD</option>
@@ -599,13 +600,15 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Transportation</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Rueil-Malmaison&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DRueil-Malmaison&amp;current=2&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>One-way Ticket (Local Transport) </td> <td style="text-align: right" class="priceValue "> 1.70&nbsp;&#8364;</td>
+<tr><td>One-way Ticket (Local Transport) </td> <td style="text-align: right" class="priceValue "> 1.90&nbsp;&#8364;</td>
 <td class="priceBarTd ">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+1.70</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">2.10</span></td>
  </tr>
 <tr><td class="tr_highlighted">Monthly Pass (Regular Price) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 70.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+70.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">70.00</span></td>
  </tr>
 <tr><td>Taxi Start (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> 3.50&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -617,77 +620,91 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr><td>Taxi 1hour Waiting (Normal Tariff) </td> <td style="text-align: right" class="priceValue "> ?</td>
 <td class=""></td>
  </tr>
-<tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.25&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.27&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+1.25</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">1.30</span></td>
  </tr>
-<tr><td>Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) </td> <td style="text-align: right" class="priceValue "> ?</td>
-<td class=""></td>
+<tr><td>Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) </td> <td style="text-align: right" class="priceValue "> 22,000.00&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Utilities (Monthly)</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Rueil-Malmaison&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DRueil-Malmaison&amp;current=3&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 450.00&nbsp;&#8364;</td>
+<tr><td>Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment </td> <td style="text-align: right" class="priceValue "> 366.67&nbsp;&#8364;</td>
 <td class="priceBarTd ">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+283.33</span><span class="barLeft" style="width: 15px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">450.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) </td> <td style="text-align: right" class="priceValue tr_highlighted"> ?</td>
 <td class="tr_highlighted"></td>
  </tr>
-<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 45.00&nbsp;&#8364;</td>
+<tr><td>Internet (10 Mbps, Unlimited Data, Cable/ADSL) </td> <td style="text-align: right" class="priceValue "> 32.50&nbsp;&#8364;</td>
 <td class="priceBarTd ">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+20.00</span><span class="barLeft" style="width: 28px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 28px;" ></span><span class="barTextRight">45.00</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Sports And Leisure</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Rueil-Malmaison&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DRueil-Malmaison&amp;current=4&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Fitness Club, Monthly Fee for 1 Adult </td> <td style="text-align: right" class="priceValue "> 55.00&nbsp;&#8364;</td>
+<tr><td>Fitness Club, Monthly Fee for 1 Adult </td> <td style="text-align: right" class="priceValue "> 52.50&nbsp;&#8364;</td>
 <td class="priceBarTd ">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+50.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">55.00</span></td>
  </tr>
 <tr><td class="tr_highlighted">Tennis Court Rent (1 Hour on Weekend) </td> <td style="text-align: right" class="priceValue tr_highlighted"> ?</td>
 <td class="tr_highlighted"></td>
  </tr>
-<tr><td>Cinema, International Release, 1 Seat </td> <td style="text-align: right" class="priceValue "> 12.00&nbsp;&#8364;</td>
+<tr><td>Cinema, International Release, 1 Seat </td> <td style="text-align: right" class="priceValue "> 10.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+8.00</span><span class="barLeft" style="width: 14px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 14px;" ></span><span class="barTextRight">12.00</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Clothing And Shoes</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Rueil-Malmaison&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DRueil-Malmaison&amp;current=5&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 75.00&nbsp;&#8364;</td>
+<tr><td>1 Pair of Jeans (Levis 501 Or Similar) </td> <td style="text-align: right" class="priceValue "> 87.50&nbsp;&#8364;</td>
 <td class="priceBarTd ">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+75.00</span><span class="barLeft" style="width: 9px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">100.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> ?</td>
-<td class="tr_highlighted"></td>
- </tr>
-<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 110.00&nbsp;&#8364;</td>
-<td class="priceBarTd ">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
- </tr>
-<tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 180.00&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">1 Summer Dress in a Chain Store (Zara, H&amp;M, ...) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 50.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+ </tr>
+<tr><td>1 Pair of Nike Running Shoes (Mid-Range) </td> <td style="text-align: right" class="priceValue "> 115.00&nbsp;&#8364;</td>
+<td class="priceBarTd ">
+<span class="barTextLeft">
+110.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">120.00</span></td>
+ </tr>
+<tr><td class="tr_highlighted">1 Pair of Men Leather Business Shoes </td> <td style="text-align: right" class="priceValue tr_highlighted"> 140.00&nbsp;&#8364;</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+100.00</span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight">180.00</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Rent Per Month</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Rueil-Malmaison&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DRueil-Malmaison&amp;current=6&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Apartment (1 bedroom) in City Centre </td> <td style="text-align: right" class="priceValue "> 900.00&nbsp;&#8364;</td>
+<tr><td>Apartment (1 bedroom) in City Centre </td> <td style="text-align: right" class="priceValue "> 800.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+700.00</span><span class="barLeft" style="width: 8px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 9px;" ></span><span class="barTextRight">900.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">Apartment (1 bedroom) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 700.00&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Apartment (1 bedroom) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 675.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+650.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">700.00</span></td>
  </tr>
-<tr><td>Apartment (3 bedrooms) in City Centre </td> <td style="text-align: right" class="priceValue "> 1,500.00&nbsp;&#8364;</td>
+<tr><td>Apartment (3 bedrooms) in City Centre </td> <td style="text-align: right" class="priceValue "> 1,450.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+1,400.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">1,500.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">Apartment (3 bedrooms) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1,300.00&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Apartment (3 bedrooms) Outside of Centre </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1,250.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
-<span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+<span class="barTextLeft">
+1,200.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 3px;" ></span><span class="barTextRight">1,300.00</span></td>
  </tr>
 <tr> <th class="highlighted_th prices">Buy Apartment Price</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Rueil-Malmaison&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DRueil-Malmaison&amp;current=7&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
@@ -703,18 +720,20 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Rueil-Malmaison&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DRueil-Malmaison&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> ?</td>
-<td class=""></td>
- </tr>
-<tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.50</td>
-<td class="priceBarTd tr_highlighted">
+<tr><td>Average Monthly Disposable Salary (Net After Tax) </td> <td style="text-align: right" class="priceValue "> 2,000.00&nbsp;&#8364;</td>
+<td class="priceBarTd ">
 <span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
+ </tr>
+<tr><td class="tr_highlighted">Mortgage Interest Rate in Percentages (%), Yearly </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.25</td>
+<td class="priceBarTd tr_highlighted">
+<span class="barTextLeft">
+2.00</span><span class="barLeft" style="width: 7px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 8px;" ></span><span class="barTextRight">2.50</span></td>
  </tr>
 </table>
 <h2>Prices in Rueil-Malmaison, France</h2>
 <div style="display: inline">
-These data are based on 28 entries in the past 12 months from 1 different contributors.
-<br/>Last update: November, 2015
+These data are based on 46 entries in the past 12 months from 2 different contributors.
+<br/>Last update: March, 2016
 </div>
 
 <!-- social share start -->

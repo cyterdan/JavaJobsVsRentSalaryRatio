@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta property="og:title" content="Cost of Living in Nantes" />
-<meta property="og:description" content="Average prices of more than 40 products and services in Nantes, France updated Feb 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
+<meta property="og:description" content="Average prices of more than 40 products and services in Nantes, France updated Mar 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
 <meta property="og:type" content="website"/>
 <meta property="og:url" content="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Nantes"/>
             <script type="text/javascript" src="../common/numbeo_standard.js"></script>
@@ -53,7 +53,7 @@ $.fn.hoverClass = function(c) {
 </script>
 
 </div>
-<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<table style="border-spacing: 0px; width: 100%; margin-top: 7px; margin-bottom: 1px;" >
 <tr>
 <td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
 <a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
@@ -315,7 +315,7 @@ jQuery('#dispatch_form').submit();     },
 </nav>
 
 <div class="table_indices limit_size_ad_right table_indices_bigger">
-Cost of living in <span class="purple_light">Nantes</span> is 16.40%<span class="green_light"> lower</span> than in <span class="rose_light">Paris</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=France&amp;city=Nantes" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 701.64&#8364; and for four person family at 2,533.06&#8364; (without rent).</span></div>
+Cost of living in <span class="purple_light">Nantes</span> is 18.97%<span class="green_light"> lower</span> than in <span class="rose_light">Paris</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=France&amp;city=Nantes" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 701.92&#8364; and for four person family at 2,534.03&#8364; (without rent).</span></div>
 
 <aside><div class="seeding-call disabled_on_small_devices">
     Do you live in <span class="purple_light">Nantes</span>? <span class="we_need_your_help">We need your help: <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Nantes&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DNantes&amp;tracking=standardEnterData" rel="nofollow" class="enterDataA">Add data for Nantes! </a></span></div></aside>
@@ -396,6 +396,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
              <option value="ILS">ILS</option>
              <option value="INR">INR</option>
              <option value="IQD">IQD</option>
+             <option value="IRR">IRR</option>
              <option value="ISK">ISK</option>
              <option value="ITL">ITL</option>
              <option value="JMD">JMD</option>
@@ -667,10 +668,10 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <td class="priceBarTd ">
 <span class="barTextLeft"></span><span class="barLeft" style="width: 20px;" ></span><span class="barMid"></span><span class="barRight" style="width: 21px;" ></span><span class="barTextRight"></span></td>
  </tr>
-<tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.32&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Gasoline (1 liter) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 1.30&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-1.20</span><span class="barLeft" style="width: 6px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">1.44</span></td>
+1.20</span><span class="barLeft" style="width: 4px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">1.40</span></td>
  </tr>
 <tr><td>Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) </td> <td style="text-align: right" class="priceValue "> 19,450.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -775,7 +776,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Nantes&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DNantes&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 2,213.50&nbsp;&#8364;</td>
+<tr><td>Average Monthly Disposable Salary (Net After Tax) </td> <td style="text-align: right" class="priceValue "> 2,213.50&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
 1,600.00</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 26px;" ></span><span class="barTextRight">3,000.00</span></td>
@@ -788,8 +789,8 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 </table>
 <h2>Prices in Nantes, France</h2>
 <div style="display: inline">
-These data are based on 341 entries in the past 18 months from 36 different contributors.
-<br/>Last update: February, 2016
+These data are based on 343 entries in the past 18 months from 37 different contributors.
+<br/>Last update: March, 2016
 </div>
 
 <!-- social share start -->
@@ -846,13 +847,6 @@ $(document).ready(function() {
 </script>
 </div>
 
-<nav>
-<div class="fancy_explanation">
-<ul><li>
-Nantes has 1<sup>st</sup> <span class="rank_highest">Most Expensive</span> Banana (1kg), Markets in Europe out of 203 cities). See More <a href="http://www.numbeo.com/cost-of-living/city_analysis?country=France&amp;city=Nantes" class="discreet_link">Price Rankings for Nantes</a></li>
-<li><a href="http://www.numbeo.com/cost-of-living/city_history?country=France&amp;city=Nantes"  class="discreet_link">Historical Data in Nantes</a></li>
-<li>See <a href="http://www.numbeo.com/cost-of-living/city_basket_analysis?country=France&amp;city=Nantes" class="discreet_link">Analysis of our Consumer Price Basket in Nantes</a></li></ul></div>
-</nav>
 
 <div class="standard_margin">
 <div class="chart_bar"><script type="text/javascript">
@@ -861,13 +855,13 @@ Nantes has 1<sup>st</sup> <span class="rank_highest">Most Expensive</span> Banan
       function chartCpi_5424() {
       var data = google.visualization.arrayToDataTable([
                 ['Category', 'Amount in USD'],
-          ['Transportation', 435.79],
-          ['Clothing And Shoes', 107.14],
-          ['Sports And Leisure', 204.06],
-          ['Markets', 1117.63],
-          ['Utilities (Monthly)', 251.01],
-          ['Rent Per Month', 733.82],
-          ['Restaurants', 556.89]
+          ['Transportation', 444.33],
+          ['Clothing And Shoes', 109.64],
+          ['Sports And Leisure', 208.81],
+          ['Markets', 1143.67],
+          ['Utilities (Monthly)', 256.86],
+          ['Rent Per Month', 750.92],
+          ['Restaurants', 569.87]
         ]);
 
         var options = {

@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta property="og:title" content="Cost of Living in Rennes" />
-<meta property="og:description" content="Average prices of more than 40 products and services in Rennes, France updated Feb 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
+<meta property="og:description" content="Average prices of more than 40 products and services in Rennes, France updated Mar 2016. Prices of restaurants, food, transportation, utilities and housing are included. " />
 <meta property="og:type" content="website"/>
 <meta property="og:url" content="http://www.numbeo.com/cost-of-living/city_result.jsp?country=France&amp;city=Rennes"/>
             <script type="text/javascript" src="../common/numbeo_standard.js"></script>
@@ -53,7 +53,7 @@ $.fn.hoverClass = function(c) {
 </script>
 
 </div>
-<table style="border-spacing: 0px; width: 100%; margin-top: 5px; margin-bottom: 1px;" >
+<table style="border-spacing: 0px; width: 100%; margin-top: 7px; margin-bottom: 1px;" >
 <tr>
 <td style="padding-top: 0px; padding-bottom: 4px; vertical-align: bottom;">
 <a href="http://www.numbeo.com/cost-of-living/" style="border: 0; text-decoration:none;">
@@ -315,7 +315,7 @@ jQuery('#dispatch_form').submit();     },
 </nav>
 
 <div class="table_indices limit_size_ad_right table_indices_bigger">
-Cost of living in <span class="purple_light">Rennes</span> is 12.73%<span class="green_light"> lower</span> than in <span class="rose_light">Paris</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=France&amp;city=Rennes" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 730.55&#8364; and for four person family at 2,623.76&#8364; (without rent).</span></div>
+Cost of living in <span class="purple_light">Rennes</span> is 15.09%<span class="green_light"> lower</span> than in <span class="rose_light">Paris</span> <a href="http://www.numbeo.com/cost-of-living/rankings_current.jsp" title="CPI Details" style="float: right; margin-right: 2em; text-align: right"><img src="http://www.numbeo.com/images/information.png" class="image_help" alt="(Info)"></a><span style="margin-top: 0.5em; display: inline-block; width: 100%;"><a href="http://www.numbeo.com/cost-of-living/city_estimator?country=France&amp;city=Rennes" class="discreet_link">Our estimator</a> (with default settings) estimate monthly expenses for a single person at 734.22&#8364; and for four person family at 2,637.77&#8364; (without rent).</span></div>
 
 <aside><div class="seeding-call disabled_on_small_devices">
     Do you live in <span class="purple_light">Rennes</span>? <span class="we_need_your_help">We need your help: <a href="http://www.numbeo.com/common/form.jsp?country=France&amp;city=Rennes&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DRennes&amp;tracking=standardEnterData" rel="nofollow" class="enterDataA">Add data for Rennes! </a></span></div></aside>
@@ -396,6 +396,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
              <option value="ILS">ILS</option>
              <option value="INR">INR</option>
              <option value="IQD">IQD</option>
+             <option value="IRR">IRR</option>
              <option value="ISK">ISK</option>
              <option value="ITL">ITL</option>
              <option value="JMD">JMD</option>
@@ -508,30 +509,30 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <span class="barTextLeft">
 10.00</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 12px;" ></span><span class="barTextRight">12.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 40.00&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Meal for 2 People, Mid-range Restaurant, Three-course </td> <td style="text-align: right" class="priceValue tr_highlighted"> 42.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-40.00</span><span class="barLeft" style="width: 1px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 6px;" ></span><span class="barTextRight">45.00</span></td>
+40.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 5px;" ></span><span class="barTextRight">45.00</span></td>
  </tr>
 <tr><td>McMeal at McDonalds (or Equivalent Combo Meal) </td> <td style="text-align: right" class="priceValue "> 8.00&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
 7.50</span><span class="barLeft" style="width: 3px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 4px;" ></span><span class="barTextRight">8.50</span></td>
  </tr>
-<tr><td class="tr_highlighted">Domestic Beer (0.5 liter draught) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 4.80&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Domestic Beer (0.5 liter draught) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 5.00&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-3.00</span><span class="barLeft" style="width: 26px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">5.50</span></td>
+3.40</span><span class="barLeft" style="width: 21px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 1px;" ></span><span class="barTextRight">5.00</span></td>
  </tr>
-<tr><td>Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 3.25&nbsp;&#8364;</td>
+<tr><td>Imported Beer (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 3.50&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
-2.50</span><span class="barLeft" style="width: 16px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 17px;" ></span><span class="barTextRight">4.00</span></td>
+2.50</span><span class="barLeft" style="width: 19px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 11px;" ></span><span class="barTextRight">4.00</span></td>
  </tr>
-<tr><td class="tr_highlighted">Cappuccino (regular) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.10&nbsp;&#8364;</td>
+<tr><td class="tr_highlighted">Cappuccino (regular) </td> <td style="text-align: right" class="priceValue tr_highlighted"> 2.08&nbsp;&#8364;</td>
 <td class="priceBarTd tr_highlighted">
 <span class="barTextLeft">
-2.00</span><span class="barLeft" style="width: 3px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 9px;" ></span><span class="barTextRight">2.40</span></td>
+2.00</span><span class="barLeft" style="width: 2px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 10px;" ></span><span class="barTextRight">2.40</span></td>
  </tr>
 <tr><td>Coke/Pepsi (0.33 liter bottle) </td> <td style="text-align: right" class="priceValue "> 1.95&nbsp;&#8364;</td>
 <td class="priceBarTd ">
@@ -776,7 +777,7 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 <tr> <th class="highlighted_th prices">Salaries And Financing</th> <th class="th_no_highlight_a_right prices"> [ <a href="http://www.numbeo.com/common/form.jsp?city=Rennes&amp;country=France&amp;returnUrl=%2Fcost-of-living%2Fcity_result.jsp%3Fcountry%3DFrance%26city%3DRennes&amp;current=8&amp;section=true&amp;tracking=editHref" rel="nofollow">Edit</a> ] Avg. </th>
 <th class="th_no_highlight prices"></th>
 </tr>
-<tr><td>Average Monthly Disposable Salary (After Tax) </td> <td style="text-align: right" class="priceValue "> 2,133.33&nbsp;&#8364;</td>
+<tr><td>Average Monthly Disposable Salary (Net After Tax) </td> <td style="text-align: right" class="priceValue "> 2,133.33&nbsp;&#8364;</td>
 <td class="priceBarTd ">
 <span class="barTextLeft">
 2,000.00</span><span class="barLeft" style="width: 3px;" ></span><span class="barMid"><span class="barMid-nocss">-</span></span><span class="barRight" style="width: 2px;" ></span><span class="barTextRight">2,200.00</span></td>
@@ -789,8 +790,8 @@ Currency:          <select id="displayCurrency" name="displayCurrency" onchange=
 </table>
 <h2>Prices in Rennes, France</h2>
 <div style="display: inline">
-These data are based on 314 entries in the past 18 months from 35 different contributors.
-<br/>Last update: February, 2016
+These data are based on 319 entries in the past 18 months from 36 different contributors.
+<br/>Last update: March, 2016
 </div>
 
 <!-- social share start -->
@@ -847,13 +848,6 @@ $(document).ready(function() {
 </script>
 </div>
 
-<nav>
-<div class="fancy_explanation">
-<ul><li>
-Rennes has 16<sup>th</sup> <span class="rank_highest">Most Expensive</span> Beef Round (1kg) (or Equivalent Back Leg Red Meat) in the World (out of 539 cities). See More <a href="http://www.numbeo.com/cost-of-living/city_analysis?country=France&amp;city=Rennes" class="discreet_link">Price Rankings for Rennes</a></li>
-<li><a href="http://www.numbeo.com/cost-of-living/city_history?country=France&amp;city=Rennes"  class="discreet_link">Historical Data in Rennes</a></li>
-<li>See <a href="http://www.numbeo.com/cost-of-living/city_basket_analysis?country=France&amp;city=Rennes" class="discreet_link">Analysis of our Consumer Price Basket in Rennes</a></li></ul></div>
-</nav>
 
 <div class="standard_margin">
 <div class="chart_bar"><script type="text/javascript">
@@ -862,13 +856,13 @@ Rennes has 16<sup>th</sup> <span class="rank_highest">Most Expensive</span> Beef
       function chartCpi_5429() {
       var data = google.visualization.arrayToDataTable([
                 ['Category', 'Amount in USD'],
-          ['Transportation', 392.72],
-          ['Clothing And Shoes', 133.81],
-          ['Sports And Leisure', 198.57],
-          ['Markets', 1316.05],
-          ['Utilities (Monthly)', 263.51],
-          ['Rent Per Month', 712.56],
-          ['Restaurants', 485.24]
+          ['Transportation', 401.87],
+          ['Clothing And Shoes', 136.92],
+          ['Sports And Leisure', 203.20],
+          ['Markets', 1346.72],
+          ['Utilities (Monthly)', 269.65],
+          ['Rent Per Month', 729.17],
+          ['Restaurants', 506.67]
         ]);
 
         var options = {
